@@ -2,9 +2,96 @@
  {
   "date": "2026-10-28",
   "title": "Shock: classify it by mechanism, prove it with the numbers",
-  "description": "Consultant tutorial: defining shock, the four mechanisms with the haemodynamic pattern for each, and the limits of bedside perfusion signs in a ventilated patient. Then an examiner and candidate work a cardiogenic versus septic shock data question. Study day Wednesday 28 October.\n\nChapters:\n0:00 Tutorial: classifying shock\n12:05 Exam practice: cardiogenic vs septic shock\n16:53 Close",
+  "description": "Consultant tutorial: defining shock, the four mechanisms with the haemodynamic pattern for each, and the limits of bedside perfusion signs in a ventilated patient. Then an examiner and candidate work a cardiogenic versus septic shock data question. Study day Wednesday 28 October.",
   "file": "episodes/2026-10-28.mp3",
   "bytes": 6161745,
-  "seconds": 1026.8
+  "seconds": 1026.8,
+  "notes": {
+   "chapters": [
+    {
+     "start": 0,
+     "title": "Tutorial: classifying shock"
+    },
+    {
+     "start": 725.3,
+     "title": "Exam practice: cardiogenic vs septic shock"
+    },
+    {
+     "start": 1013.2,
+     "title": "Close"
+    }
+   ],
+   "takeaways": [
+    "Shock is inadequate oxygen delivery or use at the cellular level. Hypotension is common but not required (ESICM 2014 consensus).",
+    "Classify by mechanism: hypovolaemic, cardiogenic, obstructive, distributive (plus cytotoxic). Mixed shock is common. In SOAP II, about 62% of shocked ICU patients were septic and about 2% obstructive.",
+    "Haemodynamic patterns: hypovolaemic = low filling pressures, low output, high SVR, low SvO2. Cardiogenic = wedge high (often >18), CI <2.2 on support, high SVR, low SvO2. Obstructive = low output and high SVR, with pressures set by the site (tamponade equalises diastolic pressures within about 5 mmHg). Distributive = low SVR, normal or high output and SvO2.",
+    "SVR = 80 x (MAP - CVP) / CO; normal 800-1200 dyn.s.cm-5. A high SvO2 in sepsis does not exclude tissue hypoxia.",
+    "Septic shock (Sepsis-3): vasopressor needed for MAP 65 or more and lactate >2 mmol/L despite adequate fluid; hospital mortality >40%.",
+    "Bedside perfusion: CRT >3 s is abnormal. ANDROMEDA-SHOCK: 28-day mortality 34.9% vs 43.4% (P = 0.06). A Pcv-aCO2 gap >6 mmHg suggests low flow. MAP 65 is the default (SEPSISPAM: no mortality difference at 80-85).",
+    "Shock on day 2 after an MI: re-infarction, VSD (oxygen step-up), papillary muscle rupture (large v waves), free wall rupture with tamponade."
+   ],
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual 9e, ch 23: Overview of shock (pp 671-689)",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "Cecconi et al. Consensus on circulatory shock and hemodynamic monitoring (ESICM task force). Intensive Care Med 2014",
+     "url": "https://doi.org/10.1007/s00134-014-3525-z"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Singer et al. Sepsis-3 definitions. JAMA 2016",
+     "url": "https://doi.org/10.1001/jama.2016.0287"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "SOAP II: De Backer et al. Dopamine vs norepinephrine in shock. NEJM 2010",
+     "url": "https://doi.org/10.1056/NEJMoa0907118"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "ANDROMEDA-SHOCK: Hernandez et al. Peripheral perfusion vs lactate targeting. JAMA 2019",
+     "url": "https://doi.org/10.1001/jama.2019.0071"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "SEPSISPAM: Asfar et al. High vs low blood-pressure target in septic shock. NEJM 2014",
+     "url": "https://doi.org/10.1056/NEJMoa1312173"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2010.1 Q16: Different causes of shock",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2010-paper-1-saqs/question-16"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2016.1 Q18: Approach to undifferentiated shock",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2016-paper-1-saqs/question-18"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2022.2 Q30: PA catheter data interpretation",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2022-paper-2-saqs/question-30"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2023.1 Q1: Cardiogenic shock",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2023-paper-1-saqs/question-1"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.2 Q19: Refractory vasodilatory shock",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-2-saqs/question-19"
+    },
+    {
+     "group": "Further reading",
+     "label": "Vincent and De Backer. Circulatory shock (review). NEJM 2013",
+     "url": "https://doi.org/10.1056/NEJMra1208943"
+    }
+   ]
+  }
  }
 ]
