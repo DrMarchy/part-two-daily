@@ -8,6 +8,7 @@
     <description>A daily CICM Second Part episode: a consultant tutorial on one key topic, then an examiner and candidate working an exam-style question. Personal study feed.</description>
     <itunes:summary>A daily CICM Second Part episode: a consultant tutorial on one key topic, then an examiner and candidate working an exam-style question. Personal study feed.</itunes:summary>
     <itunes:author>Part Two Study HQ</itunes:author>
+    <itunes:owner><itunes:name>Part Two Study HQ</itunes:name></itunes:owner>
     <itunes:image href="https://drmarchy.github.io/part-two-daily/cover.jpg"/>
     <image><url>https://drmarchy.github.io/part-two-daily/cover.jpg</url><title>Part Two Daily</title><link>https://drmarchy.github.io/part-two-daily/</link></image>
     <itunes:category text="Education"/>
@@ -16,6 +17,8 @@
     <itunes:type>episodic</itunes:type>
     <item>
       <title>Shock: classify it by mechanism, prove it with the numbers</title>
+      <itunes:title>Shock: classify it by mechanism, prove it with the numbers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
       <description>Consultant tutorial: defining shock, the four mechanisms with the haemodynamic pattern for each, and the limits of bedside perfusion signs in a ventilated patient. Then an examiner and candidate work a cardiogenic versus septic shock data question. Study day Wednesday 28 October.</description>
       <itunes:summary>Consultant tutorial: defining shock, the four mechanisms with the haemodynamic pattern for each, and the limits of bedside perfusion signs in a ventilated patient. Then an examiner and candidate work a cardiogenic versus septic shock data question. Study day Wednesday 28 October.</itunes:summary>
       <enclosure url="https://drmarchy.github.io/part-two-daily/episodes/2026-10-28.mp3" length="6161517" type="audio/mpeg"/>
