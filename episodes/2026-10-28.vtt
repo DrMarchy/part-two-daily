@@ -1,0 +1,745 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.813
+<v Tutor>Welcome to Part Two Daily.
+
+2
+00:00:01.813 --> 00:00:05.600
+<v Tutor>This is the episode for Wednesday the twenty-eighth of October.
+
+3
+00:00:05.600 --> 00:00:11.467
+<v Tutor>Today is a light, reading-only day, so I've picked a topic that runs underneath half the paper: shock.
+
+4
+00:00:11.467 --> 00:00:17.280
+<v Tutor>What it is, how you classify it, and how a handful of numbers tells you which kind you're looking at.
+
+5
+00:00:17.280 --> 00:00:25.760
+<v Tutor>Get this framework solid and it pays off in cardiac questions, sepsis questions, trauma, and almost every haemodynamic data set the examiners give you.
+
+6
+00:00:26.160 --> 00:00:29.971
+<v Tutor>Start with the definition, because candidates lose easy marks here.
+
+7
+00:00:29.971 --> 00:00:31.647
+<v Tutor>Shock is not hypotension.
+
+8
+00:00:31.647 --> 00:00:41.149
+<v Tutor>Shock is a life-threatening, generalised failure of the circulation, in which oxygen delivery is inadequate for the cells' needs, or the cells cannot use the oxygen they're given.
+
+9
+00:00:41.149 --> 00:00:43.130
+<v Tutor>The result is cellular dysoxia.
+
+10
+00:00:43.130 --> 00:00:50.955
+<v Tutor>That's the wording of the European Society of Intensive Care Medicine consensus from 2014, and the key point is that blood pressure can be normal.
+
+11
+00:00:50.955 --> 00:00:58.119
+<v Tutor>A young patient can hold a mean arterial pressure of 75 by clamping down their peripheries while their gut and kidneys are ischaemic.
+
+12
+00:00:58.119 --> 00:01:06.960
+<v Tutor>So when an examiner asks you to define shock, say inadequate oxygen delivery or utilisation at the tissue level, then say that hypotension is common but not required.
+
+13
+00:01:07.360 --> 00:01:10.742
+<v Tutor>Now the physiology you need to hang everything on.
+
+14
+00:01:10.742 --> 00:01:15.406
+<v Tutor>Oxygen delivery is cardiac output multiplied by arterial oxygen content.
+
+15
+00:01:15.406 --> 00:01:26.250
+<v Tutor>Arterial oxygen content is 1.34 times the haemoglobin, times the saturation, plus a small dissolved fraction of 0.003 times the arterial oxygen tension in millimetres of mercury.
+
+16
+00:01:26.250 --> 00:01:36.453
+<v Tutor>In a healthy adult, delivery is around 1000 millilitres of oxygen per minute and consumption is around 250, so the tissues extract about a quarter of what's delivered.
+
+17
+00:01:36.453 --> 00:01:41.175
+<v Tutor>That's why mixed venous saturation normally sits around 65 to 75 percent.
+
+18
+00:01:41.175 --> 00:01:46.364
+<v Tutor>When delivery falls, the tissues extract more, and mixed venous saturation drops.
+
+19
+00:01:46.364 --> 00:01:56.800
+<v Tutor>Below a critical delivery threshold, extraction can't rise any further, consumption becomes supply dependent, the cells switch to anaerobic metabolism, and lactate climbs.
+
+20
+00:01:57.200 --> 00:02:01.223
+<v Tutor>The other relationship is pressure equals flow times resistance.
+
+21
+00:02:01.223 --> 00:02:07.815
+<v Tutor>Mean arterial pressure minus central venous pressure equals cardiac output times systemic vascular resistance.
+
+22
+00:02:07.815 --> 00:02:16.363
+<v Tutor>Rearranged, systemic vascular resistance is 80 times the mean arterial pressure minus the central venous pressure, divided by the cardiac output.
+
+23
+00:02:16.363 --> 00:02:20.833
+<v Tutor>Normal is roughly 800 to 1200 dynes seconds per centimetre to the fifth.
+
+24
+00:02:20.833 --> 00:02:28.040
+<v Tutor>Learn to do that sum quickly, with the units, because data questions give you the numbers and expect you to calculate it.
+
+25
+00:02:28.440 --> 00:02:29.961
+<v Tutor>So, classification.
+
+26
+00:02:29.961 --> 00:02:35.537
+<v Tutor>The classic scheme is Weil and Shubin's, from 1971, and it's still what the examiners want.
+
+27
+00:02:35.537 --> 00:02:36.888
+<v Tutor>Four mechanisms.
+
+28
+00:02:36.888 --> 00:02:40.380
+<v Tutor>First, hypovolaemic: not enough volume in the circuit.
+
+29
+00:02:40.380 --> 00:02:42.858
+<v Tutor>Second, cardiogenic: the pump fails.
+
+30
+00:02:42.858 --> 00:02:47.083
+<v Tutor>Third, obstructive: something blocks flow into or out of the heart.
+
+31
+00:02:47.083 --> 00:02:51.588
+<v Tutor>Fourth, distributive: the vessels lose tone and blood is maldistributed.
+
+32
+00:02:51.588 --> 00:03:01.445
+<v Tutor>Many people add a fifth, cytotoxic or dissociative shock, where delivery is adequate but the mitochondria can't use oxygen, as in cyanide or carbon monoxide poisoning.
+
+33
+00:03:01.445 --> 00:03:04.261
+<v Tutor>And always say that mixed shock is common.
+
+34
+00:03:04.261 --> 00:03:10.400
+<v Tutor>The septic patient is often hypovolaemic before resuscitation and may have septic cardiomyopathy too.
+
+35
+00:03:10.800 --> 00:03:13.565
+<v Tutor>Give the examiners some sense of scale.
+
+36
+00:03:13.565 --> 00:03:27.864
+<v Tutor>In the SOAP Two trial of nearly 1700 patients with shock, about 62 percent had septic shock, about 16 percent cardiogenic, about 16 percent hypovolaemic, around 4 percent other distributive causes, and only about 2 percent obstructive.
+
+37
+00:03:27.864 --> 00:03:36.160
+<v Tutor>So in your ICU, distributive shock from sepsis dominates, but obstructive shock is the one you can fix in minutes if you think of it.
+
+38
+00:03:36.560 --> 00:03:41.777
+<v Tutor>Now the haemodynamic pattern for each, which is the part that gets tabulated in a written answer.
+
+39
+00:03:41.777 --> 00:03:52.061
+<v Tutor>On paper you'd draw a table with the shock types down the side, and across the top: central venous pressure, wedge pressure, cardiac output, systemic vascular resistance, and mixed venous saturation.
+
+40
+00:03:52.061 --> 00:03:53.800
+<v Tutor>I'll talk through each row.
+
+41
+00:03:54.200 --> 00:03:55.774
+<v Tutor>Hypovolaemic shock.
+
+42
+00:03:55.774 --> 00:04:00.553
+<v Tutor>Filling pressures are low, both the central venous pressure and the wedge.
+
+43
+00:04:00.553 --> 00:04:03.933
+<v Tutor>Cardiac output is low, because there's no preload.
+
+44
+00:04:03.933 --> 00:04:08.304
+<v Tutor>Vascular resistance is high, as the sympathetic system clamps down.
+
+45
+00:04:08.304 --> 00:04:12.442
+<v Tutor>Mixed venous saturation is low, because extraction has gone up.
+
+46
+00:04:12.442 --> 00:04:26.080
+<v Tutor>Divide the causes into haemorrhagic, such as trauma, gastrointestinal bleeding and ruptured aneurysm, and non-haemorrhagic, such as vomiting and diarrhoea, burns, diabetic ketoacidosis and losses into the gut lumen or tissues.
+
+47
+00:04:26.480 --> 00:04:27.987
+<v Tutor>Cardiogenic shock.
+
+48
+00:04:27.987 --> 00:04:32.857
+<v Tutor>Here the filling pressures are high, particularly the wedge, often above 18.
+
+49
+00:04:32.857 --> 00:04:34.596
+<v Tutor>Cardiac output is low.
+
+50
+00:04:34.596 --> 00:04:42.190
+<v Tutor>The trial definitions use a cardiac index below 2.2 litres per minute per square metre on support, or below 1.8 without it.
+
+51
+00:04:42.190 --> 00:04:45.784
+<v Tutor>Resistance is high and mixed venous saturation is low.
+
+52
+00:04:45.784 --> 00:04:58.769
+<v Tutor>The commonest cause is acute myocardial infarction with left ventricular failure, but list the others: myocarditis, acute valve lesions, arrhythmias, post-cardiotomy stunning, Takotsubo, and end-stage cardiomyopathy.
+
+53
+00:04:58.769 --> 00:05:02.247
+<v Tutor>One variant to know is right ventricular infarction.
+
+54
+00:05:02.247 --> 00:05:10.305
+<v Tutor>The central venous pressure is high, but the wedge is normal or low, and the right atrial pressure approaches or exceeds the wedge.
+
+55
+00:05:10.305 --> 00:05:14.247
+<v Tutor>Those patients need preload and an adequate rate and rhythm.
+
+56
+00:05:14.247 --> 00:05:16.160
+<v Tutor>Nitrates make them worse.
+
+57
+00:05:16.560 --> 00:05:17.995
+<v Tutor>Obstructive shock.
+
+58
+00:05:17.995 --> 00:05:24.176
+<v Tutor>Cardiac output is low and resistance is high, so it looks like cardiogenic shock from the arterial side.
+
+59
+00:05:24.176 --> 00:05:27.763
+<v Tutor>The filling pressures depend on where the obstruction is.
+
+60
+00:05:27.763 --> 00:05:30.799
+<v Tutor>In tamponade, the diastolic pressures equalise.
+
+61
+00:05:30.799 --> 00:05:41.340
+<v Tutor>Central venous pressure, right ventricular diastolic pressure and wedge all sit within about 5 millimetres of mercury of each other, and you may find pulsus paradoxus greater than 10.
+
+62
+00:05:41.340 --> 00:05:49.452
+<v Tutor>In massive pulmonary embolism, the central venous pressure is high, the wedge is normal or low, and the right ventricle is dilated on echo.
+
+63
+00:05:49.452 --> 00:05:54.806
+<v Tutor>In tension pneumothorax, venous return is impaired and the central venous pressure rises.
+
+64
+00:05:54.806 --> 00:06:03.360
+<v Tutor>The key exam point is that all three are fixed by a procedure rather than a drug: pericardial drainage, thrombolysis or embolectomy, decompression.
+
+65
+00:06:03.760 --> 00:06:06.383
+<v Tutor>Distributive shock is the odd one out.
+
+66
+00:06:06.383 --> 00:06:07.866
+<v Tutor>Resistance is low.
+
+67
+00:06:07.866 --> 00:06:14.310
+<v Tutor>Cardiac output is normal or high once the patient has had fluid, and filling pressures are low to normal.
+
+68
+00:06:14.310 --> 00:06:17.161
+<v Tutor>Mixed venous saturation is normal or high.
+
+69
+00:06:17.161 --> 00:06:22.578
+<v Tutor>That's the trap: a high venous saturation doesn't mean the tissues are well oxygenated.
+
+70
+00:06:22.578 --> 00:06:30.333
+<v Tutor>In sepsis, microcirculatory shunting and mitochondrial dysfunction mean oxygen isn't extracted, and lactate can still be rising.
+
+71
+00:06:30.333 --> 00:06:38.317
+<v Tutor>Causes are sepsis, anaphylaxis, neurogenic shock, adrenal crisis, liver failure, vasoplegia after cardiopulmonary bypass, and drugs.
+
+72
+00:06:38.317 --> 00:06:47.840
+<v Tutor>For neurogenic shock, say high spinal cord injury, above about T6, with hypotension, bradycardia and warm peripheries, because the sympathetic outflow is lost.
+
+73
+00:06:48.240 --> 00:06:53.139
+<v Tutor>While we're on sepsis, have the Sepsis-3 definition of septic shock word perfect.
+
+74
+00:06:53.139 --> 00:07:02.882
+<v Tutor>It's sepsis requiring a vasopressor to keep the mean arterial pressure at 65 or above, with a lactate above 2 millimoles per litre, despite adequate fluid resuscitation.
+
+75
+00:07:02.882 --> 00:07:06.680
+<v Tutor>Hospital mortality with that combination is above 40 percent.
+
+76
+00:07:07.080 --> 00:07:14.700
+<v Tutor>Now the second part of today's reading: the bedside signs of hypoperfusion, and their limits in a sedated, ventilated patient.
+
+77
+00:07:14.700 --> 00:07:16.463
+<v Tutor>Think of three windows.
+
+78
+00:07:16.463 --> 00:07:18.908
+<v Tutor>The brain, the kidney and the skin.
+
+79
+00:07:18.908 --> 00:07:24.083
+<v Tutor>The brain window is mental state, and in a sedated patient it's essentially closed.
+
+80
+00:07:24.083 --> 00:07:29.087
+<v Tutor>The kidney window is urine output below half a millilitre per kilogram per hour.
+
+81
+00:07:29.087 --> 00:07:35.172
+<v Tutor>It lags, and it's confounded by diuretics, established acute kidney injury, and a blocked catheter.
+
+82
+00:07:35.172 --> 00:07:38.697
+<v Tutor>The skin window is capillary refill time and mottling.
+
+83
+00:07:38.697 --> 00:07:45.635
+<v Tutor>Capillary refill is normal at 3 seconds or less, measured by firm pressure on the fingertip for about ten seconds.
+
+84
+00:07:45.635 --> 00:07:50.127
+<v Tutor>Mottling can be scored from 0 to 5 by how far it spreads from the knee.
+
+85
+00:07:50.127 --> 00:07:57.520
+<v Tutor>Both are confounded by vasopressors, hypothermia, peripheral vascular disease, and they are harder to read on darker skin.
+
+86
+00:07:57.920 --> 00:07:59.323
+<v Tutor>Know the trial.
+
+87
+00:07:59.323 --> 00:08:08.837
+<v Tutor>ANDROMEDA-SHOCK randomised 424 patients with septic shock to resuscitation targeting a normal capillary refill time, or targeting lactate clearance.
+
+88
+00:08:08.837 --> 00:08:16.155
+<v Tutor>Twenty-eight day mortality was 34.9 percent in the capillary refill group and 43.4 percent in the lactate group.
+
+89
+00:08:16.155 --> 00:08:24.755
+<v Tutor>That wasn't statistically significant, with a p value of 0.06, but the capillary refill group had less organ dysfunction at 72 hours.
+
+90
+00:08:24.755 --> 00:08:33.720
+<v Tutor>The message for the exam is that peripheral perfusion is a valid, fast, cheap target, and it responds within minutes, whereas lactate lags.
+
+91
+00:08:34.120 --> 00:08:35.925
+<v Tutor>Lactate itself has limits.
+
+92
+00:08:35.925 --> 00:08:39.693
+<v Tutor>It's a marker of stress and of clearance as much as of hypoxia.
+
+93
+00:08:39.693 --> 00:08:43.515
+<v Tutor>Adrenaline and salbutamol raise it through beta-two stimulation.
+
+94
+00:08:43.515 --> 00:08:45.745
+<v Tutor>Liver failure slows its clearance.
+
+95
+00:08:45.745 --> 00:08:49.779
+<v Tutor>Metformin and other type B causes raise it without any shock at all.
+
+96
+00:08:49.779 --> 00:08:52.274
+<v Tutor>So use the trend, not the single value.
+
+97
+00:08:52.274 --> 00:08:54.768
+<v Tutor>Two more flow markers are worth naming.
+
+98
+00:08:54.768 --> 00:08:59.386
+<v Tutor>Central venous oxygen saturation below 70 percent suggests inadequate delivery.
+
+99
+00:08:59.386 --> 00:09:07.720
+<v Tutor>A venous-to-arterial carbon dioxide gap greater than 6 millimetres of mercury suggests inadequate flow, even when the venous saturation looks normal.
+
+100
+00:09:08.120 --> 00:09:09.738
+<v Tutor>And blood pressure.
+
+101
+00:09:09.738 --> 00:09:13.812
+<v Tutor>The usual starting target is a mean arterial pressure of 65.
+
+102
+00:09:13.812 --> 00:09:25.316
+<v Tutor>In SEPSISPAM, targeting 80 to 85 rather than 65 to 70 made no difference to mortality, but chronically hypertensive patients needed less renal replacement therapy at the higher target.
+
+103
+00:09:25.316 --> 00:09:29.390
+<v Tutor>There was more atrial fibrillation in the high-target group.
+
+104
+00:09:29.390 --> 00:09:36.520
+<v Tutor>So individualise: 65 as the default, higher in a patient with long-standing hypertension who is oliguric at 65.
+
+105
+00:09:36.920 --> 00:09:41.791
+<v Tutor>Finally, the fastest test that separates the four mechanisms at the bedside is echo.
+
+106
+00:09:41.791 --> 00:09:51.851
+<v Tutor>In about two minutes you can look at left ventricular function, right ventricular size, any pericardial effusion, and the stroke volume from the outflow tract velocity time integral.
+
+107
+00:09:51.851 --> 00:09:56.829
+<v Tutor>Normal is around 18 to 22 centimetres, and below about 10 is a very low stroke volume.
+
+108
+00:09:56.829 --> 00:10:01.329
+<v Tutor>Echo turns a guess into a mechanism, and the mechanism decides the treatment.
+
+109
+00:10:01.329 --> 00:10:03.024
+<v Tutor>Volume for hypovolaemia.
+
+110
+00:10:03.024 --> 00:10:07.736
+<v Tutor>Inotropy, revascularisation and possibly mechanical support for the failing pump.
+
+111
+00:10:07.736 --> 00:10:09.430
+<v Tutor>Relieve the obstruction.
+
+112
+00:10:09.430 --> 00:10:11.760
+<v Tutor>Restore tone for distributive shock.
+
+113
+00:10:12.160 --> 00:10:14.552
+<v Tutor>Here's your recap, three numbers.
+
+114
+00:10:14.552 --> 00:10:21.027
+<v Tutor>One: about six in ten shocked ICU patients are septic, and only about two in a hundred are obstructive.
+
+115
+00:10:21.027 --> 00:10:31.178
+<v Tutor>Two: a capillary refill time over 3 seconds is abnormal, and ANDROMEDA-SHOCK found 35 versus 43 percent mortality, which was not significant but points the right way.
+
+116
+00:10:31.178 --> 00:10:41.678
+<v Tutor>Three: in cardiogenic shock, a cardiac index under 2.2 on support with a wedge above 18, while distributive shock has low resistance and a normal or high venous saturation.
+
+117
+00:10:41.678 --> 00:10:45.120
+<v Tutor>Now let's hear how this sounds under exam pressure.
+
+118
+00:10:46.520 --> 00:10:47.863
+<v Examiner>Good morning.
+
+119
+00:10:47.863 --> 00:10:50.869
+<v Examiner>This is a data interpretation question.
+
+120
+00:10:50.869 --> 00:11:01.741
+<v Examiner>A 64-year-old man is in intensive care, two days after an anterior ST elevation myocardial infarction treated with a stent to the left anterior descending artery.
+
+121
+00:11:01.741 --> 00:11:04.747
+<v Examiner>He has become hypotensive and confused.
+
+122
+00:11:04.747 --> 00:11:08.073
+<v Examiner>He has a pulmonary artery catheter in place.
+
+123
+00:11:08.073 --> 00:11:11.015
+<v Examiner>His heart rate is 118 in sinus rhythm.
+
+124
+00:11:11.015 --> 00:11:13.957
+<v Examiner>Blood pressure is 88 over 58, mean 68.
+
+125
+00:11:13.957 --> 00:11:16.195
+<v Examiner>Central venous pressure 14.
+
+126
+00:11:16.195 --> 00:11:18.945
+<v Examiner>Pulmonary artery wedge pressure 26.
+
+127
+00:11:18.945 --> 00:11:23.038
+<v Examiner>Cardiac output 3.2 litres per minute, cardiac index 1.7.
+
+128
+00:11:23.038 --> 00:11:25.788
+<v Examiner>Mixed venous saturation 48 percent.
+
+129
+00:11:25.788 --> 00:11:27.068
+<v Examiner>Lactate 5.2.
+
+130
+00:11:27.068 --> 00:11:32.120
+<v Examiner>First, what type of shock is this, and how do the numbers support that?
+
+131
+00:11:32.620 --> 00:11:34.569
+<v Candidate>This is cardiogenic shock.
+
+132
+00:11:34.569 --> 00:11:38.007
+<v Candidate>The cardiac index is low at 1.7, which is below 2.2.
+
+133
+00:11:38.007 --> 00:11:45.171
+<v Candidate>The wedge pressure is high at 26, so the left ventricle is failing with a high filling pressure, not short of volume.
+
+134
+00:11:45.171 --> 00:11:52.793
+<v Candidate>The mixed venous saturation is low at 48 percent, which means the tissues are extracting a lot of oxygen because flow is low.
+
+135
+00:11:52.793 --> 00:11:56.117
+<v Candidate>And the lactate of 5.2 shows tissue hypoperfusion.
+
+136
+00:11:56.117 --> 00:11:59.900
+<v Candidate>He's also confused, which fits hypoperfusion of the brain.
+
+137
+00:12:00.400 --> 00:12:03.120
+<v Examiner>Calculate his systemic vascular resistance.
+
+138
+00:12:03.620 --> 00:12:11.476
+<v Candidate>It's 80 times the mean arterial pressure minus the central venous pressure, divided by cardiac output.
+
+139
+00:12:11.476 --> 00:12:17.547
+<v Candidate>So 80 times 68 minus 14, which is 80 times 54, which is 4320, divided by 3.2.
+
+140
+00:12:17.547 --> 00:12:22.261
+<v Candidate>That gives 1350 dynes seconds per centimetre to the fifth.
+
+141
+00:12:22.261 --> 00:12:28.260
+<v Candidate>That's high, which fits compensatory vasoconstriction in a low-output state.
+
+142
+00:12:28.760 --> 00:12:29.359
+<v Examiner>Good.
+
+143
+00:12:29.359 --> 00:12:31.158
+<v Examiner>It's day two after his infarct.
+
+144
+00:12:31.158 --> 00:12:34.800
+<v Examiner>What specific causes of this deterioration would you look for, and how?
+
+145
+00:12:35.300 --> 00:12:44.237
+<v Candidate>I'd think about extension of the infarct or stent thrombosis, so a twelve-lead ECG and troponin, and discuss urgent repeat angiography with cardiology.
+
+146
+00:12:44.237 --> 00:12:46.598
+<v Candidate>Then the mechanical complications.
+
+147
+00:12:46.598 --> 00:12:57.446
+<v Candidate>A ventricular septal rupture, which would cause a new harsh systolic murmur and a step-up in oxygen saturation between the right atrium and the pulmonary artery on the catheter samples.
+
+148
+00:12:57.446 --> 00:13:04.865
+<v Candidate>Acute mitral regurgitation from papillary muscle rupture, with large v waves on the wedge trace and a flail leaflet on echo.
+
+149
+00:13:04.865 --> 00:13:12.060
+<v Candidate>I'd also check for arrhythmias, and right ventricular involvement, although that's less likely with an anterior infarct.
+
+150
+00:13:12.560 --> 00:13:15.460
+<v Examiner>You've missed one mechanical complication that kills quickly.
+
+151
+00:13:15.460 --> 00:13:17.520
+<v Examiner>What else would you look for on the echo?
+
+152
+00:13:18.020 --> 00:13:21.630
+<v Candidate>Free wall rupture, with haemopericardium and tamponade.
+
+153
+00:13:21.630 --> 00:13:27.990
+<v Candidate>On echo I'd look for a pericardial effusion with right atrial and right ventricular diastolic collapse.
+
+154
+00:13:27.990 --> 00:13:32.173
+<v Candidate>On the catheter, the diastolic pressures would start to equalise.
+
+155
+00:13:32.173 --> 00:13:36.700
+<v Candidate>That needs emergency surgery, with pericardiocentesis only as a bridge.
+
+156
+00:13:37.200 --> 00:13:38.863
+<v Examiner>Second data set.
+
+157
+00:13:38.863 --> 00:13:46.969
+<v Examiner>Four days later he's ventilated, febrile at 38.9, on noradrenaline at 0.3 micrograms per kilogram per minute.
+
+158
+00:13:46.969 --> 00:13:48.562
+<v Examiner>Heart rate 110.
+
+159
+00:13:48.562 --> 00:13:50.918
+<v Examiner>Mean arterial pressure 58.
+
+160
+00:13:50.918 --> 00:13:53.343
+<v Examiner>Central venous pressure 10.
+
+161
+00:13:53.343 --> 00:13:54.520
+<v Examiner>Wedge 12.
+
+162
+00:13:54.520 --> 00:13:56.322
+<v Examiner>Cardiac index 4.2.
+
+163
+00:13:56.322 --> 00:13:59.301
+<v Examiner>Mixed venous saturation 78 percent.
+
+164
+00:13:59.301 --> 00:14:00.687
+<v Examiner>Lactate 3.8.
+
+165
+00:14:00.687 --> 00:14:02.280
+<v Examiner>Interpret this.
+
+166
+00:14:02.780 --> 00:14:06.084
+<v Candidate>This is now distributive shock, most likely septic.
+
+167
+00:14:06.084 --> 00:14:16.332
+<v Candidate>The cardiac index has risen to 4.2, the filling pressures are normal, and he's hypotensive despite a significant dose of noradrenaline, so his vascular resistance must be low.
+
+168
+00:14:16.332 --> 00:14:19.580
+<v Candidate>The mixed venous saturation is high at 78 percent.
+
+169
+00:14:19.580 --> 00:14:22.660
+<v Candidate>That fits impaired oxygen extraction in sepsis.
+
+170
+00:14:22.660 --> 00:14:27.588
+<v Candidate>It doesn't mean his tissues are well perfused, because the lactate is still 3.8.
+
+171
+00:14:27.588 --> 00:14:33.244
+<v Candidate>Likely sources are ventilator-associated pneumonia, a line infection, or the catheter itself.
+
+172
+00:14:33.244 --> 00:14:40.860
+<v Candidate>I'd culture, remove or change the lines, start broad-spectrum antibiotics, and add vasopressin to reduce the noradrenaline dose.
+
+173
+00:14:41.360 --> 00:14:42.289
+<v Examiner>Thank you.
+
+174
+00:14:42.289 --> 00:14:44.355
+<v Examiner>Here's how that would be marked.
+
+175
+00:14:44.355 --> 00:14:52.204
+<v Examiner>Marks come for naming cardiogenic shock and justifying it with three numbers: the low index, the high wedge and the low mixed venous saturation.
+
+176
+00:14:52.204 --> 00:14:55.354
+<v Examiner>Then the resistance calculated correctly, with units.
+
+177
+00:14:55.354 --> 00:15:04.390
+<v Examiner>Then the causes in an orderly list, each with the test that confirms it: re-infarction, septal rupture, papillary muscle rupture, and free wall rupture with tamponade.
+
+178
+00:15:04.390 --> 00:15:14.098
+<v Examiner>In the second set, marks come for distributive shock, with low resistance inferred from the data, and for saying that a high mixed venous saturation doesn't exclude tissue hypoxia.
+
+179
+00:15:14.098 --> 00:15:17.093
+<v Examiner>You missed free wall rupture until I prompted you.
+
+180
+00:15:17.093 --> 00:15:20.656
+<v Examiner>In the written paper there's no prompt, so that mark is gone.
+
+181
+00:15:20.656 --> 00:15:24.116
+<v Examiner>Overall that's a comfortable pass, around seven out of ten.
+
+182
+00:15:24.116 --> 00:15:30.880
+<v Examiner>The one fix is to have the full list of mechanical complications ready as a set, so none of them depends on being reminded.
+
+183
+00:15:32.280 --> 00:15:33.519
+<v Tutor>That's the episode.
+
+184
+00:15:33.519 --> 00:15:34.897
+<v Tutor>Today is reading only.
+
+185
+00:15:34.897 --> 00:15:42.012
+<v Tutor>If you do one active thing, draw the shock table from memory, four rows and five columns, then check it against the shock overview chapter in Oh's.
+
+186
+00:15:42.012 --> 00:15:43.160
+<v Tutor>See you tomorrow.

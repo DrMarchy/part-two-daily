@@ -4,8 +4,10 @@
   "title": "Deep dive: rhabdomyolysis and crush, the kidney in the line of fire",
   "description": "Wednesday deep dive. Rhabdomyolysis and crush injury: where the syndrome came from, the causes the College wants by category, why the kidney fails, the calcium and phosphate traps, and what actually changes outcome. Landmark trials STARRT-AKI and PLUS, then the 2020 first-sitting rhabdomyolysis question read in full and worked by an examiner and candidate.",
   "file": "episodes/2026-10-28-deepdive.mp3",
-  "bytes": 5718760,
-  "seconds": 1429.5,
+  "bytes": 5698600,
+  "seconds": 1424.4,
+  "vtt": "episodes/2026-10-28-deepdive.vtt",
+  "page": "episodes/2026-10-28-deepdive.html",
   "notes": {
    "takeaways": [
     "Rhabdomyolysis is a CK more than 5 times the upper limit of normal (usually above about 1,000 U/L). Kidney injury becomes more likely above about 5,000, but CK alone predicts poorly.",
@@ -110,15 +112,15 @@
      "title": "Introduction"
     },
     {
-     "start": 44.92,
+     "start": 46.52,
      "title": "Tutorial: rhabdomyolysis and crush"
     },
     {
-     "start": 905.88,
+     "start": 901.68,
      "title": "Landmark trials"
     },
     {
-     "start": 1078.22,
+     "start": 1077.66,
      "title": "Exam practice"
     }
    ]
@@ -129,20 +131,22 @@
   "title": "Shock: classify it by mechanism, prove it with the numbers",
   "description": "Consultant tutorial: defining shock, the four mechanisms with the haemodynamic pattern for each, and the limits of bedside perfusion signs in a ventilated patient. Then an examiner and candidate work a cardiogenic versus septic shock data question. Study day Wednesday 28 October.",
   "file": "episodes/2026-10-28.mp3",
-  "bytes": 6161745,
-  "seconds": 1026.8,
+  "bytes": 3773457,
+  "seconds": 943.2,
+  "vtt": "episodes/2026-10-28.vtt",
+  "page": "episodes/2026-10-28.html",
   "notes": {
    "chapters": [
     {
-     "start": 0,
+     "start": 0.0,
      "title": "Tutorial: classifying shock"
     },
     {
-     "start": 725.3,
+     "start": 646.52,
      "title": "Exam practice: cardiogenic vs septic shock"
     },
     {
-     "start": 1013.2,
+     "start": 932.28,
      "title": "Close"
     }
    ],
