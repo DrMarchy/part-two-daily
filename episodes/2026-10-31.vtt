@@ -1,0 +1,2353 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.719
+<v Tutor>Welcome to Part Two Daily.
+
+2
+00:00:01.719 --> 00:00:06.269
+<v Tutor>It's Saturday the thirty-first of October, and this is the Saturday spiral review.
+
+3
+00:00:06.269 --> 00:00:14.965
+<v Tutor>Spiral means we come back to things you've already met, but harder, and joined to another system, because that is exactly how the College writes its long questions.
+
+4
+00:00:14.965 --> 00:00:16.937
+<v Tutor>Today there are three revisits.
+
+5
+00:00:16.937 --> 00:00:24.470
+<v Tutor>First, shock and fluids, from this week: how you prove fluid responsiveness when the usual tests fail, and the rise and fall of the starches.
+
+6
+00:00:24.470 --> 00:00:29.172
+<v Tutor>Second, from three weeks ago, community-acquired pneumonia that isn't getting better.
+
+7
+00:00:29.172 --> 00:00:34.531
+<v Tutor>Third, also from three weeks ago, lactate after cardiac surgery, with a blood gas to work through.
+
+8
+00:00:34.531 --> 00:00:39.384
+<v Tutor>Then a journal watch on PELICAN, a new randomised trial of cardiac index guided therapy.
+
+9
+00:00:39.384 --> 00:00:49.344
+<v Tutor>And we finish with a syllabus round-up: blood gas analysis, interpreting arterial gases, diabetes insipidus, the syndrome of inappropriate antidiuretic hormone, and electrolyte replacement.
+
+10
+00:00:49.344 --> 00:00:51.720
+<v Tutor>There are six pause and answer moments.
+
+11
+00:00:51.720 --> 00:00:54.400
+<v Tutor>When you hear them, stop and answer out loud.
+
+12
+00:00:55.800 --> 00:00:56.885
+<v Tutor>Revisit one.
+
+13
+00:00:56.885 --> 00:00:58.242
+<v Tutor>Shock and fluids.
+
+14
+00:00:58.242 --> 00:00:59.381
+<v Tutor>Picture this.
+
+15
+00:00:59.381 --> 00:01:00.900
+<v Tutor>Day two in the unit.
+
+16
+00:01:00.900 --> 00:01:05.078
+<v Tutor>A sixty-year-old man with faecal peritonitis, back from a laparotomy.
+
+17
+00:01:05.078 --> 00:01:08.117
+<v Tutor>He's ventilated at six millilitres per kilogram.
+
+18
+00:01:08.117 --> 00:01:11.372
+<v Tutor>He's in atrial fibrillation at a hundred and thirty.
+
+19
+00:01:11.372 --> 00:01:15.767
+<v Tutor>Noradrenaline is at 0.25 micrograms per kilogram per minute and climbing.
+
+20
+00:01:15.767 --> 00:01:21.247
+<v Tutor>Urine output has been ten millilitres an hour for four hours, and his creatinine has doubled.
+
+21
+00:01:21.247 --> 00:01:26.022
+<v Tutor>He's had six litres of crystalloid since he arrived in the emergency department.
+
+22
+00:01:26.022 --> 00:01:28.464
+<v Tutor>The nurse asks you a simple question.
+
+23
+00:01:28.464 --> 00:01:30.200
+<v Tutor>Does he need more fluid?
+
+24
+00:01:30.200 --> 00:01:37.362
+<v Tutor>That question has been asked by the College three times as a stand-alone theme in the data we track, in 2008, 2016 and 2020.
+
+25
+00:01:37.362 --> 00:01:43.168
+<v Tutor>And fluid responsiveness turns up inside many more shock questions as a single line of the marking.
+
+26
+00:01:43.168 --> 00:01:47.075
+<v Tutor>Here's the 2016 second sitting, question 24, read word for word.
+
+27
+00:01:47.075 --> 00:01:53.097
+<v Tutor>"With respect to haemodynamic monitoring in the critically ill patient: a, Define fluid responsiveness.
+
+28
+00:01:53.097 --> 00:02:03.352
+<v Tutor>b, Outline the physiological basis and the limitations of the following methods of assessment of fluid responsiveness in a patient on mechanical ventilation: one, Passive leg raise.
+
+29
+00:02:03.352 --> 00:02:05.360
+<v Tutor>Two, Central venous pressure.
+
+30
+00:02:05.540 --> 00:02:16.620
+<v Tutor>Three, Pulse pressure variation." The pass rate was 53 percent, and the examiners wrote that for a core topic, the overall understanding was lacking in a significant number of candidates.
+
+31
+00:02:17.020 --> 00:02:20.042
+<v Tutor>Let's rebuild the answer that earns the marks.
+
+32
+00:02:20.042 --> 00:02:26.421
+<v Tutor>Oh's chapter 24, haemodynamic monitoring, and chapter 58, fluid and electrolyte therapy, are your sources.
+
+33
+00:02:26.421 --> 00:02:28.100
+<v Tutor>First, the definition.
+
+34
+00:02:28.100 --> 00:02:35.934
+<v Tutor>The College answer defines fluid responsiveness as an increase in stroke volume, or cardiac output, of 10 to 15 percent after fluid.
+
+35
+00:02:35.934 --> 00:02:41.865
+<v Tutor>And it adds the line that candidates forget: fluid responsiveness is not the same as hypovolaemia.
+
+36
+00:02:41.865 --> 00:02:44.327
+<v Tutor>Healthy people are fluid responsive.
+
+37
+00:02:44.327 --> 00:02:50.314
+<v Tutor>Being on the steep part of the Frank Starling curve tells you that fluid would raise stroke volume.
+
+38
+00:02:50.314 --> 00:02:53.056
+<v Tutor>It doesn't tell you the patient needs it.
+
+39
+00:02:53.056 --> 00:02:55.518
+<v Tutor>Second, the central venous pressure.
+
+40
+00:02:55.518 --> 00:03:01.730
+<v Tutor>The physiology is that it estimates right atrial pressure, which is the back pressure to venous return.
+
+41
+00:03:01.730 --> 00:03:07.158
+<v Tutor>The limitation is that a single value predicts fluid response no better than a coin toss.
+
+42
+00:03:07.158 --> 00:03:14.880
+<v Tutor>It is changed by intrathoracic pressure, PEEP, tricuspid regurgitation, right ventricular compliance and intra-abdominal pressure.
+
+43
+00:03:14.880 --> 00:03:17.230
+<v Tutor>Its real use is as a safety limit.
+
+44
+00:03:17.230 --> 00:03:27.862
+<v Tutor>A high and rising central venous pressure with no rise in output tells you the right heart has had enough, and venous congestion of the kidney is a real cause of acute kidney injury.
+
+45
+00:03:27.862 --> 00:03:30.100
+<v Tutor>Third, pulse pressure variation.
+
+46
+00:03:30.280 --> 00:03:37.959
+<v Tutor>In a ventilated patient, each positive pressure breath squeezes blood from the lungs into the left heart, then reduces right ventricular filling.
+
+47
+00:03:37.959 --> 00:03:44.082
+<v Tutor>If both ventricles sit on the steep part of their curves, stroke volume and pulse pressure swing with each breath.
+
+48
+00:03:44.082 --> 00:03:50.456
+<v Tutor>A variation above about 12 percent predicts response, with excellent accuracy in the conditions where it was validated.
+
+49
+00:03:50.456 --> 00:03:52.464
+<v Tutor>But those conditions are narrow.
+
+50
+00:03:52.464 --> 00:04:02.000
+<v Tutor>The patient must be fully passive on the ventilator, in sinus rhythm, with a tidal volume of at least 8 millilitres per kilogram, a closed chest, and normal intra-abdominal pressure.
+
+51
+00:04:02.000 --> 00:04:05.011
+<v Tutor>Right ventricular failure gives you false positives.
+
+52
+00:04:05.011 --> 00:04:07.320
+<v Tutor>Low lung compliance blunts the signal.
+
+53
+00:04:07.720 --> 00:04:09.623
+<v Tutor>So here's the first pause.
+
+54
+00:04:09.623 --> 00:04:16.956
+<v Tutor>Our man is in atrial fibrillation, ventilated at six millilitres per kilogram, with a fresh laparotomy and a tense abdomen.
+
+55
+00:04:16.956 --> 00:04:23.225
+<v Tutor>Name three reasons his pulse pressure variation is uninterpretable, and two tests you could use instead.
+
+56
+00:04:23.225 --> 00:04:24.680
+<v Tutor>Pause, and answer.
+
+57
+00:04:30.080 --> 00:04:36.674
+<v Tutor>Three reasons: the arrhythmia makes beat to beat stroke volume vary for reasons that have nothing to do with ventilation.
+
+58
+00:04:36.674 --> 00:04:40.866
+<v Tutor>The low tidal volume makes the swings in intrathoracic pressure too small.
+
+59
+00:04:40.866 --> 00:04:45.723
+<v Tutor>And raised intra-abdominal pressure distorts the transmission of pressure to the heart.
+
+60
+00:04:45.723 --> 00:04:47.154
+<v Tutor>What to use instead.
+
+61
+00:04:47.154 --> 00:04:53.391
+<v Tutor>The passive leg raise, which moves about 300 millilitres of blood from the legs and splanchnic bed into the chest.
+
+62
+00:04:53.391 --> 00:04:56.151
+<v Tutor>It's reversible, and it gives no fluid at all.
+
+63
+00:04:56.151 --> 00:05:03.359
+<v Tutor>But it must be read with a real-time measure of cardiac output, such as the velocity time integral on echo or pulse contour analysis.
+
+64
+00:05:03.359 --> 00:05:06.528
+<v Tutor>Blood pressure alone misses about half the responders.
+
+65
+00:05:06.528 --> 00:05:09.902
+<v Tutor>A rise in output of 10 percent or more is a positive test.
+
+66
+00:05:09.902 --> 00:05:17.621
+<v Tutor>It is unreliable with high intra-abdominal pressure, and you shouldn't do it with raised intracranial pressure, or with a fresh femoral sheath.
+
+67
+00:05:17.621 --> 00:05:19.768
+<v Tutor>The end-expiratory occlusion test.
+
+68
+00:05:19.768 --> 00:05:22.887
+<v Tutor>Hold the ventilator at end expiration for 15 seconds.
+
+69
+00:05:22.887 --> 00:05:29.175
+<v Tutor>That removes the cyclic fall in venous return, and a rise in cardiac output of 5 percent or more predicts response.
+
+70
+00:05:29.175 --> 00:05:35.360
+<v Tutor>It works with arrhythmias and low tidal volumes, as long as the patient can tolerate the hold without triggering.
+
+71
+00:05:35.540 --> 00:05:38.026
+<v Tutor>Two more you can name for a top mark.
+
+72
+00:05:38.026 --> 00:05:48.801
+<v Tutor>The tidal volume challenge: increase tidal volume from six to eight millilitres per kilogram for one minute, and a rise in pulse pressure variation of about 3.5 percent predicts response.
+
+73
+00:05:48.801 --> 00:05:55.818
+<v Tutor>And the mini fluid challenge: 100 millilitres over a minute, with the velocity time integral measured before and after.
+
+74
+00:05:55.818 --> 00:05:59.519
+<v Tutor>And the reference standard is still the fluid bolus itself.
+
+75
+00:05:59.519 --> 00:06:04.768
+<v Tutor>Say 250 millilitres over ten minutes, with a pre-set target and a pre-set safety limit.
+
+76
+00:06:04.768 --> 00:06:07.421
+<v Tutor>It's the only test that actually treats.
+
+77
+00:06:07.421 --> 00:06:12.780
+<v Tutor>But it is irreversible, and repeated boluses are how patients end up ten litres positive.
+
+78
+00:06:13.680 --> 00:06:15.214
+<v Examiner>Let me push you, then.
+
+79
+00:06:15.214 --> 00:06:17.157
+<v Examiner>Say the leg raise is positive.
+
+80
+00:06:17.157 --> 00:06:19.407
+<v Examiner>His cardiac output rises 14 percent.
+
+81
+00:06:19.407 --> 00:06:22.066
+<v Examiner>He's still oliguric, and he's six litres up.
+
+82
+00:06:22.066 --> 00:06:23.600
+<v Examiner>Do you give the fluid?
+
+83
+00:06:24.100 --> 00:06:29.851
+<v Candidate>I think I'd give a small bolus, because he's responsive and his kidneys are hypoperfused.
+
+84
+00:06:29.851 --> 00:06:34.060
+<v Candidate>Maybe 250 millilitres of a balanced crystalloid, then reassess.
+
+85
+00:06:34.560 --> 00:06:36.514
+<v Examiner>That's the answer most candidates give.
+
+86
+00:06:36.514 --> 00:06:37.720
+<v Examiner>What did you not ask?
+
+87
+00:06:38.220 --> 00:06:41.162
+<v Candidate>Whether he needs a higher cardiac output at all.
+
+88
+00:06:41.162 --> 00:06:48.728
+<v Candidate>If his lactate is clearing, his capillary refill is normal, and his venous saturation is fine, then responsiveness alone isn't a reason.
+
+89
+00:06:48.728 --> 00:06:50.987
+<v Candidate>And I didn't look at the harm side.
+
+90
+00:06:50.987 --> 00:06:56.241
+<v Candidate>He's in a positive balance, his abdomen is tense, and his central venous pressure is rising.
+
+91
+00:06:56.241 --> 00:07:01.337
+<v Candidate>Venous congestion and intra-abdominal hypertension can both be driving the kidney injury.
+
+92
+00:07:01.337 --> 00:07:09.060
+<v Candidate>So I'd measure bladder pressure first, and I'd think about raising the noradrenaline, or adding vasopressin, rather than giving more fluid.
+
+93
+00:07:09.560 --> 00:07:10.227
+<v Examiner>Good.
+
+94
+00:07:10.227 --> 00:07:12.895
+<v Examiner>That second answer is the consultant answer.
+
+95
+00:07:12.895 --> 00:07:14.639
+<v Examiner>Three questions, in order.
+
+96
+00:07:14.639 --> 00:07:16.230
+<v Examiner>Is there hypoperfusion?
+
+97
+00:07:16.230 --> 00:07:17.461
+<v Examiner>Will fluid help?
+
+98
+00:07:17.461 --> 00:07:18.795
+<v Examiner>And is fluid safe?
+
+99
+00:07:18.795 --> 00:07:21.720
+<v Examiner>A positive test answers only the middle question.
+
+100
+00:07:22.620 --> 00:07:26.590
+<v Tutor>That brings in the evidence on how much fluid to give.
+
+101
+00:07:26.590 --> 00:07:29.088
+<v Tutor>Two recent trials set the tone.
+
+102
+00:07:29.088 --> 00:07:39.654
+<v Tutor>CLASSIC, in the New England Journal in 2022, restricted fluid after initial resuscitation in septic shock, and 90-day mortality was 42.3 versus 42.1 percent.
+
+103
+00:07:39.654 --> 00:07:41.063
+<v Tutor>No difference.
+
+104
+00:07:41.063 --> 00:07:54.255
+<v Tutor>CLOVERS, in 2023, compared a restrictive, early vasopressor strategy with a liberal fluid strategy in sepsis induced hypotension, and 90-day death before discharge home was 14.0 versus 14.9 percent.
+
+105
+00:07:54.255 --> 00:07:56.112
+<v Tutor>Again, no difference.
+
+106
+00:07:56.112 --> 00:08:07.062
+<v Tutor>The take-home for an exam answer: after the first resuscitation, less fluid and earlier vasopressors is at least as safe, so the burden of proof is on giving more.
+
+107
+00:08:07.062 --> 00:08:12.314
+<v Tutor>Since we've raised vasopressin, here's something new on this week's theme.
+
+108
+00:08:12.314 --> 00:08:20.831
+<v Tutor>VASSPR, published in JAMA on the 14th of October, is a pragmatic cluster crossover trial from 13 hospitals in Utah and Idaho.
+
+109
+00:08:20.831 --> 00:08:23.456
+<v Tutor>3,959 patients with septic shock.
+
+110
+00:08:23.456 --> 00:08:36.520
+<v Tutor>Hospitals switched month by month between starting vasopressin at 0.03 units per minute when the noradrenaline-equivalent dose reached 0.1 micrograms per kilogram per minute, or waiting until 0.4.
+
+111
+00:08:36.520 --> 00:08:43.180
+<v Tutor>28-day mortality was 31.8 percent with the lower threshold and 33.0 percent with the higher one.
+
+112
+00:08:43.360 --> 00:08:45.483
+<v Tutor>Not significantly different.
+
+113
+00:08:45.483 --> 00:08:52.326
+<v Tutor>Persistent or new cardiogenic shock was a little more common with early vasopressin, 7.4 versus 6.3 percent.
+
+114
+00:08:52.326 --> 00:09:03.120
+<v Tutor>How to say it in an answer: early vasopressin is a reasonable noradrenaline-sparing strategy, but neither VANISH nor VASSPR shows a mortality benefit from starting it earlier.
+
+115
+00:09:04.520 --> 00:09:12.365
+<v Tutor>Now, a story, because this week's landmark reading is the CHEST trial, and the story behind it is one of the strangest in our specialty.
+
+116
+00:09:12.365 --> 00:09:15.851
+<v Tutor>Hydroxyethyl starch is made from maize or potato starch.
+
+117
+00:09:15.851 --> 00:09:22.171
+<v Tutor>The glucose chains are tagged with hydroxyethyl groups so that plasma amylase can't break them down quickly.
+
+118
+00:09:22.171 --> 00:09:23.750
+<v Tutor>The idea was elegant.
+
+119
+00:09:23.750 --> 00:09:30.723
+<v Tutor>Give a big molecule, and it stays in the vessels, so you need less volume than with crystalloid to fill the circulation.
+
+120
+00:09:30.723 --> 00:09:35.844
+<v Tutor>For decades it was routine in theatres across Europe and in many intensive care units.
+
+121
+00:09:35.844 --> 00:09:43.144
+<v Tutor>Much of the published evidence that starches were safe, and even protective, came from one German anaesthetist, Joachim Boldt.
+
+122
+00:09:43.144 --> 00:09:47.285
+<v Tutor>In November 2010 he was suspended from his hospital in Ludwigshafen.
+
+123
+00:09:47.285 --> 00:09:53.822
+<v Tutor>In March 2011, the editors of sixteen journals said that 89 of 102 of his studies lacked proper ethics approval.
+
+124
+00:09:53.822 --> 00:09:57.635
+<v Tutor>Retractions followed in waves, and they are still being added.
+
+125
+00:09:57.635 --> 00:10:01.612
+<v Tutor>A whole evidence base for a fluid had a hole in the middle of it.
+
+126
+00:10:01.612 --> 00:10:04.608
+<v Tutor>Meanwhile, two independent trials were running.
+
+127
+00:10:04.608 --> 00:10:11.200
+<v Tutor>In July 2012, the Scandinavian 6S trial compared starch with Ringer's acetate in 804 patients with severe sepsis.
+
+128
+00:10:11.380 --> 00:10:18.174
+<v Tutor>Death or dialysis dependence at 90 days was 51 versus 43 percent, a relative risk of 1.17.
+
+129
+00:10:18.174 --> 00:10:22.264
+<v Tutor>Renal replacement therapy was 22 versus 16 percent.
+
+130
+00:10:22.264 --> 00:10:27.740
+<v Tutor>Then in October 2012, from our own ANZICS Clinical Trials Group, CHEST.
+
+131
+00:10:28.140 --> 00:10:33.342
+<v Tutor>CHEST, Myburgh and colleagues, New England Journal of Medicine, 2012.
+
+132
+00:10:33.342 --> 00:10:40.503
+<v Tutor>7,000 adults in 32 Australian and New Zealand intensive care units who needed fluid resuscitation.
+
+133
+00:10:40.503 --> 00:10:49.353
+<v Tutor>Six percent hydroxyethyl starch 130 over 0.4 versus 0.9 percent saline, blinded, up to 50 millilitres per kilogram per day.
+
+134
+00:10:49.353 --> 00:10:58.406
+<v Tutor>Primary outcome, 90-day mortality: 18.0 versus 17.0 percent, relative risk 1.06, with a confidence interval from 0.96 to 1.18.
+
+135
+00:10:58.406 --> 00:11:00.501
+<v Tutor>No difference in death.
+
+136
+00:11:00.501 --> 00:11:08.540
+<v Tutor>But renal replacement therapy was 7.0 versus 5.8 percent, relative risk 1.21, confidence interval 1.00 to 1.45.
+
+137
+00:11:08.540 --> 00:11:10.837
+<v Tutor>More dialysis with starch.
+
+138
+00:11:10.837 --> 00:11:20.295
+<v Tutor>And starch reduced the volume of resuscitation fluid only modestly, about 526 versus 616 millilitres a day over the first four days.
+
+139
+00:11:20.295 --> 00:11:22.998
+<v Tutor>Nowhere near the promised ratio.
+
+140
+00:11:22.998 --> 00:11:24.889
+<v Tutor>The main criticisms.
+
+141
+00:11:24.889 --> 00:11:29.551
+<v Tutor>About 15 percent of patients had starch before randomisation.
+
+142
+00:11:29.551 --> 00:11:34.821
+<v Tutor>Mortality, 17 to 18 percent, was lower than the trial had planned for.
+
+143
+00:11:34.821 --> 00:11:41.239
+<v Tutor>And many patients were not badly shocked at enrolment, with mean base excess near zero.
+
+144
+00:11:41.239 --> 00:11:42.860
+<v Tutor>What it changed.
+
+145
+00:11:43.040 --> 00:11:54.854
+<v Tutor>In June 2013, Europe's safety committee recommended suspending starch, and the American regulator added a boxed warning that year, advising against starch in critically ill adults including sepsis.
+
+146
+00:11:54.854 --> 00:12:00.501
+<v Tutor>In February 2022 the European committee recommended suspension from the market altogether.
+
+147
+00:12:00.501 --> 00:12:06.725
+<v Tutor>The Surviving Sepsis Campaign 2021 makes a strong recommendation against starches for resuscitation.
+
+148
+00:12:06.725 --> 00:12:19.173
+<v Tutor>How to quote it in an SAQ: "Starches increase renal replacement therapy without reducing mortality: CHEST, 7,000 patients, relative risk for dialysis 1.21, and 6S showed increased death or dialysis in sepsis.
+
+149
+00:12:19.173 --> 00:12:28.047
+<v Tutor>I would not use them." The lesson that examiners like: physiology predicted a benefit, small trials agreed, and large pragmatic trials found harm.
+
+150
+00:12:28.047 --> 00:12:32.600
+<v Tutor>Which is why your answers should lean on outcome trials, not mechanism.
+
+151
+00:12:33.000 --> 00:12:34.105
+<v Tutor>Second pause.
+
+152
+00:12:34.105 --> 00:12:42.472
+<v Tutor>Without looking: in CHEST, what were the rates of renal replacement therapy with starch and with saline, and what was the 90-day mortality in each arm?
+
+153
+00:12:42.472 --> 00:12:43.840
+<v Tutor>Pause, and answer.
+
+154
+00:12:49.240 --> 00:12:52.755
+<v Tutor>Renal replacement therapy, 7.0 versus 5.8 percent.
+
+155
+00:12:52.755 --> 00:12:57.725
+<v Tutor>Ninety-day mortality, 18.0 versus 17.0 percent, which was not significant.
+
+156
+00:12:57.725 --> 00:13:01.361
+<v Tutor>One sentence: no survival difference, more dialysis.
+
+157
+00:13:01.361 --> 00:13:04.937
+<v Tutor>The overlap with the kidney that makes this harder.
+
+158
+00:13:04.937 --> 00:13:10.997
+<v Tutor>If our man goes on to continuous renal replacement therapy, his fluid question turns around.
+
+159
+00:13:10.997 --> 00:13:15.603
+<v Tutor>You now control fluid removal by setting a net ultrafiltration rate.
+
+160
+00:13:15.603 --> 00:13:23.178
+<v Tutor>A common starting point is 1 to 2 millilitres per kilogram per hour, titrated against perfusion and vasopressor dose.
+
+161
+00:13:23.178 --> 00:13:33.360
+<v Tutor>That is de-resuscitation, and it's the fourth phase of fluid therapy that the College expects you to name: rescue, optimisation, stabilisation, then evacuation.
+
+162
+00:13:34.760 --> 00:13:35.854
+<v Tutor>Revisit two.
+
+163
+00:13:35.854 --> 00:13:37.221
+<v Tutor>Three weeks back.
+
+164
+00:13:37.221 --> 00:13:40.667
+<v Tutor>Community-acquired pneumonia that isn't getting better.
+
+165
+00:13:40.667 --> 00:13:46.903
+<v Tutor>You scored five and a half on this question on the 12th of October, and five and a half again on the 16th.
+
+166
+00:13:46.903 --> 00:13:48.872
+<v Tutor>Both times part a was solid.
+
+167
+00:13:48.872 --> 00:13:51.935
+<v Tutor>Part b, the assessment, is where the marks went.
+
+168
+00:13:51.935 --> 00:13:59.155
+<v Tutor>If you haven't written today's attempt yet, this would be a good moment to stop the episode and do it first, then come back.
+
+169
+00:13:59.155 --> 00:14:08.180
+<v Tutor>William Osler, in his textbook at the turn of the twentieth century, borrowed a phrase from John Bunyan and called pneumonia the captain of the men of death.
+
+170
+00:14:08.180 --> 00:14:14.306
+<v Tutor>He also called it the old man's friend, because it brought a quick and fairly peaceful end to the frail.
+
+171
+00:14:14.306 --> 00:14:23.276
+<v Tutor>A century and a half of antibiotics later, severe pneumonia still carries a hospital mortality that would have been familiar to him in the sickest patients.
+
+172
+00:14:23.276 --> 00:14:26.175
+<v Tutor>That's why the College keeps asking about it.
+
+173
+00:14:26.175 --> 00:14:30.004
+<v Tutor>Here's the question, from the 2025 first sitting, question 11.
+
+174
+00:14:30.004 --> 00:14:36.294
+<v Tutor>"A 67-year-old patient is admitted to the ICU with a presumptive diagnosis of community-acquired pneumonia.
+
+175
+00:14:36.294 --> 00:14:41.600
+<v Tutor>On day 5 they remain intubated and ventilated for persistent hypoxic respiratory failure.
+
+176
+00:14:41.780 --> 00:14:46.958
+<v Tutor>a, Outline six factors that may predict a poor response to antibiotics in CAP.
+
+177
+00:14:46.958 --> 00:14:47.922
+<v Tutor>3 marks.
+
+178
+00:14:47.922 --> 00:14:55.448
+<v Tutor>b, Outline your assessment of this patient with respiratory failure that is refractory to standard treatment for CAP.
+
+179
+00:14:55.448 --> 00:14:58.398
+<v Tutor>7 marks." The pass rate was 58.7 percent.
+
+180
+00:14:58.398 --> 00:15:05.925
+<v Tutor>Community-acquired pneumonia has come up four times in the questions we track, in 2012 twice, 2025 and again in 2026.
+
+181
+00:15:05.925 --> 00:15:09.899
+<v Tutor>The examiners said that part b was an assessment question.
+
+182
+00:15:09.899 --> 00:15:20.978
+<v Tutor>They wanted a focused history, examination and investigations aimed at the causes of non-resolving pneumonia, and at the non-infective causes of refractory respiratory failure.
+
+183
+00:15:20.978 --> 00:15:27.300
+<v Tutor>And they said that bullet points for a complete investigation list were acceptable and efficient.
+
+184
+00:15:27.700 --> 00:15:30.599
+<v Tutor>Third pause, and this is your part a.
+
+185
+00:15:30.599 --> 00:15:36.785
+<v Tutor>Six factors that predict a poor response to antibiotics in community-acquired pneumonia.
+
+186
+00:15:36.785 --> 00:15:38.460
+<v Tutor>Pause, and answer.
+
+187
+00:15:43.860 --> 00:15:47.286
+<v Tutor>Here's a list that would score all three marks.
+
+188
+00:15:47.286 --> 00:15:50.214
+<v Tutor>Think host, bug, disease and treatment.
+
+189
+00:15:50.214 --> 00:15:56.132
+<v Tutor>Host: age over 65, immunosuppression, and chronic lung or liver disease or alcohol use.
+
+190
+00:15:56.132 --> 00:15:59.122
+<v Tutor>Bug: a resistant or unexpected organism.
+
+191
+00:15:59.122 --> 00:16:08.840
+<v Tutor>Staphylococcus aureus including MRSA, Pseudomonas, Legionella, or an organism the empiric cover misses, such as tuberculosis, fungi or Pneumocystis.
+
+192
+00:16:08.840 --> 00:16:15.630
+<v Tutor>Disease: multilobar involvement, bacteraemia, septic shock at presentation, or a high severity score.
+
+193
+00:16:15.630 --> 00:16:19.679
+<v Tutor>Complications: an empyema, a lung abscess, or cavitation.
+
+194
+00:16:19.679 --> 00:16:24.912
+<v Tutor>Treatment: delayed or inappropriate first antibiotics, or inadequate dosing.
+
+195
+00:16:24.912 --> 00:16:27.964
+<v Tutor>That's more than six, which is the point.
+
+196
+00:16:27.964 --> 00:16:30.020
+<v Tutor>Write six, one line each.
+
+197
+00:16:30.420 --> 00:16:32.491
+<v Tutor>Now part b, the seven marks.
+
+198
+00:16:32.491 --> 00:16:36.748
+<v Tutor>Oh's chapter 48, pneumonia, frames non-resolution in four buckets.
+
+199
+00:16:36.748 --> 00:16:40.602
+<v Tutor>Use them as your structure, and you'll stop missing things.
+
+200
+00:16:40.602 --> 00:16:45.377
+<v Tutor>Bucket one: it's the right diagnosis, but the wrong drug or the wrong dose.
+
+201
+00:16:45.377 --> 00:16:50.727
+<v Tutor>A resistant organism, an atypical one, or an antibiotic that isn't reaching the lung.
+
+202
+00:16:50.727 --> 00:16:56.365
+<v Tutor>Think about dosing in a patient with augmented clearance, or on renal replacement therapy.
+
+203
+00:16:56.365 --> 00:17:00.565
+<v Tutor>Bucket two: it's the right diagnosis, but there's a complication.
+
+204
+00:17:00.565 --> 00:17:05.800
+<v Tutor>Empyema, abscess, a new ventilator-associated pneumonia, a line infection, or ARDS.
+
+205
+00:17:05.800 --> 00:17:08.734
+<v Tutor>Bucket three: it's not an infection at all.
+
+206
+00:17:08.734 --> 00:17:09.827
+<v Tutor>The mimics.
+
+207
+00:17:09.827 --> 00:17:11.955
+<v Tutor>Cardiogenic pulmonary oedema.
+
+208
+00:17:11.955 --> 00:17:13.509
+<v Tutor>Pulmonary embolism.
+
+209
+00:17:13.509 --> 00:17:16.097
+<v Tutor>Vasculitis with alveolar haemorrhage.
+
+210
+00:17:16.097 --> 00:17:17.766
+<v Tutor>Organising pneumonia.
+
+211
+00:17:17.766 --> 00:17:19.894
+<v Tutor>Acute eosinophilic pneumonia.
+
+212
+00:17:19.894 --> 00:17:21.850
+<v Tutor>Drug-induced lung disease.
+
+213
+00:17:21.850 --> 00:17:23.461
+<v Tutor>Lymphangitic cancer.
+
+214
+00:17:23.461 --> 00:17:27.603
+<v Tutor>Bucket four: it's an infection, but not the one you're treating.
+
+215
+00:17:27.603 --> 00:17:32.953
+<v Tutor>Tuberculosis, fungi, Pneumocystis, viruses, and the Australian zoonoses like Q fever.
+
+216
+00:17:32.953 --> 00:17:38.361
+<v Tutor>Then, for the marks, run history, examination and investigations across those buckets.
+
+217
+00:17:38.361 --> 00:17:41.525
+<v Tutor>History: travel, occupation and animal contact.
+
+218
+00:17:41.525 --> 00:17:47.220
+<v Tutor>Rash, haemoptysis, joint pain and renal symptoms, which point to connective tissue disease.
+
+219
+00:17:47.400 --> 00:17:51.762
+<v Tutor>Drugs, including amiodarone, methotrexate and nitrofurantoin.
+
+220
+00:17:51.762 --> 00:17:54.797
+<v Tutor>Immune status, HIV risk and steroid use.
+
+221
+00:17:54.797 --> 00:18:05.608
+<v Tutor>Examination: rash, synovitis, an effusion, fluid status, cardiac signs and murmurs, line sites, and a review of the ventilator and the chest drain if there is one.
+
+222
+00:18:05.608 --> 00:18:12.878
+<v Tutor>Investigations, and this is the list you were missing: repeat blood and sputum cultures with sensitivities.
+
+223
+00:18:12.878 --> 00:18:19.453
+<v Tutor>Bronchoalveolar lavage for resistant organisms, fungi, Pneumocystis, mycobacteria and viral PCR.
+
+224
+00:18:19.453 --> 00:18:25.333
+<v Tutor>Legionella and pneumococcal urinary antigens, and serology for atypicals and Q fever.
+
+225
+00:18:25.333 --> 00:18:28.936
+<v Tutor>A QuantiFERON, or interferon gamma release assay.
+
+226
+00:18:28.936 --> 00:18:37.281
+<v Tutor>An autoimmune screen: ANCA, anti-GBM antibodies, ANA, complement and CK, and a urine sediment for active glomerulonephritis.
+
+227
+00:18:37.281 --> 00:18:40.063
+<v Tutor>An echo and BNP for cardiac failure.
+
+228
+00:18:40.063 --> 00:18:49.040
+<v Tutor>A CT pulmonary angiogram, or high resolution CT, which will show abscess, empyema, cavitation and the pattern of organising pneumonia.
+
+229
+00:18:49.040 --> 00:18:50.684
+<v Tutor>Antibiotic levels.
+
+230
+00:18:50.684 --> 00:18:54.920
+<v Tutor>And finally, lung biopsy if the diagnosis is still unclear.
+
+231
+00:18:55.820 --> 00:18:57.803
+<v Examiner>And the harder version.
+
+232
+00:18:57.803 --> 00:18:59.147
+<v Examiner>Same patient.
+
+233
+00:18:59.147 --> 00:19:04.329
+<v Examiner>The lavage is bloodstained, and gets more bloodstained with each aliquot.
+
+234
+00:19:04.329 --> 00:19:08.295
+<v Examiner>Haemoglobin has fallen from 120 to 85 grams per litre.
+
+235
+00:19:08.295 --> 00:19:14.309
+<v Examiner>Creatinine is 280 micromoles per litre and the urine dipstick shows blood and protein.
+
+236
+00:19:14.309 --> 00:19:17.380
+<v Examiner>What's your diagnosis, and what changes?
+
+237
+00:19:17.880 --> 00:19:21.823
+<v Candidate>That's diffuse alveolar haemorrhage with a renal lesion.
+
+238
+00:19:21.823 --> 00:19:23.980
+<v Candidate>A pulmonary-renal syndrome.
+
+239
+00:19:23.980 --> 00:19:28.355
+<v Candidate>The most likely causes are ANCA vasculitis or anti-GBM disease.
+
+240
+00:19:28.355 --> 00:19:34.455
+<v Candidate>I'd send ANCA and anti-GBM urgently, look for red cell casts, and ask renal about a biopsy.
+
+241
+00:19:34.455 --> 00:19:41.233
+<v Candidate>And I'd start methylprednisolone, about 1 gram a day for three days, without waiting for the serology.
+
+242
+00:19:41.233 --> 00:19:44.560
+<v Candidate>Then plasma exchange if it's anti-GBM disease.
+
+243
+00:19:45.060 --> 00:19:45.570
+<v Examiner>Good.
+
+244
+00:19:45.570 --> 00:19:47.060
+<v Examiner>Where would you lose the mark?
+
+245
+00:19:47.560 --> 00:19:53.407
+<v Candidate>By not checking coagulation and platelets first, and by not asking whether he's been on anticoagulants.
+
+246
+00:19:53.407 --> 00:19:59.360
+<v Candidate>And by forgetting that infection can still cause alveolar haemorrhage, so I'd keep the antibiotics going.
+
+247
+00:19:59.860 --> 00:20:00.689
+<v Examiner>Right.
+
+248
+00:20:00.689 --> 00:20:09.098
+<v Examiner>Plasma exchange for ANCA vasculitis is now a selective decision after the PEXIVAS trial, but for anti-GBM disease it remains standard.
+
+249
+00:20:09.098 --> 00:20:11.940
+<v Examiner>That nuance is a consultant-level point.
+
+250
+00:20:12.840 --> 00:20:16.352
+<v Tutor>One more piece, because it changes management.
+
+251
+00:20:16.352 --> 00:20:29.748
+<v Tutor>The 2023 European severe pneumonia guideline, from the ERS, ESICM, ESCMID and ALAT, makes a conditional recommendation for corticosteroids in severe community-acquired pneumonia when there is shock.
+
+252
+00:20:29.748 --> 00:20:36.967
+<v Tutor>The trial that has moved the field since is CAPE COD, Dequin and colleagues, New England Journal, 2023.
+
+253
+00:20:36.967 --> 00:20:41.975
+<v Tutor>800 patients in 31 French intensive care units with severe pneumonia.
+
+254
+00:20:41.975 --> 00:20:48.283
+<v Tutor>Hydrocortisone 200 milligrams a day for four days, then tapered to 8 or 14 days in total.
+
+255
+00:20:48.283 --> 00:20:54.266
+<v Tutor>28-day mortality was 6.2 versus 11.9 percent, an absolute difference of 5.6 percent.
+
+256
+00:20:54.266 --> 00:20:57.387
+<v Tutor>Intubation was 18.0 versus 29.5 percent.
+
+257
+00:20:57.387 --> 00:20:58.688
+<v Tutor>Two catches.
+
+258
+00:20:58.688 --> 00:21:04.801
+<v Tutor>Patients with septic shock at enrolment were excluded, and influenza was excluded too.
+
+259
+00:21:04.801 --> 00:21:12.800
+<v Tutor>So quote it as: "hydrocortisone reduced 28-day mortality in severe non-influenza pneumonia without shock at entry."
+
+260
+00:21:13.200 --> 00:21:23.229
+<v Tutor>Two more things that turn a pass into a strong pass on pneumonia, because the 2026 first sitting asked about it again, and the pass rate there was 71.8 percent.
+
+261
+00:21:23.229 --> 00:21:28.601
+<v Tutor>The candidates who knew the severity criteria and the antibiotic choices did well.
+
+262
+00:21:28.601 --> 00:21:29.616
+<v Tutor>Severity.
+
+263
+00:21:29.616 --> 00:21:44.898
+<v Tutor>The 2019 American Thoracic Society and Infectious Diseases Society guideline defines severe pneumonia by one major criterion, which is septic shock needing vasopressors or respiratory failure needing mechanical ventilation, or three minor criteria.
+
+264
+00:21:44.898 --> 00:22:02.150
+<v Tutor>The minor criteria are: respiratory rate of 30 or more, a PaO2 to FiO2 ratio of 250 or less, multilobar infiltrates, confusion, urea of 7 millimoles per litre or more, white cells below 4, platelets below 100, temperature below 36 degrees, and hypotension needing aggressive fluid.
+
+265
+00:22:02.150 --> 00:22:11.702
+<v Tutor>In Australia, SMART-COP is the other score worth naming, because it was built here to predict the need for intensive respiratory or vasopressor support.
+
+266
+00:22:11.702 --> 00:22:12.895
+<v Tutor>Antibiotics.
+
+267
+00:22:12.895 --> 00:22:23.760
+<v Tutor>Following Australian practice for severe pneumonia, a third-generation cephalosporin such as ceftriaxone, plus a macrolide such as azithromycin, which also covers Legionella.
+
+268
+00:22:23.940 --> 00:22:34.900
+<v Tutor>Add cover for Staphylococcus aureus if there are risk factors, such as recent influenza or a cavitating picture, and for Pseudomonas if there is structural lung disease or recent hospital exposure.
+
+269
+00:22:34.900 --> 00:22:37.520
+<v Tutor>Then narrow as soon as you have a result.
+
+270
+00:22:37.520 --> 00:22:51.260
+<v Tutor>And the history line that earns marks in Australia: ask about melioidosis risk in the tropical north, especially with diabetes, alcohol use or chronic kidney disease, because Burkholderia pseudomallei needs meropenem and is missed by standard cover.
+
+271
+00:22:52.660 --> 00:22:53.923
+<v Tutor>Revisit three.
+
+272
+00:22:53.923 --> 00:22:56.104
+<v Tutor>Lactate after cardiac surgery.
+
+273
+00:22:56.104 --> 00:23:02.417
+<v Tutor>You met this three weeks ago, and scored five and a half on the 13th of October, then six on the 16th.
+
+274
+00:23:02.417 --> 00:23:06.607
+<v Tutor>That's retired, but the theme is one of the College's favourites.
+
+275
+00:23:06.607 --> 00:23:12.519
+<v Tutor>Causes of lactic acidosis appear in thirteen questions in the data we track, from 2008 to 2021.
+
+276
+00:23:12.519 --> 00:23:15.503
+<v Tutor>Here's the 2018 second sitting, question 12.
+
+277
+00:23:15.503 --> 00:23:21.702
+<v Tutor>"List the causes of an elevated lactate immediately following an aortic valve replacement procedure.
+
+278
+00:23:21.702 --> 00:23:26.753
+<v Tutor>Outline your approach to determining the cause." The pass rate was 46.3 percent.
+
+279
+00:23:26.753 --> 00:23:35.879
+<v Tutor>And the examiner comment matters: many candidates gave a general list of causes of high lactate, rather than causes specific to the post-valve setting.
+
+280
+00:23:35.879 --> 00:23:40.298
+<v Tutor>Some outlined management instead of an approach to finding the cause.
+
+281
+00:23:40.298 --> 00:23:43.111
+<v Tutor>So the answer has to be setting-specific.
+
+282
+00:23:43.111 --> 00:23:50.170
+<v Tutor>Oh's chapter 57, acid-base disorders and hyperlactataemia, gives the framework, and the College answer fills it in.
+
+283
+00:23:50.170 --> 00:23:54.934
+<v Tutor>Before surgery: drugs, especially metformin, linezolid and antiretrovirals.
+
+284
+00:23:54.934 --> 00:24:01.420
+<v Tutor>On bypass: a long bypass run, a lactate-containing prime, inadequate pump flow and prolonged hypothermia.
+
+285
+00:24:01.600 --> 00:24:08.608
+<v Tutor>After surgery, low cardiac output: tamponade, myocardial ischaemia or infarction, and a malfunctioning valve.
+
+286
+00:24:08.608 --> 00:24:12.022
+<v Tutor>Then: splanchnic ischaemia and liver dysfunction.
+
+287
+00:24:12.022 --> 00:24:20.528
+<v Tutor>And the others: beta agonists, especially adrenaline, measurement error, ischaemic muscle and rhabdomyolysis, and thiamine deficiency.
+
+288
+00:24:20.528 --> 00:24:22.624
+<v Tutor>Your approach then follows.
+
+289
+00:24:22.624 --> 00:24:25.799
+<v Tutor>History of the bypass run and the drug chart.
+
+290
+00:24:25.799 --> 00:24:31.549
+<v Tutor>Examination of perfusion, infusions, temperature, the drains, the abdomen and the limbs.
+
+291
+00:24:31.549 --> 00:24:48.800
+<v Tutor>Investigations: repeat the lactate, a blood gas with a venous saturation, full blood count, coagulation and biochemistry with CK, a chest film, an echo looking for tamponade and valve function, imaging of the abdomen, and red cell transketolase if thiamine deficiency is possible.
+
+292
+00:24:49.200 --> 00:24:56.022
+<v Tutor>Before the gas, the reasoning behind why we chase lactate at all, because it explains several exam answers.
+
+293
+00:24:56.022 --> 00:24:59.522
+<v Tutor>Lactate isn't a waste product and it isn't a toxin.
+
+294
+00:24:59.522 --> 00:25:02.310
+<v Tutor>Every cell makes pyruvate from glucose.
+
+295
+00:25:02.310 --> 00:25:12.098
+<v Tutor>When pyruvate is made faster than the mitochondria can use it, it's converted to lactate, which regenerates the cofactor that glycolysis needs to keep going.
+
+296
+00:25:12.098 --> 00:25:17.081
+<v Tutor>The liver then takes up most of that lactate and turns it back into glucose.
+
+297
+00:25:17.081 --> 00:25:23.013
+<v Tutor>That's the Cori cycle, described by Carl and Gerty Cori, who shared the Nobel Prize in 1947.
+
+298
+00:25:23.013 --> 00:25:26.632
+<v Tutor>So a high lactate means production exceeds clearance.
+
+299
+00:25:26.632 --> 00:25:35.115
+<v Tutor>Production rises with tissue hypoxia, which is type A, and also with adrenaline, sepsis-driven glycolysis, and drugs, which are type B.
+
+300
+00:25:35.115 --> 00:25:38.674
+<v Tutor>Clearance falls with liver hypoperfusion or failure.
+
+301
+00:25:38.674 --> 00:25:45.140
+<v Tutor>That's why the post-valve answer has to include the liver and the splanchnic bed, not just the heart.
+
+302
+00:25:45.140 --> 00:25:48.521
+<v Tutor>And it's why lactate is a slow, imperfect target.
+
+303
+00:25:48.521 --> 00:25:58.013
+<v Tutor>ANDROMEDA-SHOCK, in JAMA in 2019, randomised 424 patients with early septic shock to resuscitation targeting capillary refill time or targeting lactate.
+
+304
+00:25:58.013 --> 00:26:02.640
+<v Tutor>28-day mortality was 34.9 versus 43.4 percent, with a p value of 0.06.
+
+305
+00:26:02.820 --> 00:26:09.422
+<v Tutor>Not statistically significant, but capillary refill was at least as good, and it responds in minutes, not hours.
+
+306
+00:26:09.422 --> 00:26:16.300
+<v Tutor>That's why the Surviving Sepsis Campaign 2021 suggests capillary refill as an adjunct to other measures of perfusion.
+
+307
+00:26:16.700 --> 00:26:17.862
+<v Tutor>Now harder.
+
+308
+00:26:17.862 --> 00:26:23.428
+<v Tutor>Two hours after an aortic valve replacement, the patient is sedated and ventilated.
+
+309
+00:26:23.428 --> 00:26:31.256
+<v Tutor>The gas shows a pH of 7.19, a carbon dioxide of 38 millimetres of mercury, and a bicarbonate of 14 millimoles per litre.
+
+310
+00:26:31.256 --> 00:26:37.800
+<v Tutor>Sodium 136 millimoles per litre, chloride 102 millimoles per litre, and albumin 28 grams per litre.
+
+311
+00:26:37.800 --> 00:26:40.369
+<v Tutor>Lactate is 9 millimoles per litre.
+
+312
+00:26:40.369 --> 00:26:47.525
+<v Tutor>He's on adrenaline at 0.15 micrograms per kilogram per minute, and his mixed venous saturation is 72 percent.
+
+313
+00:26:47.525 --> 00:26:56.210
+<v Tutor>This is where marks were lost on the 20th of October, on question 26 from the 2013 second sitting, which you scored one and a half on.
+
+314
+00:26:56.210 --> 00:26:58.839
+<v Tutor>The compensation formula was wrong.
+
+315
+00:26:58.839 --> 00:27:00.980
+<v Tutor>So let's make it automatic.
+
+316
+00:27:01.380 --> 00:27:02.546
+<v Tutor>Fourth pause.
+
+317
+00:27:02.546 --> 00:27:05.099
+<v Tutor>Work this gas with the College method.
+
+318
+00:27:05.099 --> 00:27:12.536
+<v Tutor>Calculate the anion gap without potassium, correct it for albumin, calculate the delta ratio, and the expected carbon dioxide.
+
+319
+00:27:12.536 --> 00:27:14.257
+<v Tutor>What are the disorders?
+
+320
+00:27:14.257 --> 00:27:15.700
+<v Tutor>Pause, and answer.
+
+321
+00:27:21.100 --> 00:27:25.250
+<v Tutor>Anion gap: 136 minus the sum of 102 and 14, which is 20.
+
+322
+00:27:25.250 --> 00:27:30.049
+<v Tutor>Albumin correction: add a quarter of the albumin deficit below 40.
+
+323
+00:27:30.049 --> 00:27:34.330
+<v Tutor>That's 40 minus 28, which is 12, and a quarter of 12 is 3.
+
+324
+00:27:34.330 --> 00:27:36.405
+<v Tutor>Corrected anion gap, 23.
+
+325
+00:27:36.405 --> 00:27:39.453
+<v Tutor>Against a normal of 12, the rise is 11.
+
+326
+00:27:39.453 --> 00:27:43.279
+<v Tutor>Bicarbonate has fallen from 24 to 14, a fall of 10.
+
+327
+00:27:43.279 --> 00:27:46.067
+<v Tutor>Delta ratio, 11 over 10, about 1.1.
+
+328
+00:27:46.067 --> 00:27:55.341
+<v Tutor>Between 1 and 2, so this is a pure high anion gap metabolic acidosis, with no hidden normal anion gap acidosis and no hidden alkalosis.
+
+329
+00:27:55.341 --> 00:28:02.669
+<v Tutor>Expected carbon dioxide, Winters' formula: one and a half times the bicarbonate, plus 8, plus or minus 2.
+
+330
+00:28:02.669 --> 00:28:06.041
+<v Tutor>One and a half times 14 is 21, plus 8 is 29.
+
+331
+00:28:06.041 --> 00:28:08.765
+<v Tutor>So the expected range is 27 to 31.
+
+332
+00:28:08.765 --> 00:28:09.932
+<v Tutor>His is 38.
+
+333
+00:28:09.932 --> 00:28:13.110
+<v Tutor>That's a concurrent respiratory acidosis.
+
+334
+00:28:13.110 --> 00:28:19.141
+<v Tutor>He's under-ventilated for this degree of acidosis, so turn up his minute ventilation.
+
+335
+00:28:19.141 --> 00:28:20.568
+<v Tutor>And the twist.
+
+336
+00:28:20.568 --> 00:28:25.821
+<v Tutor>With a venous saturation of 72 percent, he isn't obviously in low output.
+
+337
+00:28:25.821 --> 00:28:35.159
+<v Tutor>Adrenaline stimulates beta 2 receptors on muscle, speeds up aerobic glycolysis, and pours out lactate even when oxygen delivery is fine.
+
+338
+00:28:35.159 --> 00:28:37.105
+<v Tutor>That's type B lactate.
+
+339
+00:28:37.105 --> 00:28:39.180
+<v Tutor>But you don't assume it.
+
+340
+00:28:39.360 --> 00:28:49.868
+<v Tutor>You exclude tamponade and ischaemia with an echo and an ECG, look at the abdomen, and only then consider a switch to noradrenaline with an inodilator, and watch whether the lactate falls.
+
+341
+00:28:49.868 --> 00:28:54.880
+<v Tutor>That is the setting-specific, data-based answer that scores seven or eight, not five.
+
+342
+00:28:55.780 --> 00:29:00.471
+<v Examiner>One more twist, because examiners love to join the kidney to this.
+
+343
+00:29:00.471 --> 00:29:02.879
+<v Examiner>Same day, a different patient.
+
+344
+00:29:02.879 --> 00:29:08.711
+<v Examiner>A 72-year-old with type 2 diabetes on metformin, two days of vomiting, now oliguric.
+
+345
+00:29:08.711 --> 00:29:11.500
+<v Examiner>Creatinine 640 micromoles per litre.
+
+346
+00:29:11.500 --> 00:29:16.888
+<v Examiner>pH 6.95, bicarbonate 4 millimoles per litre, lactate 18 millimoles per litre.
+
+347
+00:29:16.888 --> 00:29:20.120
+<v Examiner>Blood pressure 85 over 50 on noradrenaline.
+
+348
+00:29:20.120 --> 00:29:23.860
+<v Examiner>What's going on, and what's the specific treatment?
+
+349
+00:29:24.360 --> 00:29:26.927
+<v Candidate>Metformin-associated lactic acidosis.
+
+350
+00:29:26.927 --> 00:29:36.340
+<v Candidate>Metformin is renally cleared, so with acute kidney injury it accumulates, and it inhibits mitochondrial respiration and hepatic gluconeogenesis from lactate.
+
+351
+00:29:36.340 --> 00:29:43.641
+<v Candidate>But I'd still look for a second cause, like mesenteric ischaemia or sepsis, because the lactate could be type A as well.
+
+352
+00:29:43.641 --> 00:29:46.893
+<v Candidate>The specific treatment is extracorporeal removal.
+
+353
+00:29:46.893 --> 00:29:57.561
+<v Candidate>Metformin is small and water soluble, so intermittent haemodialysis clears it best, but if the patient is unstable I'd use continuous haemodiafiltration with a high effluent dose.
+
+354
+00:29:57.561 --> 00:30:08.000
+<v Candidate>The extracorporeal treatments in poisoning workgroup recommends extracorporeal treatment when lactate is above 20, or the pH is 7.0 or lower, or when standard care is failing.
+
+355
+00:30:08.500 --> 00:30:09.048
+<v Examiner>Good.
+
+356
+00:30:09.048 --> 00:30:10.060
+<v Examiner>And bicarbonate?
+
+357
+00:30:10.560 --> 00:30:14.471
+<v Candidate>Only as a bridge for severe acidaemia while dialysis is set up.
+
+358
+00:30:14.471 --> 00:30:20.200
+<v Candidate>On its own it doesn't remove the metformin, and the extra carbon dioxide has to be breathed off.
+
+359
+00:30:20.700 --> 00:30:22.826
+<v Examiner>That's a seven out of ten answer.
+
+360
+00:30:22.826 --> 00:30:29.100
+<v Examiner>The eight comes from saying that a metformin level is useful to confirm the diagnosis, but you don't wait for it.
+
+361
+00:30:30.500 --> 00:30:31.810
+<v Tutor>Journal watch.
+
+362
+00:30:31.810 --> 00:30:32.763
+<v Tutor>PELICAN.
+
+363
+00:30:32.763 --> 00:30:34.906
+<v Tutor>Here's the question it asks.
+
+364
+00:30:34.906 --> 00:30:41.575
+<v Tutor>If you know what a patient's normal cardiac output is, should you defend that number during big surgery?
+
+365
+00:30:41.575 --> 00:30:48.065
+<v Tutor>PELICAN was flagged by Critical Care Reviews this week, and published in JAMA on the 19th of October.
+
+366
+00:30:48.065 --> 00:30:50.090
+<v Tutor>First author Bernd Saugel.
+
+367
+00:30:50.090 --> 00:30:55.627
+<v Tutor>Design: a randomised trial across 12 university hospitals in five European countries.
+
+368
+00:30:55.627 --> 00:31:02.296
+<v Tutor>1,111 high-risk adults having elective major abdominal surgery were randomised, and 1,095 were analysed.
+
+369
+00:31:02.296 --> 00:31:03.606
+<v Tutor>Median age 67.
+
+370
+00:31:03.606 --> 00:31:11.168
+<v Tutor>Intervention: haemodynamic therapy individualised to each patient's own resting cardiac index, measured before surgery.
+
+371
+00:31:11.168 --> 00:31:17.539
+<v Tutor>Comparator: routine haemodynamic care, with cardiac index monitored but hidden from the clinicians.
+
+372
+00:31:17.539 --> 00:31:22.183
+<v Tutor>Primary outcome: a composite of major complications within seven days.
+
+373
+00:31:22.183 --> 00:31:28.197
+<v Tutor>Acute kidney injury, myocardial injury, severe infection, non-fatal cardiac arrest, or death.
+
+374
+00:31:28.197 --> 00:31:34.092
+<v Tutor>It occurred in 44.3 percent with individualised therapy and 46.9 percent with routine care.
+
+375
+00:31:34.092 --> 00:31:36.593
+<v Tutor>Relative risk 0.94, p equals 0.38.
+
+376
+00:31:36.593 --> 00:31:38.022
+<v Tutor>Not significant.
+
+377
+00:31:38.022 --> 00:31:46.060
+<v Tutor>There was no difference in any single component, or in seven-day mortality, so there's no safety signal, and no benefit either.
+
+378
+00:31:46.460 --> 00:31:47.645
+<v Tutor>Limitations.
+
+379
+00:31:47.645 --> 00:31:53.034
+<v Tutor>It's elective surgery, not shock, so be careful about extending it to our patients.
+
+380
+00:31:53.034 --> 00:31:55.522
+<v Tutor>The intervention can't be blinded.
+
+381
+00:31:55.522 --> 00:32:01.504
+<v Tutor>And the composite is driven by events, like kidney injury, that have many causes beyond flow.
+
+382
+00:32:01.504 --> 00:32:02.688
+<v Tutor>How it fits.
+
+383
+00:32:02.688 --> 00:32:05.176
+<v Tutor>This is the latest in a long line.
+
+384
+00:32:05.176 --> 00:32:19.805
+<v Tutor>Shoemaker's supranormal targets in the 1980s gave way to goal-directed therapy, and then to OPTIMISE in 2014, where a cardiac output guided algorithm reduced complications from 43.4 to 36.6 percent, but the confidence interval crossed one.
+
+385
+00:32:19.805 --> 00:32:24.721
+<v Tutor>A single-centre German pilot of the personalised approach looked promising.
+
+386
+00:32:24.721 --> 00:32:28.511
+<v Tutor>PELICAN is the large multicentre test, and it's neutral.
+
+387
+00:32:28.511 --> 00:32:30.466
+<v Tutor>Three take-home messages.
+
+388
+00:32:30.466 --> 00:32:38.106
+<v Tutor>One: targeting the patient's own baseline cardiac index did not reduce major complications after major abdominal surgery.
+
+389
+00:32:38.106 --> 00:32:42.666
+<v Tutor>Two: it caused no harm, so it's a neutral result, not a negative one.
+
+390
+00:32:42.666 --> 00:32:48.648
+<v Tutor>Three: across intraoperative and ICU trials, chasing a flow number in everyone keeps failing.
+
+391
+00:32:48.648 --> 00:32:53.090
+<v Tutor>What works is treating hypoperfusion, and stopping when it's fixed.
+
+392
+00:32:53.090 --> 00:32:55.459
+<v Tutor>Does it change your exam answer?
+
+393
+00:32:55.459 --> 00:32:56.940
+<v Tutor>Only in one line.
+
+394
+00:32:57.120 --> 00:33:05.366
+<v Tutor>If asked about cardiac output monitoring, you can now say that goal-directed and individualised flow targets have not shown benefit in large trials.
+
+395
+00:33:05.366 --> 00:33:10.440
+<v Tutor>The summary here is drawn from the published abstract, flagged by Critical Care Reviews.
+
+396
+00:33:11.840 --> 00:33:13.268
+<v Tutor>Syllabus round-up.
+
+397
+00:33:13.268 --> 00:33:18.813
+<v Tutor>Five items today, all from week one, acid-base and electrolytes, so they're beyond this week.
+
+398
+00:33:18.813 --> 00:33:22.712
+<v Tutor>First, blood gas analysis, and how the machine can mislead you.
+
+399
+00:33:22.712 --> 00:33:29.027
+<v Tutor>This is the analytical side, and it is examined, usually as "what are the sources of error in this result".
+
+400
+00:33:29.027 --> 00:33:30.893
+<v Tutor>Oh's chapter 57 covers it.
+
+401
+00:33:30.893 --> 00:33:36.220
+<v Tutor>What it is: the analyser measures pH, carbon dioxide and oxygen directly with electrodes.
+
+402
+00:33:36.220 --> 00:33:39.789
+<v Tutor>Bicarbonate and base excess are calculated, not measured.
+
+403
+00:33:39.789 --> 00:33:42.699
+<v Tutor>Lactate is measured with an enzyme electrode.
+
+404
+00:33:42.699 --> 00:33:44.840
+<v Tutor>Four points the examiner wants.
+
+405
+00:33:44.840 --> 00:33:47.751
+<v Tutor>One, pre-analytical errors are the commonest.
+
+406
+00:33:47.751 --> 00:33:53.791
+<v Tutor>An air bubble pulls the oxygen towards about 150 millimetres of mercury and lowers the carbon dioxide.
+
+407
+00:33:53.791 --> 00:34:03.235
+<v Tutor>Delay at room temperature lets leucocytes keep consuming oxygen and producing acid, which matters with a very high white count, where it's called leucocyte larceny.
+
+408
+00:34:03.235 --> 00:34:08.561
+<v Tutor>Too much liquid heparin dilutes the sample and lowers the carbon dioxide and bicarbonate.
+
+409
+00:34:08.561 --> 00:34:10.703
+<v Tutor>Two, the patient's temperature.
+
+410
+00:34:10.703 --> 00:34:12.954
+<v Tutor>Gases are measured at 37 degrees.
+
+411
+00:34:12.954 --> 00:34:18.939
+<v Tutor>Alpha-stat management uses the uncorrected values, and pH-stat corrects to the patient's temperature.
+
+412
+00:34:18.939 --> 00:34:22.728
+<v Tutor>Know which one you're quoting after bypass or in hypothermia.
+
+413
+00:34:22.728 --> 00:34:24.320
+<v Tutor>Why does that matter?
+
+414
+00:34:24.500 --> 00:34:30.734
+<v Tutor>As blood cools, carbon dioxide becomes more soluble, so its partial pressure falls and the pH rises.
+
+415
+00:34:30.734 --> 00:34:40.316
+<v Tutor>Cold-blooded animals simply let that happen, and keep the charge state of the imidazole groups on histidine constant, which is where alpha-stat gets its name.
+
+416
+00:34:40.316 --> 00:34:43.086
+<v Tutor>Their proteins and enzymes keep working.
+
+417
+00:34:43.086 --> 00:34:47.992
+<v Tutor>Hibernating mammals do the opposite and add carbon dioxide, which is pH-stat.
+
+418
+00:34:47.992 --> 00:34:54.053
+<v Tutor>In adult cardiac surgery, alpha-stat is usual and is thought to preserve cerebral autoregulation.
+
+419
+00:34:54.053 --> 00:34:58.729
+<v Tutor>pH-stat raises cerebral blood flow and is used in some paediatric bypass.
+
+420
+00:34:58.729 --> 00:35:01.672
+<v Tutor>Name both and say which one your unit uses.
+
+421
+00:35:01.672 --> 00:35:03.346
+<v Tutor>Three, interferences.
+
+422
+00:35:03.346 --> 00:35:13.159
+<v Tutor>Ethylene glycol's metabolite glycolate cross-reacts with the lactate oxidase on some analysers, giving a falsely high lactate on the gas but a normal lab lactate.
+
+423
+00:35:13.159 --> 00:35:14.891
+<v Tutor>That is a lactate gap.
+
+424
+00:35:14.891 --> 00:35:20.778
+<v Tutor>Methaemoglobin and carboxyhaemoglobin make pulse oximetry unreliable, so you need co-oximetry.
+
+425
+00:35:20.778 --> 00:35:24.299
+<v Tutor>Four, sodium and potassium on the gas versus the lab.
+
+426
+00:35:24.299 --> 00:35:29.436
+<v Tutor>A direct electrode on whole blood is not affected by high lipids or high protein.
+
+427
+00:35:29.436 --> 00:35:33.419
+<v Tutor>The indirect lab method is, which causes pseudohyponatraemia.
+
+428
+00:35:33.419 --> 00:35:36.940
+<v Tutor>It's asked often, usually embedded in data questions.
+
+429
+00:35:38.340 --> 00:35:41.935
+<v Tutor>Second, interpreting arterial blood gases.
+
+430
+00:35:41.935 --> 00:35:48.406
+<v Tutor>This is the most examined data skill in the paper, and the College wants a method.
+
+431
+00:35:48.406 --> 00:35:51.354
+<v Tutor>Write it the same way every time.
+
+432
+00:35:51.354 --> 00:35:53.511
+<v Tutor>Step one, oxygenation.
+
+433
+00:35:53.511 --> 00:35:59.551
+<v Tutor>Calculate the alveolar to arterial gradient using the alveolar gas equation.
+
+434
+00:35:59.551 --> 00:36:07.029
+<v Tutor>Alveolar oxygen equals the inspired fraction times 713, minus the carbon dioxide divided by 0.8.
+
+435
+00:36:07.029 --> 00:36:12.925
+<v Tutor>The normal gradient rises with age, roughly age divided by four plus four.
+
+436
+00:36:12.925 --> 00:36:20.187
+<v Tutor>And state the PaO2 to FiO2 ratio for ARDS severity: 300, 200 and 100 are the Berlin cut-offs.
+
+437
+00:36:20.187 --> 00:36:28.599
+<v Tutor>Here's a worked example of step one, because the alveolar gas equation is where the 2013 question went wrong.
+
+438
+00:36:28.599 --> 00:36:31.907
+<v Tutor>FiO2 0.6, carbon dioxide 40, PaO2 120.
+
+439
+00:36:31.907 --> 00:36:35.646
+<v Tutor>Inspired oxygen: 0.6 times 713 is about 428.
+
+440
+00:36:35.646 --> 00:36:38.450
+<v Tutor>Minus 40 over 0.8, which is 50.
+
+441
+00:36:38.450 --> 00:36:40.895
+<v Tutor>Alveolar oxygen about 378.
+
+442
+00:36:40.895 --> 00:36:44.202
+<v Tutor>Gradient, 378 minus 120, which is 258.
+
+443
+00:36:44.202 --> 00:36:46.215
+<v Tutor>That's a huge shunt.
+
+444
+00:36:46.215 --> 00:36:52.255
+<v Tutor>Write all three lines of the working, because the College marks the working.
+
+445
+00:36:52.255 --> 00:36:57.288
+<v Tutor>Step two, the primary disorder from the pH and carbon dioxide.
+
+446
+00:36:57.288 --> 00:37:01.027
+<v Tutor>Step three, compensation, with the formulas.
+
+447
+00:37:01.027 --> 00:37:07.786
+<v Tutor>Metabolic acidosis, Winters: one and a half times bicarbonate plus 8, plus or minus 2.
+
+448
+00:37:07.786 --> 00:37:12.100
+<v Tutor>Metabolic alkalosis: 0.7 times bicarbonate, plus 20.
+
+449
+00:37:12.280 --> 00:37:19.265
+<v Tutor>Respiratory acidosis: bicarbonate rises 1 per 10 of carbon dioxide acutely, and 4 per 10 chronically.
+
+450
+00:37:19.265 --> 00:37:24.135
+<v Tutor>Respiratory alkalosis: falls 2 per 10 acutely, 5 per 10 chronically.
+
+451
+00:37:24.135 --> 00:37:29.646
+<v Tutor>Step four, the anion gap, without potassium, normal 12, corrected for albumin.
+
+452
+00:37:29.646 --> 00:37:31.889
+<v Tutor>Step five, the delta ratio.
+
+453
+00:37:31.889 --> 00:37:34.900
+<v Tutor>Below 0.4, a normal anion gap acidosis.
+
+454
+00:37:34.900 --> 00:37:38.425
+<v Tutor>0.4 to 0.8, mixed high and normal gap acidosis.
+
+455
+00:37:38.425 --> 00:37:40.924
+<v Tutor>1 to 2, pure high gap acidosis.
+
+456
+00:37:40.924 --> 00:37:46.307
+<v Tutor>Above 2, a concurrent metabolic alkalosis or a chronic respiratory acidosis.
+
+457
+00:37:46.307 --> 00:37:51.561
+<v Tutor>Step six, if the gap is high and the cause isn't obvious, the osmolar gap.
+
+458
+00:37:51.561 --> 00:37:57.393
+<v Tutor>Measured minus calculated, where calculated is twice sodium plus glucose plus urea.
+
+459
+00:37:57.393 --> 00:37:59.251
+<v Tutor>Above 10 is abnormal.
+
+460
+00:37:59.251 --> 00:38:02.455
+<v Tutor>The trap the College sets most: pregnancy.
+
+461
+00:38:02.455 --> 00:38:09.760
+<v Tutor>Normal carbon dioxide in late pregnancy is about 30 millimetres of mercury, so a value of 40 is retention.
+
+462
+00:38:11.160 --> 00:38:13.581
+<v Tutor>Third, diabetes insipidus.
+
+463
+00:38:13.581 --> 00:38:24.758
+<v Tutor>You scored five on the 2018 first sitting question 5 on the 15th of October, and part 5.2 was where the marks went, because the diagnosis was missed.
+
+464
+00:38:24.758 --> 00:38:27.464
+<v Tutor>Let me read it, word for word.
+
+465
+00:38:27.464 --> 00:38:36.150
+<v Tutor>"A 47-year-old, previously well, 70 kg male was admitted to the Emergency Department with agitation and confusion.
+
+466
+00:38:36.150 --> 00:38:47.043
+<v Tutor>Following catheterisation, his urine output in the next few hours was 300 to 350 ml per hour." Then the results: sodium 169 millimoles per litre.
+
+467
+00:38:47.043 --> 00:38:50.104
+<v Tutor>Potassium 4.6 millimoles per litre.
+
+468
+00:38:50.104 --> 00:38:53.094
+<v Tutor>Chloride 105 millimoles per litre.
+
+469
+00:38:53.094 --> 00:38:56.227
+<v Tutor>Bicarbonate 26 millimoles per litre.
+
+470
+00:38:56.227 --> 00:38:59.146
+<v Tutor>Glucose 6.6 millimoles per litre.
+
+471
+00:38:59.146 --> 00:39:01.852
+<v Tutor>Urea 9.6 millimoles per litre.
+
+472
+00:39:01.852 --> 00:39:04.984
+<v Tutor>Creatinine 115 micromoles per litre.
+
+473
+00:39:04.984 --> 00:39:08.117
+<v Tutor>Magnesium 0.88 millimoles per litre.
+
+474
+00:39:08.117 --> 00:39:10.609
+<v Tutor>Albumin 28 grams per litre.
+
+475
+00:39:10.609 --> 00:39:13.101
+<v Tutor>Protein 58 grams per litre.
+
+476
+00:39:13.101 --> 00:39:15.236
+<v Tutor>Plasma osmolality 360.
+
+477
+00:39:15.236 --> 00:39:17.871
+<v Tutor>Urine specific gravity 1.005.
+
+478
+00:39:17.871 --> 00:39:21.146
+<v Tutor>"a, What is the most likely diagnosis?
+
+479
+00:39:21.146 --> 00:39:32.537
+<v Tutor>b, How would you manage the hypernatremia?" Polyuria with a dilute urine and a very high plasma osmolality is diabetes insipidus until proven otherwise.
+
+480
+00:39:32.537 --> 00:39:36.880
+<v Tutor>Oh's chapter 69, polyuria in the ICU, is your source.
+
+481
+00:39:37.280 --> 00:39:38.364
+<v Tutor>Fifth pause.
+
+482
+00:39:38.364 --> 00:39:43.351
+<v Tutor>Calculate his free water deficit, and tell me how fast you would correct his sodium.
+
+483
+00:39:43.351 --> 00:39:44.760
+<v Tutor>Pause, and answer.
+
+484
+00:39:50.160 --> 00:39:53.931
+<v Tutor>Total body water is 0.6 times 70, which is 42 litres.
+
+485
+00:39:53.931 --> 00:39:57.949
+<v Tutor>The deficit is 42 times the sum of 169 over 140, minus 1.
+
+486
+00:39:57.949 --> 00:40:00.113
+<v Tutor>169 over 140 is about 1.21.
+
+487
+00:40:00.113 --> 00:40:02.771
+<v Tutor>So 42 times 0.21, about 8.7 litres.
+
+488
+00:40:02.771 --> 00:40:15.011
+<v Tutor>Correction rate: in hypernatraemia that developed over more than about 48 hours, aim for no more than 10 millimoles per litre per day, about 0.5 an hour, with sodium checked hourly at first.
+
+489
+00:40:15.011 --> 00:40:17.978
+<v Tutor>Faster correction risks cerebral oedema.
+
+490
+00:40:17.978 --> 00:40:22.367
+<v Tutor>If it was clearly acute, over hours, faster correction is safe.
+
+491
+00:40:22.367 --> 00:40:31.455
+<v Tutor>The rest of the College answer: assess fluid and cardiac status first, because if he's shocked, he needs isotonic volume before free water.
+
+492
+00:40:31.455 --> 00:40:34.855
+<v Tutor>Give water as 5 percent dextrose, or enterally.
+
+493
+00:40:34.855 --> 00:40:36.647
+<v Tutor>Then treat the cause.
+
+494
+00:40:36.647 --> 00:40:45.487
+<v Tutor>For central diabetes insipidus, desmopressin, starting at about 1 microgram intravenously, and watch for a sudden fall in urine output.
+
+495
+00:40:45.487 --> 00:40:52.535
+<v Tutor>For lithium-induced nephrogenic disease, stop the lithium, check a level, and use a thiazide or amiloride.
+
+496
+00:40:52.535 --> 00:41:00.324
+<v Tutor>The examiners wrote that some candidates' fluid regimes were dangerous, so always state your rate and your monitoring.
+
+497
+00:41:00.324 --> 00:41:08.360
+<v Tutor>The tests that separate central from nephrogenic: a paired plasma and urine osmolality, then the response to desmopressin.
+
+498
+00:41:08.540 --> 00:41:12.780
+<v Tutor>A rise in urine osmolality of more than 50 percent suggests central disease.
+
+499
+00:41:13.180 --> 00:41:17.851
+<v Tutor>A neurocritical care angle, because diabetes insipidus is examined there too.
+
+500
+00:41:17.851 --> 00:41:22.632
+<v Tutor>After pituitary surgery or severe head injury, look for the triphasic response.
+
+501
+00:41:22.632 --> 00:41:26.368
+<v Tutor>First, diabetes insipidus over a few days from axonal shock.
+
+502
+00:41:26.368 --> 00:41:33.347
+<v Tutor>Then a phase of inappropriate antidiuretic hormone release as the dying neurones leak stored hormone, so hyponatraemia.
+
+503
+00:41:33.347 --> 00:41:39.337
+<v Tutor>Then permanent diabetes insipidus if enough of the supraoptic and paraventricular neurones have gone.
+
+504
+00:41:39.337 --> 00:41:45.327
+<v Tutor>If you give a long-acting desmopressin in phase one, and phase two arrives, the sodium can fall fast.
+
+505
+00:41:45.327 --> 00:41:50.492
+<v Tutor>And in the potential organ donor after brain death, diabetes insipidus is very common.
+
+506
+00:41:50.492 --> 00:41:59.230
+<v Tutor>Vasopressin infusion at about 1 to 2.4 units an hour treats both the polyuria and the vasoplegia, and desmopressin can be added for the polyuria alone.
+
+507
+00:41:59.230 --> 00:42:04.780
+<v Tutor>A sodium above 155 at retrieval is associated with worse liver graft function, so it matters.
+
+508
+00:42:06.180 --> 00:42:10.411
+<v Tutor>Fourth, the syndrome of inappropriate antidiuretic hormone.
+
+509
+00:42:10.411 --> 00:42:11.927
+<v Tutor>Oh's chapter 58.
+
+510
+00:42:11.927 --> 00:42:22.410
+<v Tutor>What it is: antidiuretic hormone released without an osmotic or volume trigger, so water is retained and sodium falls, with the patient clinically euvolaemic.
+
+511
+00:42:22.410 --> 00:42:24.810
+<v Tutor>The points the examiner wants.
+
+512
+00:42:24.810 --> 00:42:26.452
+<v Tutor>One, the criteria.
+
+513
+00:42:26.452 --> 00:42:30.367
+<v Tutor>Plasma osmolality below 275 milliosmoles per kilogram.
+
+514
+00:42:30.367 --> 00:42:32.577
+<v Tutor>Urine osmolality above 100.
+
+515
+00:42:32.577 --> 00:42:37.314
+<v Tutor>Urine sodium above 30 millimoles per litre on a normal salt intake.
+
+516
+00:42:37.314 --> 00:42:39.082
+<v Tutor>Clinical euvolaemia.
+
+517
+00:42:39.082 --> 00:42:45.271
+<v Tutor>And normal thyroid and adrenal function, which you must check before making the diagnosis.
+
+518
+00:42:45.271 --> 00:42:46.786
+<v Tutor>Two, the causes.
+
+519
+00:42:46.786 --> 00:42:49.375
+<v Tutor>Lung disease including pneumonia.
+
+520
+00:42:49.375 --> 00:42:54.933
+<v Tutor>Intracranial disease, including subarachnoid haemorrhage, meningitis and trauma.
+
+521
+00:42:54.933 --> 00:43:00.427
+<v Tutor>Drugs, such as SSRIs, carbamazepine, opioids, cyclophosphamide and vincristine.
+
+522
+00:43:00.427 --> 00:43:03.837
+<v Tutor>Malignancy, especially small cell lung cancer.
+
+523
+00:43:03.837 --> 00:43:06.237
+<v Tutor>Pain and nausea after surgery.
+
+524
+00:43:06.237 --> 00:43:12.552
+<v Tutor>Three, management, following the 2014 European clinical practice guideline on hyponatraemia.
+
+525
+00:43:12.552 --> 00:43:25.940
+<v Tutor>For severe symptoms, such as seizures or reduced consciousness, give 150 millilitres of 3 percent saline over 20 minutes, check sodium, and repeat up to twice, aiming for a rise of 5 millimoles per litre.
+
+526
+00:43:26.120 --> 00:43:32.572
+<v Tutor>Then limit the rise to 10 millimoles per litre in the first 24 hours, and 8 in each 24 hours after that.
+
+527
+00:43:32.572 --> 00:43:34.645
+<v Tutor>Four, the chronic treatment.
+
+528
+00:43:34.645 --> 00:43:36.489
+<v Tutor>Fluid restriction first.
+
+529
+00:43:36.489 --> 00:43:42.998
+<v Tutor>Then urea, or a vasopressin receptor antagonist such as tolvaptan, with care around rapid overcorrection.
+
+530
+00:43:42.998 --> 00:43:47.088
+<v Tutor>The trap: cerebral salt wasting after subarachnoid haemorrhage.
+
+531
+00:43:47.088 --> 00:43:51.408
+<v Tutor>It looks the same in the blood, but the patient is volume depleted.
+
+532
+00:43:51.408 --> 00:43:55.440
+<v Tutor>Fluid restricting that patient risks vasospasm and infarction.
+
+533
+00:43:56.340 --> 00:43:58.588
+<v Examiner>A quick probe on that trap.
+
+534
+00:43:58.588 --> 00:44:01.607
+<v Examiner>Day six after subarachnoid haemorrhage.
+
+535
+00:44:01.607 --> 00:44:06.681
+<v Examiner>Sodium 127 millimoles per litre, urine sodium 80, urine osmolality 520.
+
+536
+00:44:06.681 --> 00:44:14.260
+<v Examiner>How do you tell cerebral salt wasting from inappropriate antidiuretic hormone, and does it change what you do?
+
+537
+00:44:14.760 --> 00:44:18.464
+<v Candidate>The blood and urine look the same, so it comes down to volume.
+
+538
+00:44:18.464 --> 00:44:24.760
+<v Candidate>Salt wasting has a negative fluid balance, weight loss, a rising urea and haematocrit, and a high urine output.
+
+539
+00:44:24.760 --> 00:44:28.993
+<v Candidate>Inappropriate hormone release is euvolaemic with a normal or low output.
+
+540
+00:44:28.993 --> 00:44:30.792
+<v Candidate>It does change management.
+
+541
+00:44:30.792 --> 00:44:34.813
+<v Candidate>After subarachnoid haemorrhage I wouldn't fluid restrict either way.
+
+542
+00:44:34.813 --> 00:44:41.480
+<v Candidate>I'd give isotonic or hypertonic saline to keep the patient euvolaemic, and fludrocortisone can reduce the natriuresis.
+
+543
+00:44:41.980 --> 00:44:42.787
+<v Examiner>Correct.
+
+544
+00:44:42.787 --> 00:44:45.712
+<v Examiner>In subarachnoid haemorrhage, don't restrict fluid.
+
+545
+00:44:45.712 --> 00:44:47.780
+<v Examiner>That single line is worth a mark.
+
+546
+00:44:49.180 --> 00:44:51.501
+<v Tutor>Fifth, electrolyte replacements.
+
+547
+00:44:51.501 --> 00:44:57.244
+<v Tutor>The syllabus asks you to know the doses, and the College asks them inside bigger questions.
+
+548
+00:44:57.244 --> 00:44:58.289
+<v Tutor>Potassium.
+
+549
+00:44:58.289 --> 00:45:01.596
+<v Tutor>Peripheral infusions up to 10 millimoles an hour.
+
+550
+00:45:01.596 --> 00:45:07.571
+<v Tutor>Through a central line, up to about 20 to 40 millimoles an hour with continuous ECG monitoring.
+
+551
+00:45:07.571 --> 00:45:11.168
+<v Tutor>Replace magnesium too, or the potassium won't stay up.
+
+552
+00:45:11.168 --> 00:45:12.213
+<v Tutor>Magnesium.
+
+553
+00:45:12.213 --> 00:45:18.246
+<v Tutor>10 to 20 millimoles over 20 minutes to an hour in an emergency, such as torsades or arrhythmias.
+
+554
+00:45:18.246 --> 00:45:21.669
+<v Tutor>Watch reflexes and blood pressure in renal failure.
+
+555
+00:45:21.669 --> 00:45:34.723
+<v Tutor>In eclampsia, the regimen is different: a loading dose of 4 grams over 15 to 20 minutes, then 1 gram an hour for 24 hours, and the patellar reflexes, respiratory rate and urine output are your monitoring for toxicity.
+
+556
+00:45:34.723 --> 00:45:35.767
+<v Tutor>Phosphate.
+
+557
+00:45:35.767 --> 00:45:44.180
+<v Tutor>Severe hypophosphataemia, below 0.32 millimoles per litre, causes respiratory muscle weakness, failure to wean and myocardial depression.
+
+558
+00:45:44.180 --> 00:45:49.691
+<v Tutor>Replace with about 0.3 to 0.5 millimoles per kilogram intravenously over 6 to 12 hours.
+
+559
+00:45:49.691 --> 00:45:52.940
+<v Tutor>Monitor calcium, because phosphate will drop it.
+
+560
+00:45:53.120 --> 00:46:07.128
+<v Tutor>And in refeeding, prevent it rather than chase it: start feeding at about 10 kilocalories per kilogram per day in high-risk patients, give thiamine before the first feed, and check phosphate, potassium and magnesium daily for the first few days.
+
+561
+00:46:07.128 --> 00:46:12.388
+<v Tutor>This was one of the omissions in the hypophosphataemia question on the 14th of October.
+
+562
+00:46:12.388 --> 00:46:13.274
+<v Tutor>Calcium.
+
+563
+00:46:13.274 --> 00:46:18.645
+<v Tutor>10 millilitres of 10 percent calcium gluconate gives 2.2 millimoles of elemental calcium.
+
+564
+00:46:18.645 --> 00:46:24.846
+<v Tutor>The same volume of calcium chloride gives 6.8 millimoles, three times as much, but it burns if it leaks.
+
+565
+00:46:24.846 --> 00:46:30.826
+<v Tutor>Use it for hyperkalaemia with ECG changes, calcium channel blocker toxicity and massive transfusion.
+
+566
+00:46:30.826 --> 00:46:33.041
+<v Tutor>And sodium, which we've covered.
+
+567
+00:46:33.041 --> 00:46:35.920
+<v Tutor>Correction limits matter more than the dose.
+
+568
+00:46:36.320 --> 00:46:42.508
+<v Tutor>Because electrolyte replacement questions often turn on hyperkalaemia, here are the emergency numbers.
+
+569
+00:46:42.508 --> 00:46:53.702
+<v Tutor>Stabilise the membrane first with calcium if the ECG has changed: 10 millilitres of 10 percent calcium chloride or 30 millilitres of 10 percent gluconate, repeated if the ECG doesn't improve.
+
+570
+00:46:53.702 --> 00:47:08.047
+<v Tutor>Shift potassium with 10 units of short-acting insulin and 50 millilitres of 50 percent glucose, which lowers potassium by about 0.6 to 1 millimole per litre within 30 minutes, and check glucose hourly for six hours because hypoglycaemia is common.
+
+571
+00:47:08.047 --> 00:47:12.153
+<v Tutor>Salbutamol, 10 to 20 milligrams nebulised, adds a similar effect.
+
+572
+00:47:12.153 --> 00:47:15.472
+<v Tutor>Bicarbonate helps mainly when there is an acidosis.
+
+573
+00:47:15.472 --> 00:47:21.885
+<v Tutor>Then remove potassium: loop diuretics if the kidneys work, a potassium binder, and dialysis if they don't.
+
+574
+00:47:21.885 --> 00:47:26.160
+<v Tutor>The calcium chloride versus gluconate point leads to the last pause.
+
+575
+00:47:26.560 --> 00:47:28.734
+<v Tutor>Sixth and last pause, a quick one.
+
+576
+00:47:28.734 --> 00:47:37.014
+<v Tutor>Ten millilitres of 10 percent calcium gluconate versus ten millilitres of 10 percent calcium chloride: how many millimoles of elemental calcium in each?
+
+577
+00:47:37.014 --> 00:47:38.360
+<v Tutor>Pause, and answer.
+
+578
+00:47:43.760 --> 00:47:45.632
+<v Tutor>Gluconate, 2.2 millimoles.
+
+579
+00:47:45.632 --> 00:47:47.449
+<v Tutor>Chloride, 6.8 millimoles.
+
+580
+00:47:47.449 --> 00:47:49.320
+<v Tutor>About three times as much.
+
+581
+00:47:49.320 --> 00:47:54.000
+<v Tutor>That's one of the numbers that examiners expect you to know without thinking.
+
+582
+00:47:55.400 --> 00:47:57.044
+<v Tutor>Before Monday, one thing.
+
+583
+00:47:57.044 --> 00:48:04.315
+<v Tutor>Take the post-valve gas from today, write it out by hand in the six steps, with every calculation shown, and time yourself to six minutes.
+
+584
+00:48:04.315 --> 00:48:07.004
+<v Tutor>Then do the same with the gas in today's plan.
+
+585
+00:48:07.004 --> 00:48:11.686
+<v Tutor>The marks in the acid-base questions came from the calculations you didn't write down.
+
+586
+00:48:11.686 --> 00:48:14.574
+<v Tutor>That's the fastest win available to you this week.
+
+587
+00:48:14.574 --> 00:48:16.417
+<v Tutor>This has been Part Two Daily.
+
+588
+00:48:16.417 --> 00:48:18.160
+<v Tutor>Good luck with today's set.
