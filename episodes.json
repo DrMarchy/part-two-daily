@@ -1,5 +1,161 @@
 [
  {
+  "date": "2026-11-02",
+  "title": "Week 4 primer: cardiac intensive care, from the arrest to the brain",
+  "description": "The week 4 primer on cardiac intensive care: how the College asks ECG, arrest, arrhythmia and post-cardiac-surgery questions, the 2025 ERC-ESICM post-resuscitation guideline, and the rise and fall of cooling through TTM and TTM2. Exam practice on neuroprognostication (2021.1 Q16) and a round-up of six more cardiac topics.",
+  "file": "episodes/2026-11-02.mp3",
+  "bytes": 9289254,
+  "seconds": 2322.1,
+  "vtt": "episodes/2026-11-02.vtt",
+  "page": "episodes/2026-11-02.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 30: Cardiopulmonary resuscitation (including defibrillation), pp. 985-1008",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 31: Cardiac arrhythmias, pp. 1020-1211",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 32: Cardiac pacing, pp. 1223-1251",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 73: Postoperative cardiac intensive care, pp. 2840-2863",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 33: Acute heart failure and pulmonary hypertension, pp. 1258-1310",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 29: Acute coronary syndromes, investigations and interventions, pp. 888-959",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 35: Acute aortic syndrome, pp. 1373-1414",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 27: Vasodilators and antihypertensives, pp. 820-849",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 34: Valvular and congenital heart disease and infective endocarditis, pp. 1329-1363",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "ERC-ESICM guidelines 2025: post-resuscitation care. Nolan JP, Sandroni C, Cariou A et al. Intensive Care Med 2025;51:2213-2288",
+     "url": "https://doi.org/10.1007/s00134-025-08117-3"
+    },
+    {
+     "group": "Guidelines",
+     "label": "2024 ESC Guidelines for the management of atrial fibrillation. Eur Heart J 2024",
+     "url": "https://doi.org/10.1093/eurheartj/ehae176"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "TTM: Nielsen N et al. Targeted temperature management at 33 C versus 36 C after cardiac arrest. NEJM 2013",
+     "url": "https://doi.org/10.1056/NEJMoa1310519"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "TTM2: Dankiewicz J et al. Hypothermia versus normothermia after out-of-hospital cardiac arrest. NEJM 2021",
+     "url": "https://doi.org/10.1056/NEJMoa2100591"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Landmark Studies in Critical Care, ch 59: Targeted Temperature Management After Cardiac Arrest: 33 C Versus 36 C (TTM), pp. 502-508",
+     "url": null
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Controversies in Critical Care, ch 24: Targeted Temperature Management in Out-of-Hospital Cardiac Arrest, pp. 216-223",
+     "url": null
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q16: Prognostication after cardiac arrest (episode exam practice)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-16"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2023.2 Q2: Prognostication after cardiac arrest",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2023-paper-2-saqs/question-2"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.1 Q28: Prognostication after cardiac arrest",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-1-saqs/question-28"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.2 Q9: Atrial fibrillation in the critically ill",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-2-saqs/question-9"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2025.1 Q12: Systolic anterior motion after cardiac surgery (your mark 7)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2025-paper-1-saqs/question-12"
+    },
+    {
+     "group": "Further reading",
+     "label": "ERC-ESICM guidelines 2021: post-resuscitation care. Intensive Care Med 2021",
+     "url": "https://doi.org/10.1007/s00134-021-06368-4"
+    },
+    {
+     "group": "Further reading",
+     "label": "Left ventricular outflow tract obstruction in critically ill patients: the LVOTO bundle. Anaesth Crit Care Pain Med 2026",
+     "url": "https://doi.org/10.1016/j.accpm.2026.101770"
+    }
+   ],
+   "takeaways": [
+    "Post-arrest targets (ERC-ESICM 2025): MAP above 60-65 mmHg, SpO2 94-98%, PaCO2 35-45 mmHg, and active fever prevention at 37.5 C or below in comatose survivors.",
+    "Neuroprognostication: exclude confounders, conclude no earlier than 72 h, and call a poor outcome likely only with two or more predictors; NSE threshold is above 60 micrograms/L at 48 or 72 h (not the old 33).",
+    "TTM (2013): 33 vs 36 C, mortality 50% vs 48% (HR 1.06, 0.89-1.28); TTM2 (2021): 33 C vs fever prevention, 6-month mortality 50% vs 48% (RR 1.04) with more unstable arrhythmia (24% vs 16%).",
+    "Broad complex tachycardia: AV dissociation, capture/fusion beats, no precordial RS or R-to-S above 100 ms, concordance and northwest axis favour VT; pre-excited AF gets DC cardioversion, never an AV nodal blocker.",
+    "Arrest after cardiac surgery: up to three stacked shocks for witnessed VF, pace asystole via epicardial wires, resternotomy within 5 minutes.",
+    "SAM after cardiac surgery causes both LVOT obstruction and mitral regurgitation: fluid, slow the rate, stop inotropes, pure vasoconstrictor.",
+    "Hypertensive emergency: lower MAP by no more than 25% in the first hour, except dissection (HR below 60, SBP 100-120, beta-blocker first).",
+    "Mechanical support in infarct-related shock: IABP-SHOCK II and ECLS-SHOCK neutral; DanGer Shock microaxial pump 45.8% vs 58.5% 6-month mortality in STEMI shock."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 63.8,
+     "title": "This week: Cardiac intensive care"
+    },
+    {
+     "start": 1186.72,
+     "title": "Landmark trials"
+    },
+    {
+     "start": 1500.08,
+     "title": "Exam practice"
+    },
+    {
+     "start": 1814.8,
+     "title": "Syllabus round-up"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-10-31",
   "title": "Spiral review: fluid responsiveness when the tests fail, non-resolving pneumonia, and lactate after valve surgery",
   "description": "A Saturday spiral review. Fluid responsiveness and de-resuscitation with the rise and fall of starch and the CHEST trial, community-acquired pneumonia that fails to resolve, and lactate after aortic valve replacement with a worked blood gas. Journal watch on PELICAN, then a round-up of blood gas analysis, ABG interpretation, diabetes insipidus, SIADH and electrolyte replacement.",
