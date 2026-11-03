@@ -1,5 +1,142 @@
 [
  {
+  "date": "2026-11-04",
+  "title": "Deep dive: the high anion gap acidosis, from pyroglutamate to antifreeze",
+  "description": "A consultant-level deep dive on the high anion gap metabolic acidosis: a seven-line method for the gas, GOLD MARK, lactate, pyroglutamic acidosis and the toxic alcohols, with the EXTRIP and Surviving Sepsis 2026 guidance. Then BICAR-ICU and BICARICU-2 on bicarbonate, and exam practice on the College's 2020.2 Question 20.",
+  "file": "episodes/2026-11-04.mp3",
+  "bytes": 8989167,
+  "seconds": 2247.1,
+  "vtt": "episodes/2026-11-04.vtt",
+  "page": "episodes/2026-11-04.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 57: Acid-base disorders and hyperlactataemia, pp. 2288-2319 (Lactic Acidosis p. 2299; Clinical Acid-Base Disorders p. 2309)",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition. Chapter 101: Poisoning and drug intoxication, pp. 3636-3668 (toxic alcohols, p. 3645)",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 (Prescott et al., Crit Care Med 2026)",
+     "url": "https://doi.org/10.1097/CCM.0000000000007075"
+    },
+    {
+     "group": "Guidelines",
+     "label": "EXTRIP: Extracorporeal treatment for ethylene glycol poisoning (Ghannoum et al., Crit Care 2023)",
+     "url": "https://doi.org/10.1186/s13054-022-04227-2"
+    },
+    {
+     "group": "Guidelines",
+     "label": "EXTRIP: Recommendations for the role of extracorporeal treatments in acute methanol poisoning (Roberts et al., Crit Care Med 2015)",
+     "url": "https://doi.org/10.1097/CCM.0000000000000708"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "BICAR-ICU: Jaber et al. Sodium bicarbonate therapy for patients with severe metabolic acidaemia in the ICU. Lancet 2018",
+     "url": "https://doi.org/10.1016/S0140-6736(18)31080-8"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "BICARICU-2: Jung et al. Sodium bicarbonate for severe metabolic acidemia and acute kidney injury. JAMA 2025",
+     "url": "https://doi.org/10.1001/jama.2025.20231"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Brent et al. Fomepizole for the treatment of ethylene glycol poisoning. N Engl J Med 1999",
+     "url": "https://doi.org/10.1056/NEJM199903183401102"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Controversies in Critical Care, Chapter 16: Hyperlactatemia in critical illness: time for reappraisal? pp. 153-163",
+     "url": null
+    },
+    {
+     "group": "Past College questions",
+     "label": "2014.2 Q23: Pyroglutamic acidosis (your mark 2)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2014-paper-2-saqs/question-23"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2020.2 Q20: Uraemia; ethylene glycol and the lactate gap (your mark 5.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2020-paper-2-saqs/question-202"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2013.1 Q3: Causes of metabolic acidosis; high anion gap acidosis",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2013-paper-1-saqs/question-31"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2019.1 Q18: Toxic alcohols (methanol)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2019-paper-1-saqs/question-183"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2010.2 Q25: Causes of a high anion gap and raised osmolar gap",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2010-paper-2-saqs/question-252"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2016.1 Q4: Causes of lactic acidosis; causes of metabolic acidosis",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2016-paper-1-saqs/question-41"
+    },
+    {
+     "group": "Further reading",
+     "label": "Stewart et al. Pyroglutamate acidosis 2023: a review of 100 cases. Clin Med 2024",
+     "url": "https://doi.org/10.1016/j.clinme.2024.100030"
+    },
+    {
+     "group": "Further reading",
+     "label": "Kraut and Mullins. Toxic alcohols. N Engl J Med 2018",
+     "url": "https://doi.org/10.1056/NEJMra1615295"
+    },
+    {
+     "group": "Further reading",
+     "label": "Mehta et al. GOLD MARK: an anion gap mnemonic for the 21st century. Lancet 2008",
+     "url": "https://doi.org/10.1016/S0140-6736(08)61398-7"
+    },
+    {
+     "group": "Further reading",
+     "label": "Irwin & Rippe 9th edition, Chapter 198: Metabolic acidosis and metabolic alkalosis, pp. 6972-7005",
+     "url": null
+    }
+   ],
+   "takeaways": [
+    "Write the numbers before the words: expected PaCO2 = 1.5 x HCO3 + 8 (plus or minus 2); a measured PaCO2 below that range is a concurrent respiratory alkalosis, as in 2020.2 Q20 (PaCO2 16 vs expected 21.5).",
+    "Correct the anion gap (Na - Cl - HCO3, normal 12) for albumin below 40 g/L by adding 0.25 per g/L: albumin 20 turns a gap of 14 into 19.",
+    "Delta ratio below 0.4 is NAGMA, 0.4-0.8 mixed, 1-2 pure HAGMA (DKA about 1, lactate about 1.6), above 2 a coexisting metabolic alkalosis.",
+    "Pyroglutamic acidosis (your miss, 2/10 on 19 Oct): paracetamol depletes glutathione (lost feedback, excess 5-oxoproline) and flucloxacillin inhibits 5-oxoprolinase; stop both, treat sepsis, feed, give N-acetylcysteine.",
+    "Ethylene glycol causes a 'lactate gap' (your miss, 5.5/10 on 16 Oct): glycolate is read as lactate by the blood gas analyser's lactate oxidase electrode; EXTRIP 2023 recommends dialysis for an anion gap above 27, glycolate above 12 mmol/L or KDIGO stage 2-3 AKI.",
+    "Methanol: block alcohol dehydrogenase (fomepizole 15 mg/kg load, then 10 mg/kg 12-hourly), give folinic acid, and dialyse (EXTRIP 2015) for coma, seizures, visual deficits, pH 7.15 or below, or anion gap above 24.",
+    "BICARICU-2 (JAMA 2025, n=627): bicarbonate to pH 7.30 or higher in severe acidaemia with stage 2-3 AKI did not reduce 90-day mortality (62.1 vs 61.7%) but KRT fell from 50.2 to 34.7%.",
+    "SSC 2026 still suggests bicarbonate for septic shock with pH 7.2 or below and AKIN 2-3 AKI (very low certainty), and suggests against it for haemodynamics in lactic acidaemia."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 55.8,
+     "title": "Tutorial: the high anion gap metabolic acidosis"
+    },
+    {
+     "start": 1295.66,
+     "title": "Landmark trials: bicarbonate in severe acidaemia"
+    },
+    {
+     "start": 1641.58,
+     "title": "Exam practice: 2020.2 Question 20"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-02",
   "title": "Week 4 primer: cardiac intensive care, from the arrest to the brain",
   "description": "The week 4 primer on cardiac intensive care: how the College asks ECG, arrest, arrhythmia and post-cardiac-surgery questions, the 2025 ERC-ESICM post-resuscitation guideline, and the rise and fall of cooling through TTM and TTM2. Exam practice on neuroprognostication (2021.1 Q16) and a round-up of six more cardiac topics.",

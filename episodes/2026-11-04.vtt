@@ -1,0 +1,2189 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.791
+<v Tutor>Welcome to Part Two Daily.
+
+2
+00:00:01.791 --> 00:00:05.635
+<v Tutor>It's Wednesday the fourth of November, and this is the deep dive.
+
+3
+00:00:05.635 --> 00:00:08.531
+<v Tutor>Today is the high anion gap metabolic acidosis.
+
+4
+00:00:08.531 --> 00:00:10.374
+<v Tutor>Not the whole of acid-base.
+
+5
+00:00:10.374 --> 00:00:17.958
+<v Tutor>Just the gap: how to measure it properly, what fills it, and how to find the one cause that matters before the patient runs out of time.
+
+6
+00:00:17.958 --> 00:00:19.748
+<v Tutor>Why this, in cardiac week?
+
+7
+00:00:19.748 --> 00:00:27.068
+<v Tutor>Because today's practice set leans hard on metabolic acidosis, and because the theme is one of the most examined in the whole exam.
+
+8
+00:00:27.068 --> 00:00:33.440
+<v Tutor>The cardiac links are real, too: the lactate after bypass, the lactate after adrenaline, the gas after an arrest.
+
+9
+00:00:33.440 --> 00:00:35.178
+<v Tutor>Here's the running order.
+
+10
+00:00:35.178 --> 00:00:45.605
+<v Tutor>First, a tutorial built on Oh's chapter fifty-seven, with toxic alcohols from chapter one hundred and one, and the governing guidance, the Surviving Sepsis Campaign and the EXTRIP workgroup.
+
+11
+00:00:45.605 --> 00:00:47.817
+<v Tutor>Second, two trials on bicarbonate.
+
+12
+00:00:47.817 --> 00:00:52.399
+<v Tutor>Third, exam practice with a real College question, an examiner and a candidate.
+
+13
+00:00:52.399 --> 00:00:53.505
+<v Tutor>Pencil ready.
+
+14
+00:00:53.505 --> 00:00:54.400
+<v Tutor>Let's go.
+
+15
+00:00:55.800 --> 00:00:57.309
+<v Tutor>Start with a scenario.
+
+16
+00:00:57.309 --> 00:00:58.768
+<v Tutor>Day three in the ICU.
+
+17
+00:00:58.768 --> 00:01:05.157
+<v Tutor>A seventy-year-old woman, thin, treated for a wound infection with flucloxacillin, and on regular paracetamol for pain.
+
+18
+00:01:05.157 --> 00:01:06.615
+<v Tutor>She's breathing fast.
+
+19
+00:01:06.615 --> 00:01:08.225
+<v Tutor>Her bicarbonate is five.
+
+20
+00:01:08.225 --> 00:01:09.583
+<v Tutor>Her lactate is one.
+
+21
+00:01:09.583 --> 00:01:11.193
+<v Tutor>Her ketones are trivial.
+
+22
+00:01:11.193 --> 00:01:14.513
+<v Tutor>Her creatinine is up, but not enough to explain any of it.
+
+23
+00:01:14.513 --> 00:01:17.079
+<v Tutor>The registrar says, it must be the kidneys.
+
+24
+00:01:17.079 --> 00:01:17.783
+<v Tutor>Is it?
+
+25
+00:01:17.783 --> 00:01:19.091
+<v Tutor>Hold that thought.
+
+26
+00:01:19.091 --> 00:01:23.920
+<v Tutor>By the end of this part you should be able to name the acid, the mechanism, and the fix.
+
+27
+00:01:24.320 --> 00:01:26.758
+<v Tutor>First, how the College asks this.
+
+28
+00:01:26.758 --> 00:01:37.464
+<v Tutor>In the curriculum's bank of past questions, causes of metabolic acidosis appears in eighteen past questions, from the 2011 second sitting through to the 2022 first sitting.
+
+29
+00:01:37.464 --> 00:01:40.675
+<v Tutor>Causes of lactic acidosis appears in thirteen.
+
+30
+00:01:40.675 --> 00:01:49.180
+<v Tutor>Pyroglutamic acidosis, which candidates still treat as a curiosity, has been examined five times, from 2011 to the 2025 second sitting.
+
+31
+00:01:49.180 --> 00:01:56.733
+<v Tutor>And across the whole bank, sixty-three question parts have acidosis or the anion gap in their title, from 2007 to 2026.
+
+32
+00:01:56.733 --> 00:01:59.291
+<v Tutor>The form is almost always the same.
+
+33
+00:01:59.291 --> 00:02:00.896
+<v Tutor>A table of results.
+
+34
+00:02:00.896 --> 00:02:09.579
+<v Tutor>Then three verbs: describe the abnormalities, list the likely causes, and give one associated clinical scenario, or explain the mechanism.
+
+35
+00:02:09.579 --> 00:02:12.375
+<v Tutor>That means the marks sit in two places.
+
+36
+00:02:12.375 --> 00:02:15.289
+<v Tutor>The numbers, written down and calculated.
+
+37
+00:02:15.289 --> 00:02:18.560
+<v Tutor>And the specific cause, named, not gestured at.
+
+38
+00:02:18.960 --> 00:02:22.148
+<v Tutor>So here is the framework the examiners reward.
+
+39
+00:02:22.148 --> 00:02:28.585
+<v Tutor>Write it as a short stack of lines, one number per line, before you write a single word of diagnosis.
+
+40
+00:02:28.585 --> 00:02:29.588
+<v Tutor>Line one.
+
+41
+00:02:29.588 --> 00:02:30.474
+<v Tutor>The pH.
+
+42
+00:02:30.474 --> 00:02:32.363
+<v Tutor>Acidaemia or alkalaemia.
+
+43
+00:02:32.363 --> 00:02:33.367
+<v Tutor>Line two.
+
+44
+00:02:33.367 --> 00:02:35.021
+<v Tutor>The primary process.
+
+45
+00:02:35.021 --> 00:02:38.977
+<v Tutor>A low bicarbonate with a low pH means a metabolic acidosis.
+
+46
+00:02:38.977 --> 00:02:40.099
+<v Tutor>Line three.
+
+47
+00:02:40.099 --> 00:02:41.339
+<v Tutor>Compensation.
+
+48
+00:02:41.339 --> 00:02:50.963
+<v Tutor>Winters' formula, from 1967: expected carbon dioxide equals one and a half times the bicarbonate, plus eight, plus or minus two, in millimetres of mercury.
+
+49
+00:02:50.963 --> 00:02:56.986
+<v Tutor>If the measured carbon dioxide is higher than that, there's a coexisting respiratory acidosis.
+
+50
+00:02:56.986 --> 00:03:00.410
+<v Tutor>If it's lower, a coexisting respiratory alkalosis.
+
+51
+00:03:00.410 --> 00:03:01.473
+<v Tutor>Line four.
+
+52
+00:03:01.473 --> 00:03:02.772
+<v Tutor>The anion gap.
+
+53
+00:03:02.772 --> 00:03:06.138
+<v Tutor>Sodium minus the sum of chloride and bicarbonate.
+
+54
+00:03:06.138 --> 00:03:10.862
+<v Tutor>The College convention leaves potassium out, and takes twelve as normal.
+
+55
+00:03:10.862 --> 00:03:11.924
+<v Tutor>Line five.
+
+56
+00:03:11.924 --> 00:03:16.412
+<v Tutor>Correct for albumin whenever albumin is below forty grams per litre.
+
+57
+00:03:16.412 --> 00:03:22.671
+<v Tutor>Add a quarter of a millimole per litre to the gap for every gram per litre of albumin below forty.
+
+58
+00:03:22.671 --> 00:03:25.151
+<v Tutor>So an albumin of twenty adds five.
+
+59
+00:03:25.151 --> 00:03:26.155
+<v Tutor>Line six.
+
+60
+00:03:26.155 --> 00:03:27.572
+<v Tutor>The delta ratio.
+
+61
+00:03:27.572 --> 00:03:30.996
+<v Tutor>The rise in the gap, over the fall in bicarbonate.
+
+62
+00:03:30.996 --> 00:03:35.838
+<v Tutor>That's the gap minus twelve, divided by twenty-four minus the bicarbonate.
+
+63
+00:03:35.838 --> 00:03:36.960
+<v Tutor>Line seven.
+
+64
+00:03:37.140 --> 00:03:41.057
+<v Tutor>If the gap is high and the cause isn't obvious, the osmolar gap.
+
+65
+00:03:41.057 --> 00:03:48.510
+<v Tutor>Measured osmolality minus calculated, where calculated is two times sodium, plus glucose, plus urea, all in millimoles per litre.
+
+66
+00:03:48.510 --> 00:03:49.598
+<v Tutor>Seven lines.
+
+67
+00:03:49.598 --> 00:03:52.046
+<v Tutor>Perhaps ninety seconds of arithmetic.
+
+68
+00:03:52.046 --> 00:04:02.655
+<v Tutor>In your own marked answers this month, this is exactly where the missing marks were: an expected carbon dioxide not calculated, a delta ratio not written, an osmolar gap left in the stem.
+
+69
+00:04:02.655 --> 00:04:04.940
+<v Tutor>The numbers come before the words.
+
+70
+00:04:05.340 --> 00:04:06.242
+<v Tutor>Try one.
+
+71
+00:04:06.242 --> 00:04:14.076
+<v Tutor>A patient's sodium is one hundred and thirty-six, chloride one hundred and two, bicarbonate twenty, albumin twenty grams per litre.
+
+72
+00:04:14.076 --> 00:04:18.755
+<v Tutor>What is the albumin-corrected anion gap, and does it change your diagnosis?
+
+73
+00:04:18.755 --> 00:04:20.220
+<v Tutor>Pause, and answer.
+
+74
+00:04:25.620 --> 00:04:30.261
+<v Tutor>The raw gap is one hundred and thirty-six minus one hundred and twenty-two.
+
+75
+00:04:30.261 --> 00:04:31.604
+<v Tutor>That's fourteen.
+
+76
+00:04:31.604 --> 00:04:33.058
+<v Tutor>Just above normal.
+
+77
+00:04:33.058 --> 00:04:34.344
+<v Tutor>Now correct it.
+
+78
+00:04:34.344 --> 00:04:37.196
+<v Tutor>Albumin is twenty below forty, so add five.
+
+79
+00:04:37.196 --> 00:04:39.321
+<v Tutor>The corrected gap is nineteen.
+
+80
+00:04:39.321 --> 00:04:43.850
+<v Tutor>That's a real high anion gap acidosis hiding behind a near-normal number.
+
+81
+00:04:43.850 --> 00:04:50.617
+<v Tutor>This is the commonest trap in ICU acid-base, because our patients' albumin is so often in the teens and twenties.
+
+82
+00:04:50.617 --> 00:04:54.140
+<v Tutor>An uncorrected gap in the ICU is a gap you can't trust.
+
+83
+00:04:54.540 --> 00:04:59.407
+<v Tutor>Now the delta ratio, because it earns marks and candidates fumble the bands.
+
+84
+00:04:59.407 --> 00:05:04.738
+<v Tutor>Below zero point four: the fall in bicarbonate is mostly not from unmeasured anions.
+
+85
+00:05:04.738 --> 00:05:08.156
+<v Tutor>That's a hyperchloraemic normal anion gap acidosis.
+
+86
+00:05:08.156 --> 00:05:13.197
+<v Tutor>Zero point four to zero point eight: a mixed picture, high gap plus normal gap.
+
+87
+00:05:13.197 --> 00:05:17.716
+<v Tutor>Think renal failure, or a ketoacidosis being resuscitated with saline.
+
+88
+00:05:17.716 --> 00:05:20.324
+<v Tutor>One to two: a pure high gap acidosis.
+
+89
+00:05:20.324 --> 00:05:25.017
+<v Tutor>Ketoacidosis tends to sit near one, because ketoanions are lost in urine.
+
+90
+00:05:25.017 --> 00:05:32.955
+<v Tutor>Lactic acidosis tends to sit around one point six, partly because lactate leaves cells more slowly than hydrogen ion is buffered.
+
+91
+00:05:32.955 --> 00:05:37.300
+<v Tutor>Above two: the bicarbonate is higher than it should be for the gap.
+
+92
+00:05:37.300 --> 00:05:45.991
+<v Tutor>That means a coexisting metabolic alkalosis, from vomiting, diuretics or nasogastric loss, or a pre-existing compensated respiratory acidosis.
+
+93
+00:05:45.991 --> 00:05:48.077
+<v Tutor>Say which one fits the stem.
+
+94
+00:05:48.077 --> 00:05:51.380
+<v Tutor>Examiners want the inference, not just the ratio.
+
+95
+00:05:51.780 --> 00:05:53.918
+<v Tutor>Now, what fills the gap.
+
+96
+00:05:53.918 --> 00:05:56.123
+<v Tutor>You'll remember MUDPILES.
+
+97
+00:05:56.123 --> 00:06:02.872
+<v Tutor>It dates from an era of paraldehyde, and it misses two causes that ICU patients actually get.
+
+98
+00:06:02.872 --> 00:06:08.886
+<v Tutor>So in 2008 Mehta and the Emmetts wrote a letter to the Lancet proposing GOLD MARK.
+
+99
+00:06:08.886 --> 00:06:12.694
+<v Tutor>G, glycols: ethylene glycol and propylene glycol.
+
+100
+00:06:12.694 --> 00:06:16.035
+<v Tutor>O, oxoproline, which is pyroglutamic acid.
+
+101
+00:06:16.035 --> 00:06:17.438
+<v Tutor>L, L-lactate.
+
+102
+00:06:17.438 --> 00:06:18.842
+<v Tutor>D, D-lactate.
+
+103
+00:06:18.842 --> 00:06:20.178
+<v Tutor>M, methanol.
+
+104
+00:06:20.178 --> 00:06:21.447
+<v Tutor>A, aspirin.
+
+105
+00:06:21.447 --> 00:06:23.118
+<v Tutor>R, renal failure.
+
+106
+00:06:23.118 --> 00:06:24.722
+<v Tutor>K, ketoacidosis.
+
+107
+00:06:24.722 --> 00:06:28.063
+<v Tutor>The value of GOLD MARK isn't the mnemonic.
+
+108
+00:06:28.063 --> 00:06:32.272
+<v Tutor>It's that it forces two questions MUDPILES never asked.
+
+109
+00:06:32.272 --> 00:06:34.477
+<v Tutor>Could this be oxoproline?
+
+110
+00:06:34.477 --> 00:06:38.353
+<v Tutor>And could the lactate assay be blind to this acid?
+
+111
+00:06:38.353 --> 00:06:45.034
+<v Tutor>In an SAQ, list them in order of likelihood for the patient in the stem, not alphabetically.
+
+112
+00:06:45.034 --> 00:06:50.113
+<v Tutor>A post-operative cardiac patient on adrenaline gets L-lactate first.
+
+113
+00:06:50.113 --> 00:06:56.260
+<v Tutor>A malnourished woman on flucloxacillin and paracetamol gets oxoproline near the top.
+
+114
+00:06:56.660 --> 00:07:01.128
+<v Tutor>Take lactate first, because it's the cause you'll see every day.
+
+115
+00:07:01.128 --> 00:07:08.824
+<v Tutor>Oh's chapter fifty-seven treats it under hyperlactataemia, and the useful split is still Cohen and Woods, from 1976.
+
+116
+00:07:08.824 --> 00:07:14.906
+<v Tutor>Type A is the hypoxic kind: shock, regional ischaemia, severe hypoxaemia, carbon monoxide.
+
+117
+00:07:14.906 --> 00:07:17.947
+<v Tutor>Type B is lactate without global hypoxia.
+
+118
+00:07:17.947 --> 00:07:23.160
+<v Tutor>B one, with disease: sepsis, liver failure, malignancy, thiamine deficiency.
+
+119
+00:07:23.160 --> 00:07:32.593
+<v Tutor>B two, from drugs and toxins: adrenaline, salbutamol, metformin, linezolid, propofol infusion syndrome, cyanide, the nucleoside antiretrovirals.
+
+120
+00:07:32.593 --> 00:07:34.766
+<v Tutor>B three, the inborn errors.
+
+121
+00:07:34.766 --> 00:07:37.682
+<v Tutor>The cardiac links this week are direct.
+
+122
+00:07:37.682 --> 00:07:45.130
+<v Tutor>After bypass, lactate rises from low flow, from hypothermia, from lactate-containing prime, and from adrenaline.
+
+123
+00:07:45.130 --> 00:07:49.784
+<v Tutor>Adrenaline is worth a sentence of mechanism, because it's examined.
+
+124
+00:07:49.784 --> 00:07:56.239
+<v Tutor>It drives beta-two stimulated aerobic glycolysis and sodium-potassium ATPase activity in muscle.
+
+125
+00:07:56.239 --> 00:08:03.128
+<v Tutor>Pyruvate is made faster than the mitochondria can take it, so lactate rises with no oxygen debt at all.
+
+126
+00:08:03.128 --> 00:08:13.740
+<v Tutor>That's why a rising lactate on adrenaline with a good cardiac output and a falling central venous to arterial carbon dioxide gap isn't a signal to give more fluid.
+
+127
+00:08:13.920 --> 00:08:25.269
+<v Tutor>The Controversies in Critical Care chapter on hyperlactataemia makes the larger point: lactate is a fuel and a signal, not just a waste product, and clearance is a marker, not a target in itself.
+
+128
+00:08:25.269 --> 00:08:29.127
+<v Tutor>The Surviving Sepsis Campaign's 2026 guideline reflects that.
+
+129
+00:08:29.127 --> 00:08:37.960
+<v Tutor>It suggests measuring lactate, and serial lactate to guide resuscitation, but its remarks warn against continuing fluids just to normalise the number.
+
+130
+00:08:38.360 --> 00:08:39.906
+<v Tutor>Two lactate traps.
+
+131
+00:08:39.906 --> 00:08:41.393
+<v Tutor>First, D-lactate.
+
+132
+00:08:41.393 --> 00:08:44.188
+<v Tutor>Standard assays measure L-lactate only.
+
+133
+00:08:44.188 --> 00:08:51.384
+<v Tutor>So the patient with short bowel syndrome, confused after a carbohydrate load, has a big gap and a normal lactate.
+
+134
+00:08:51.384 --> 00:08:54.417
+<v Tutor>The gap is D-lactate from colonic bacteria.
+
+135
+00:08:54.417 --> 00:08:55.963
+<v Tutor>Second, metformin.
+
+136
+00:08:55.963 --> 00:09:00.661
+<v Tutor>Metformin-associated lactic acidosis can push the lactate above twenty.
+
+137
+00:09:00.661 --> 00:09:13.209
+<v Tutor>The EXTRIP workgroup, Calello and colleagues in 2015, recommend extracorporeal removal if the lactate is above twenty millimoles per litre, the pH is seven point zero or lower, or standard therapy fails.
+
+138
+00:09:13.209 --> 00:09:18.145
+<v Tutor>Shock, kidney impairment and a reduced conscious state lower the threshold.
+
+139
+00:09:18.145 --> 00:09:23.497
+<v Tutor>Intermittent haemodialysis with a bicarbonate bath is the preferred first session.
+
+140
+00:09:23.497 --> 00:09:29.920
+<v Tutor>Stop when the lactate is under three and the pH above seven point three five, and watch for rebound.
+
+141
+00:09:30.320 --> 00:09:32.443
+<v Tutor>Ketoacidosis next, briefly.
+
+142
+00:09:32.443 --> 00:09:35.051
+<v Tutor>Diabetic, alcoholic and starvation.
+
+143
+00:09:35.051 --> 00:09:36.506
+<v Tutor>Two exam points.
+
+144
+00:09:36.506 --> 00:09:37.234
+<v Tutor>One.
+
+145
+00:09:37.234 --> 00:09:43.117
+<v Tutor>The euglycaemic diabetic ketoacidosis of the sodium-glucose cotransporter two inhibitors.
+
+146
+00:09:43.117 --> 00:09:45.785
+<v Tutor>A normal glucose doesn't exclude it.
+
+147
+00:09:45.785 --> 00:09:48.029
+<v Tutor>Measure beta-hydroxybutyrate.
+
+148
+00:09:48.029 --> 00:09:48.757
+<v Tutor>Two.
+
+149
+00:09:48.757 --> 00:09:54.700
+<v Tutor>The nitroprusside test on a urine dipstick detects acetoacetate, not beta-hydroxybutyrate.
+
+150
+00:09:54.700 --> 00:10:05.496
+<v Tutor>In alcoholic ketoacidosis, the redox state pushes almost everything to beta-hydroxybutyrate, so the dipstick can look reassuring while the patient is profoundly acidotic.
+
+151
+00:10:05.496 --> 00:10:09.317
+<v Tutor>Renal failure: early on it gives a normal gap acidosis.
+
+152
+00:10:09.317 --> 00:10:16.534
+<v Tutor>The gap rises only when the glomerular filtration rate is very low, as sulfate, phosphate and urate accumulate.
+
+153
+00:10:16.534 --> 00:10:23.326
+<v Tutor>So when a modest creatinine rise is offered as the explanation for a bicarbonate of five, be suspicious.
+
+154
+00:10:23.326 --> 00:10:26.480
+<v Tutor>That's the scenario at the top of this part.
+
+155
+00:10:26.880 --> 00:10:29.274
+<v Tutor>Which brings us to pyroglutamic acid.
+
+156
+00:10:29.274 --> 00:10:31.456
+<v Tutor>It's also called five-oxoproline.
+
+157
+00:10:31.456 --> 00:10:40.289
+<v Tutor>And it's where this deep dive earns its keep, because you scored two out of ten on this on the nineteenth of October, after four and a half on the fourteenth.
+
+158
+00:10:40.289 --> 00:10:43.641
+<v Tutor>On the nineteenth, the gap was put down to the kidneys.
+
+159
+00:10:43.641 --> 00:10:48.111
+<v Tutor>Here's the mechanism, slowly, because the College answer gives marks for it.
+
+160
+00:10:48.111 --> 00:10:50.292
+<v Tutor>Glutathione is made in two steps.
+
+161
+00:10:50.292 --> 00:10:54.496
+<v Tutor>Glutamate and cysteine are joined by gamma-glutamylcysteine synthetase.
+
+162
+00:10:54.496 --> 00:10:57.476
+<v Tutor>Then glycine is added by glutathione synthetase.
+
+163
+00:10:57.476 --> 00:11:00.881
+<v Tutor>The first enzyme is held in check by glutathione itself.
+
+164
+00:11:00.881 --> 00:11:02.264
+<v Tutor>Negative feedback.
+
+165
+00:11:02.264 --> 00:11:03.967
+<v Tutor>Now deplete glutathione.
+
+166
+00:11:03.967 --> 00:11:07.372
+<v Tutor>Paracetamol does it, through its toxic metabolite NAPQI.
+
+167
+00:11:07.372 --> 00:11:10.405
+<v Tutor>So do sepsis, malnutrition and liver dysfunction.
+
+168
+00:11:10.405 --> 00:11:11.895
+<v Tutor>The brake comes off.
+
+169
+00:11:11.895 --> 00:11:19.717
+<v Tutor>Gamma-glutamylcysteine is made in excess, and when glycine is short, it's diverted by gamma-glutamyl cyclotransferase into five-oxoproline.
+
+170
+00:11:19.717 --> 00:11:25.251
+<v Tutor>Normally five-oxoprolinase, an ATP-dependent enzyme, converts five-oxoproline back to glutamate.
+
+171
+00:11:25.251 --> 00:11:27.911
+<v Tutor>Flucloxacillin inhibits five-oxoprolinase.
+
+172
+00:11:27.911 --> 00:11:30.199
+<v Tutor>So does netilmicin, and vigabatrin.
+
+173
+00:11:30.199 --> 00:11:31.742
+<v Tutor>So you have two hits.
+
+174
+00:11:31.742 --> 00:11:33.552
+<v Tutor>Paracetamol opens the tap.
+
+175
+00:11:33.552 --> 00:11:35.680
+<v Tutor>Flucloxacillin blocks the drain.
+
+176
+00:11:35.860 --> 00:11:44.474
+<v Tutor>The typical patient: female, elderly, malnourished, septic, with renal or hepatic impairment, on regular paracetamol, and often on flucloxacillin.
+
+177
+00:11:44.474 --> 00:11:47.775
+<v Tutor>Diagnosis is by exclusion first, then confirmation.
+
+178
+00:11:47.775 --> 00:11:48.837
+<v Tutor>A high gap.
+
+179
+00:11:48.837 --> 00:11:51.187
+<v Tutor>A lactate that doesn't explain it.
+
+180
+00:11:51.187 --> 00:11:53.312
+<v Tutor>Ketones that don't explain it.
+
+181
+00:11:53.312 --> 00:11:56.892
+<v Tutor>No toxic alcohol, no salicylate, kidneys not bad enough.
+
+182
+00:11:56.892 --> 00:12:00.193
+<v Tutor>Then urinary organic acids showing five-oxoproline.
+
+183
+00:12:00.193 --> 00:12:01.871
+<v Tutor>Treatment is specific.
+
+184
+00:12:01.871 --> 00:12:03.269
+<v Tutor>Stop paracetamol.
+
+185
+00:12:03.269 --> 00:12:05.395
+<v Tutor>Stop or change flucloxacillin.
+
+186
+00:12:05.395 --> 00:12:06.793
+<v Tutor>Treat the sepsis.
+
+187
+00:12:06.793 --> 00:12:08.192
+<v Tutor>Feed the patient.
+
+188
+00:12:08.192 --> 00:12:11.268
+<v Tutor>Give N-acetylcysteine to replenish glutathione.
+
+189
+00:12:11.268 --> 00:12:15.519
+<v Tutor>Bicarbonate and dialysis may support, but they aren't the treatment.
+
+190
+00:12:15.519 --> 00:12:25.700
+<v Tutor>In the College answer to the 2014 second-sitting question, the management line reads: supportive care, cease culprit drugs, treat sepsis, improve nutrition, N-acetylcysteine.
+
+191
+00:12:26.100 --> 00:12:31.929
+<v Tutor>Name the two drugs that cause pyroglutamic acidosis most often, and the step each one hits.
+
+192
+00:12:31.929 --> 00:12:33.460
+<v Tutor>Pause, and answer.
+
+193
+00:12:38.860 --> 00:12:48.162
+<v Tutor>Paracetamol depletes glutathione, which removes the negative feedback on gamma-glutamylcysteine synthetase, so excess substrate is cycled into five-oxoproline.
+
+194
+00:12:48.162 --> 00:12:54.011
+<v Tutor>Flucloxacillin inhibits five-oxoprolinase, so five-oxoproline can't be cleared back to glutamate.
+
+195
+00:12:54.011 --> 00:12:55.794
+<v Tutor>Tap open, drain blocked.
+
+196
+00:12:55.794 --> 00:12:59.860
+<v Tutor>If you write those two sentences, you've got the mechanism marks.
+
+197
+00:13:00.260 --> 00:13:06.377
+<v Tutor>Now a story, because the toxic alcohols have a history that shaped how every drug you prescribe is regulated.
+
+198
+00:13:06.377 --> 00:13:10.977
+<v Tutor>In 1937, sulfanilamide was the new wonder drug, one of the first antibacterials.
+
+199
+00:13:10.977 --> 00:13:14.898
+<v Tutor>It came as tablets, and there was demand for a liquid for children.
+
+200
+00:13:14.898 --> 00:13:16.676
+<v Tutor>A company in Tennessee, S.
+
+201
+00:13:16.676 --> 00:13:17.198
+<v Tutor>E.
+
+202
+00:13:17.198 --> 00:13:21.538
+<v Tutor>Massengill, found that sulfanilamide dissolved nicely in diethylene glycol.
+
+203
+00:13:21.538 --> 00:13:23.158
+<v Tutor>It tasted of raspberry.
+
+204
+00:13:23.158 --> 00:13:27.602
+<v Tutor>They called it Elixir Sulfanilamide, and shipped it across the United States.
+
+205
+00:13:27.602 --> 00:13:31.105
+<v Tutor>Diethylene glycol is a close chemical cousin of antifreeze.
+
+206
+00:13:31.105 --> 00:13:34.398
+<v Tutor>Within weeks people were dying of acute kidney failure.
+
+207
+00:13:34.398 --> 00:13:37.326
+<v Tutor>More than a hundred died, many of them children.
+
+208
+00:13:37.326 --> 00:13:38.633
+<v Tutor>Here's the twist.
+
+209
+00:13:38.633 --> 00:13:42.397
+<v Tutor>There was no law requiring that a new drug be tested for safety.
+
+210
+00:13:42.397 --> 00:13:49.612
+<v Tutor>The federal inspectors could only act on a technicality: an elixir, by definition, contained alcohol, and this one contained none.
+
+211
+00:13:49.612 --> 00:13:51.598
+<v Tutor>So the charge was misbranding.
+
+212
+00:13:51.598 --> 00:13:57.244
+<v Tutor>One of the scientists who helped confirm that the solvent was the killer was a young Frances Kelsey.
+
+213
+00:13:57.244 --> 00:14:02.420
+<v Tutor>Two decades later, at the Food and Drug Administration, she refused to approve thalidomide.
+
+214
+00:14:02.600 --> 00:14:11.215
+<v Tutor>The public anger produced the Federal Food, Drug, and Cosmetic Act of 1938, which for the first time required proof of safety before a drug could be sold.
+
+215
+00:14:11.215 --> 00:14:12.651
+<v Tutor>And the exam point?
+
+216
+00:14:12.651 --> 00:14:16.693
+<v Tutor>The glycols kill through their metabolites, not the parent compound.
+
+217
+00:14:16.693 --> 00:14:18.926
+<v Tutor>The parent raises the osmolar gap.
+
+218
+00:14:18.926 --> 00:14:22.383
+<v Tutor>The metabolites raise the anion gap and wreck the kidney.
+
+219
+00:14:22.383 --> 00:14:25.680
+<v Tutor>That pattern is the whole of toxic alcohol management.
+
+220
+00:14:26.080 --> 00:14:30.640
+<v Tutor>So, the toxic alcohols, as Oh's chapter one hundred and one sets them out.
+
+221
+00:14:30.640 --> 00:14:31.585
+<v Tutor>Methanol.
+
+222
+00:14:31.585 --> 00:14:34.310
+<v Tutor>Alcohol dehydrogenase makes formaldehyde.
+
+223
+00:14:34.310 --> 00:14:37.035
+<v Tutor>Aldehyde dehydrogenase makes formic acid.
+
+224
+00:14:37.035 --> 00:14:38.647
+<v Tutor>Formate is the toxin.
+
+225
+00:14:38.647 --> 00:14:45.265
+<v Tutor>It inhibits cytochrome c oxidase, so it adds a lactic acidosis, and it targets the optic nerve and the putamen.
+
+226
+00:14:45.265 --> 00:14:56.164
+<v Tutor>So the picture is a high anion gap acidosis, a raised osmolar gap early, visual blurring or a snowfield in the vision, and in severe cases basal ganglia haemorrhage or necrosis on imaging.
+
+227
+00:14:56.164 --> 00:15:01.280
+<v Tutor>Formate is cleared by a folate-dependent pathway, which is why we give folinic acid.
+
+228
+00:15:01.280 --> 00:15:02.614
+<v Tutor>Ethylene glycol.
+
+229
+00:15:02.614 --> 00:15:06.507
+<v Tutor>Alcohol dehydrogenase makes glycoaldehyde, then glycolic acid.
+
+230
+00:15:06.507 --> 00:15:08.453
+<v Tutor>Glycolate is the main acid.
+
+231
+00:15:08.453 --> 00:15:11.956
+<v Tutor>It's then metabolised to glyoxylate, and on to oxalate.
+
+232
+00:15:11.956 --> 00:15:13.624
+<v Tutor>Oxalate binds calcium.
+
+233
+00:15:13.624 --> 00:15:19.018
+<v Tutor>So you get calcium oxalate crystals in the urine, hypocalcaemia, and acute kidney injury.
+
+234
+00:15:19.018 --> 00:15:25.024
+<v Tutor>Thiamine and pyridoxine are cofactors that steer glyoxylate away from oxalate, so they're given too.
+
+235
+00:15:25.024 --> 00:15:28.305
+<v Tutor>And the gaps move in opposite directions over time.
+
+236
+00:15:28.305 --> 00:15:34.255
+<v Tutor>Early, the parent alcohol is in the blood: the osmolar gap is high and the anion gap may be normal.
+
+237
+00:15:34.255 --> 00:15:39.760
+<v Tutor>Late, the parent is metabolised: the anion gap is high and the osmolar gap may have closed.
+
+238
+00:15:39.940 --> 00:15:43.566
+<v Tutor>A normal osmolar gap doesn't exclude a late presentation.
+
+239
+00:15:43.566 --> 00:15:46.913
+<v Tutor>Remember that ethanol itself raises the osmolar gap.
+
+240
+00:15:46.913 --> 00:15:53.216
+<v Tutor>Each millimole per litre of ethanol adds roughly one to the gap; some use a factor of one point two five.
+
+241
+00:15:53.216 --> 00:15:56.340
+<v Tutor>Account for it before you blame a toxic alcohol.
+
+242
+00:15:56.740 --> 00:16:00.646
+<v Tutor>A patient presents eighteen hours after drinking antifreeze.
+
+243
+00:16:00.646 --> 00:16:02.829
+<v Tutor>The anion gap is twenty-eight.
+
+244
+00:16:02.829 --> 00:16:04.610
+<v Tutor>The osmolar gap is six.
+
+245
+00:16:04.610 --> 00:16:08.286
+<v Tutor>Why is the osmolar gap normal, and does it reassure you?
+
+246
+00:16:08.286 --> 00:16:09.780
+<v Tutor>Pause, and answer.
+
+247
+00:16:15.180 --> 00:16:19.843
+<v Tutor>It's normal because most of the ethylene glycol has already been metabolised.
+
+248
+00:16:19.843 --> 00:16:26.262
+<v Tutor>The osmotically active parent is gone, and its acid metabolites, glycolate above all, now fill the anion gap.
+
+249
+00:16:26.262 --> 00:16:28.401
+<v Tutor>It doesn't reassure you at all.
+
+250
+00:16:28.401 --> 00:16:30.376
+<v Tutor>This is the dangerous phase.
+
+251
+00:16:30.376 --> 00:16:36.740
+<v Tutor>An anion gap above twenty-seven is itself a strong EXTRIP indication for dialysis, as we'll see in a moment.
+
+252
+00:16:37.140 --> 00:16:38.179
+<v Tutor>Management.
+
+253
+00:16:38.179 --> 00:16:43.923
+<v Tutor>First, block alcohol dehydrogenase, so the parent is excreted unchanged and no more acid is made.
+
+254
+00:16:43.923 --> 00:16:46.276
+<v Tutor>Fomepizole is the cleaner antidote.
+
+255
+00:16:46.276 --> 00:16:57.983
+<v Tutor>Fifteen milligrams per kilogram as a load, then ten milligrams per kilogram every twelve hours for four doses, then fifteen milligrams per kilogram every twelve hours, because it induces its own metabolism.
+
+256
+00:16:57.983 --> 00:17:02.086
+<v Tutor>During haemodialysis it's dialysed, so it's given every four hours.
+
+257
+00:17:02.086 --> 00:17:06.189
+<v Tutor>Ethanol is the older alternative and still the one on many shelves.
+
+258
+00:17:06.189 --> 00:17:10.729
+<v Tutor>It has a much higher affinity for alcohol dehydrogenase than methanol does.
+
+259
+00:17:10.729 --> 00:17:17.184
+<v Tutor>Aim for a blood ethanol of about twenty-two millimoles per litre, which is a hundred milligrams per decilitre.
+
+260
+00:17:17.184 --> 00:17:24.241
+<v Tutor>It needs close monitoring, and it brings intoxication, hypoglycaemia and a messy infusion, often doubled during dialysis.
+
+261
+00:17:24.241 --> 00:17:28.454
+<v Tutor>Availability of fomepizole varies, so know your local antidote stock.
+
+262
+00:17:28.454 --> 00:17:31.189
+<v Tutor>The evidence base for fomepizole is small.
+
+263
+00:17:31.189 --> 00:17:37.371
+<v Tutor>Brent and colleagues' 1999 New England Journal case series in ethylene glycol enrolled nineteen patients.
+
+264
+00:17:37.371 --> 00:17:44.865
+<v Tutor>Glycolate fell once fomepizole started, and patients with a normal creatinine at the start didn't go on to develop kidney injury.
+
+265
+00:17:44.865 --> 00:17:46.780
+<v Tutor>Second, give the cofactors.
+
+266
+00:17:46.960 --> 00:17:48.722
+<v Tutor>Folinic acid for methanol.
+
+267
+00:17:48.722 --> 00:17:51.416
+<v Tutor>Thiamine and pyridoxine for ethylene glycol.
+
+268
+00:17:51.416 --> 00:17:55.562
+<v Tutor>Third, dialysis, which removes both the parent and the acid metabolites.
+
+269
+00:17:55.562 --> 00:17:58.360
+<v Tutor>This is where the governing guidance comes in.
+
+270
+00:17:58.760 --> 00:18:01.665
+<v Tutor>The EXTRIP workgroup is the guideline here.
+
+271
+00:18:01.665 --> 00:18:06.165
+<v Tutor>For methanol, Roberts and colleagues in Critical Care Medicine in 2015.
+
+272
+00:18:06.165 --> 00:18:10.609
+<v Tutor>For ethylene glycol, Ghannoum and colleagues in Critical Care in 2023.
+
+273
+00:18:10.609 --> 00:18:16.476
+<v Tutor>Both rate the evidence as very low quality, and both are what an examiner expects you to quote.
+
+274
+00:18:16.476 --> 00:18:17.444
+<v Tutor>Methanol.
+
+275
+00:18:17.444 --> 00:18:30.774
+<v Tutor>Recommend extracorporeal treatment for severe poisoning: coma, seizures, new visual deficits, a pH of seven point one five or lower, persistent acidosis despite supportive care and antidotes, or an anion gap above twenty-four.
+
+276
+00:18:30.774 --> 00:18:44.446
+<v Tutor>Also on the methanol concentration: above seven hundred milligrams per litre with fomepizole, which is about twenty-two millimoles per litre; above six hundred with ethanol; above five hundred with no alcohol dehydrogenase blockade.
+
+277
+00:18:44.446 --> 00:18:46.554
+<v Tutor>And impaired kidney function.
+
+278
+00:18:46.554 --> 00:18:50.028
+<v Tutor>Intermittent haemodialysis is the modality of choice.
+
+279
+00:18:50.028 --> 00:18:54.870
+<v Tutor>Avoid systemic anticoagulation, because of the risk of putaminal haemorrhage.
+
+280
+00:18:54.870 --> 00:18:57.548
+<v Tutor>Continue the antidote and folinic acid.
+
+281
+00:18:57.548 --> 00:19:03.130
+<v Tutor>Stop when methanol is below two hundred milligrams per litre and the patient is improving.
+
+282
+00:19:03.130 --> 00:19:04.497
+<v Tutor>Ethylene glycol.
+
+283
+00:19:04.497 --> 00:19:10.080
+<v Tutor>Recommend dialysis for coma, seizures, or acute kidney injury at KDIGO stage two or three.
+
+284
+00:19:10.260 --> 00:19:15.878
+<v Tutor>Recommend it for a glycolate above twelve millimoles per litre or an anion gap above twenty-seven.
+
+285
+00:19:15.878 --> 00:19:19.482
+<v Tutor>Suggest it for an anion gap of twenty-three to twenty-seven.
+
+286
+00:19:19.482 --> 00:19:27.484
+<v Tutor>If the patient is on fomepizole with an ethylene glycol above fifty millimoles per litre, or an osmolar gap above fifty, dialysis is suggested.
+
+287
+00:19:27.484 --> 00:19:30.452
+<v Tutor>On ethanol at the same levels, it's recommended.
+
+288
+00:19:30.452 --> 00:19:33.102
+<v Tutor>Stop when the anion gap is below eighteen.
+
+289
+00:19:33.102 --> 00:19:35.593
+<v Tutor>Notice what that means for the bedside.
+
+290
+00:19:35.593 --> 00:19:41.317
+<v Tutor>With fomepizole on board and good kidneys, a high ethylene glycol level alone may not need dialysis.
+
+291
+00:19:41.317 --> 00:19:44.020
+<v Tutor>The acid and the kidney drive the decision.
+
+292
+00:19:44.420 --> 00:19:49.169
+<v Tutor>A word on salicylate, because it's in GOLD MARK and it shows up as a mixed gas.
+
+293
+00:19:49.169 --> 00:19:54.738
+<v Tutor>Salicylate stimulates the respiratory centre directly and uncouples oxidative phosphorylation.
+
+294
+00:19:54.738 --> 00:19:59.705
+<v Tutor>So the classic adult gas is a respiratory alkalosis with a high anion gap acidosis.
+
+295
+00:19:59.705 --> 00:20:06.475
+<v Tutor>When you see a carbon dioxide well below the Winters' prediction with a high gap, salicylate should be on your list.
+
+296
+00:20:06.475 --> 00:20:11.770
+<v Tutor>And the cardiac link this week: in cardiac arrest, routine bicarbonate isn't recommended.
+
+297
+00:20:11.770 --> 00:20:15.100
+<v Tutor>Keep it for hyperkalaemia and for tricyclic toxicity.
+
+298
+00:20:15.500 --> 00:20:17.917
+<v Tutor>Where do candidates lose marks?
+
+299
+00:20:17.917 --> 00:20:22.192
+<v Tutor>From the examiner comments and your own scripts, four places.
+
+300
+00:20:22.192 --> 00:20:22.936
+<v Tutor>One.
+
+301
+00:20:22.936 --> 00:20:24.423
+<v Tutor>Not calculating.
+
+302
+00:20:24.423 --> 00:20:29.071
+<v Tutor>Writing high anion gap metabolic acidosis with no number beside it.
+
+303
+00:20:29.071 --> 00:20:29.814
+<v Tutor>Two.
+
+304
+00:20:29.814 --> 00:20:33.594
+<v Tutor>Not correcting the gap for albumin in an ICU patient.
+
+305
+00:20:33.594 --> 00:20:34.462
+<v Tutor>Three.
+
+306
+00:20:34.462 --> 00:20:37.250
+<v Tutor>Naming a category instead of a cause.
+
+307
+00:20:37.250 --> 00:20:42.394
+<v Tutor>Toxic alcohol earns less than ethylene glycol, with the reason in the data.
+
+308
+00:20:42.394 --> 00:20:51.627
+<v Tutor>In the 2020 second-sitting question, which you scored five and a half on, ethylene glycol and the glycolate mechanism were the missing marks.
+
+309
+00:20:51.627 --> 00:20:52.432
+<v Tutor>Four.
+
+310
+00:20:52.432 --> 00:20:55.159
+<v Tutor>Leaving the compensation unexamined.
+
+311
+00:20:55.159 --> 00:21:01.665
+<v Tutor>An inadequate or excessive respiratory response is a second diagnosis, and a second set of marks.
+
+312
+00:21:01.665 --> 00:21:03.772
+<v Tutor>Three numbers to remember.
+
+313
+00:21:03.772 --> 00:21:09.783
+<v Tutor>Expected carbon dioxide: one and a half times bicarbonate, plus eight, plus or minus two.
+
+314
+00:21:09.783 --> 00:21:14.307
+<v Tutor>Albumin correction: add a quarter per gram per litre below forty.
+
+315
+00:21:14.307 --> 00:21:19.822
+<v Tutor>And EXTRIP for ethylene glycol: dialyse when the anion gap is above twenty-seven.
+
+316
+00:21:19.822 --> 00:21:23.850
+<v Tutor>So, the woman at the start, with the bicarbonate of five.
+
+317
+00:21:23.850 --> 00:21:25.709
+<v Tutor>Pyroglutamic acidosis.
+
+318
+00:21:25.709 --> 00:21:29.984
+<v Tutor>Paracetamol opened the tap, flucloxacillin blocked the drain.
+
+319
+00:21:29.984 --> 00:21:34.260
+<v Tutor>Stop both, feed her, treat the sepsis, give N-acetylcysteine.
+
+320
+00:21:35.660 --> 00:21:39.752
+<v Tutor>Here's a question that has divided intensivists for fifty years.
+
+321
+00:21:39.752 --> 00:21:42.708
+<v Tutor>If the blood is acid, should we give alkali?
+
+322
+00:21:42.708 --> 00:21:44.640
+<v Tutor>The case for is intuitive.
+
+323
+00:21:44.640 --> 00:21:51.631
+<v Tutor>Severe acidaemia depresses myocardial contractility, blunts the response to catecholamines, and causes arrhythmias.
+
+324
+00:21:51.631 --> 00:21:54.018
+<v Tutor>The case against is physiological.
+
+325
+00:21:54.018 --> 00:21:57.770
+<v Tutor>Bicarbonate buffers hydrogen ion by making carbon dioxide.
+
+326
+00:21:57.770 --> 00:22:06.579
+<v Tutor>Carbon dioxide crosses cell membranes faster than bicarbonate does, so in a patient who can't ventilate it off, intracellular pH can actually fall.
+
+327
+00:22:06.579 --> 00:22:11.070
+<v Tutor>Bicarbonate also lowers ionised calcium, loads sodium, and adds volume.
+
+328
+00:22:11.070 --> 00:22:18.345
+<v Tutor>Eight point four percent bicarbonate is one millimole per millilitre and roughly two thousand milliosmoles per kilogram.
+
+329
+00:22:18.345 --> 00:22:22.323
+<v Tutor>For decades, the argument ran on physiology and small studies.
+
+330
+00:22:22.323 --> 00:22:24.540
+<v Tutor>Then the French ran two trials.
+
+331
+00:22:24.940 --> 00:22:25.969
+<v Tutor>BICAR-ICU.
+
+332
+00:22:25.969 --> 00:22:28.656
+<v Tutor>Jaber and colleagues, the Lancet, 2018.
+
+333
+00:22:28.656 --> 00:22:30.429
+<v Tutor>Twenty-six French ICUs.
+
+334
+00:22:30.429 --> 00:22:47.238
+<v Tutor>Three hundred and eighty-nine adults within forty-eight hours of admission with severe metabolic acidaemia: pH seven point two or lower, carbon dioxide forty-five millimetres of mercury or lower, bicarbonate twenty or lower, and a SOFA score of four or more or a lactate of two or more.
+
+335
+00:22:47.238 --> 00:22:51.755
+<v Tutor>Patients with gastrointestinal or renal bicarbonate loss were excluded.
+
+336
+00:22:51.755 --> 00:22:54.500
+<v Tutor>This was about acid gain, mostly lactic.
+
+337
+00:22:54.500 --> 00:23:09.765
+<v Tutor>The intervention was four point two percent sodium bicarbonate, one hundred and twenty-five to two hundred and fifty millilitres over thirty minutes, repeated to keep the pH above seven point three, up to a thousand millilitres in the first twenty-four hours.
+
+338
+00:23:09.765 --> 00:23:11.995
+<v Tutor>The control was no bicarbonate.
+
+339
+00:23:11.995 --> 00:23:18.570
+<v Tutor>The primary outcome was a composite: death by day twenty-eight, or at least one organ failure at day seven.
+
+340
+00:23:18.570 --> 00:23:24.288
+<v Tutor>It occurred in sixty-six percent with bicarbonate, against seventy-one percent with control.
+
+341
+00:23:24.288 --> 00:23:25.660
+<v Tutor>Not significant.
+
+342
+00:23:25.840 --> 00:23:39.402
+<v Tutor>But in the prespecified stratum with acute kidney injury, AKIN stage two or three, around one hundred and eighty patients, day twenty-eight survival was fifty-four percent with bicarbonate against thirty-seven percent with control.
+
+343
+00:23:39.402 --> 00:23:44.282
+<v Tutor>Overall, renal replacement therapy fell from fifty-two to thirty-five percent.
+
+344
+00:23:44.282 --> 00:23:53.191
+<v Tutor>The harms were what physiology predicts: more metabolic alkalosis, hypernatraemia and hypocalcaemia, with no life-threatening complications reported.
+
+345
+00:23:53.191 --> 00:24:02.043
+<v Tutor>The criticisms: open label, no placebo infusion, about a quarter of controls received bicarbonate anyway, and the striking result was in a subgroup.
+
+346
+00:24:02.043 --> 00:24:04.880
+<v Tutor>A subgroup is a hypothesis, not an answer.
+
+347
+00:24:05.280 --> 00:24:08.027
+<v Tutor>And that hypothesis was tested directly.
+
+348
+00:24:08.027 --> 00:24:09.114
+<v Tutor>BICARICU-2.
+
+349
+00:24:09.114 --> 00:24:11.403
+<v Tutor>Jung and colleagues, JAMA, 2025.
+
+350
+00:24:11.403 --> 00:24:13.234
+<v Tutor>Forty-three French ICUs.
+
+351
+00:24:13.234 --> 00:24:18.327
+<v Tutor>Six hundred and forty patients randomised, six hundred and twenty-seven analysed.
+
+352
+00:24:18.327 --> 00:24:28.113
+<v Tutor>The same acidaemia criteria, confirmed on two gases at least thirty minutes apart, and this time everyone had to have KDIGO stage two or three acute kidney injury.
+
+353
+00:24:28.113 --> 00:24:34.122
+<v Tutor>Ketoacidosis, gastrointestinal bicarbonate loss and an immediate need for dialysis were excluded.
+
+354
+00:24:34.122 --> 00:24:38.242
+<v Tutor>Same bicarbonate regimen, to a pH of at least seven point three.
+
+355
+00:24:38.242 --> 00:24:41.275
+<v Tutor>The primary outcome was ninety-day mortality.
+
+356
+00:24:41.275 --> 00:24:46.997
+<v Tutor>Sixty-two point one percent with bicarbonate, sixty-one point seven percent with usual care.
+
+357
+00:24:46.997 --> 00:24:55.352
+<v Tutor>A difference of zero point four percentage points, ninety-five percent confidence interval minus seven point two to plus eight point zero.
+
+358
+00:24:55.352 --> 00:24:56.783
+<v Tutor>No signal at all.
+
+359
+00:24:56.783 --> 00:25:03.535
+<v Tutor>Kidney replacement therapy, a secondary outcome, fell from fifty point two to thirty-four point seven percent.
+
+360
+00:25:03.535 --> 00:25:05.538
+<v Tutor>The criticisms matter here.
+
+361
+00:25:05.538 --> 00:25:07.026
+<v Tutor>It was open label.
+
+362
+00:25:07.026 --> 00:25:16.640
+<v Tutor>Clinicians decided when to start dialysis, and severe acidaemia is itself a dialysis criterion, so correcting the pH may simply have removed one reason to dial.
+
+363
+00:25:16.820 --> 00:25:24.061
+<v Tutor>The trial assumed a control mortality of eighty percent; it was about sixty-two, so it was underpowered for a modest effect.
+
+364
+00:25:24.061 --> 00:25:27.901
+<v Tutor>And fifteen percent of the control group received bicarbonate.
+
+365
+00:25:27.901 --> 00:25:32.070
+<v Tutor>There's a lesson in that sequence that goes well beyond bicarbonate.
+
+366
+00:25:32.070 --> 00:25:38.598
+<v Tutor>A striking subgroup in a neutral trial, tested in a trial of its own, and the effect shrinking towards nothing.
+
+367
+00:25:38.598 --> 00:25:46.827
+<v Tutor>Tight glucose control and early goal-directed therapy followed a similar arc, though they began as single-centre trials rather than subgroups.
+
+368
+00:25:46.827 --> 00:25:53.410
+<v Tutor>When an examiner asks you to appraise a subgroup finding, this pair is the cleanest modern example you can give.
+
+369
+00:25:53.410 --> 00:25:54.562
+<v Tutor>What changed?
+
+370
+00:25:54.562 --> 00:25:58.182
+<v Tutor>The BICAR-ICU subgroup mortality benefit didn't replicate.
+
+371
+00:25:58.182 --> 00:26:02.900
+<v Tutor>What survives is a reduction in dialysis that may be partly a design artefact.
+
+372
+00:26:03.300 --> 00:26:08.248
+<v Tutor>What was BICARICU-2's primary outcome, and what was the result?
+
+373
+00:26:08.248 --> 00:26:10.060
+<v Tutor>Pause, and answer.
+
+374
+00:26:15.460 --> 00:26:17.678
+<v Tutor>Ninety-day all-cause mortality.
+
+375
+00:26:17.678 --> 00:26:21.375
+<v Tutor>Sixty-two point one versus sixty-one point seven percent.
+
+376
+00:26:21.375 --> 00:26:22.626
+<v Tutor>No difference.
+
+377
+00:26:22.626 --> 00:26:25.583
+<v Tutor>The guideline sits just behind the evidence.
+
+378
+00:26:25.583 --> 00:26:33.830
+<v Tutor>The Surviving Sepsis Campaign's 2026 guideline, Prescott and colleagues in Critical Care Medicine, keeps two conditional recommendations.
+
+379
+00:26:33.830 --> 00:26:41.223
+<v Tutor>It suggests against bicarbonate to improve haemodynamics or reduce vasopressors in hypoperfusion-induced lactic acidaemia.
+
+380
+00:26:41.223 --> 00:26:50.550
+<v Tutor>And it suggests bicarbonate in septic shock with a pH of seven point two or lower and AKIN stage two or three kidney injury, on very low certainty evidence.
+
+381
+00:26:50.550 --> 00:26:52.882
+<v Tutor>Here's how to quote it in an SAQ.
+
+382
+00:26:52.882 --> 00:27:11.081
+<v Tutor>One sentence: bicarbonate in severe metabolic acidaemia doesn't reduce mortality, BICAR-ICU 2018 and BICARICU-2 2025, but may reduce the need for dialysis in patients with acute kidney injury, so I'd consider it at a pH of seven point two or lower with stage two or three kidney injury, while treating the cause.
+
+383
+00:27:11.081 --> 00:27:16.199
+<v Tutor>And in pyroglutamic or toxic alcohol acidosis, the cause has a specific treatment.
+
+384
+00:27:16.199 --> 00:27:17.905
+<v Tutor>Bicarbonate buys time.
+
+385
+00:27:17.905 --> 00:27:20.180
+<v Tutor>It doesn't replace the antidote.
+
+386
+00:27:21.580 --> 00:27:25.471
+<v Examiner>This is from the 2020 second sitting, question twenty, part two.
+
+387
+00:27:25.471 --> 00:27:31.901
+<v Examiner>The College didn't publish an answer or comments for it, so the marking points are the accepted interpretation.
+
+388
+00:27:31.901 --> 00:27:33.631
+<v Examiner>I'll read it as written.
+
+389
+00:27:33.631 --> 00:27:37.413
+<v Examiner>A 44-year-old male presents following an intentional overdose.
+
+390
+00:27:37.413 --> 00:27:40.277
+<v Examiner>His arterial blood gases are presented below.
+
+391
+00:27:40.277 --> 00:27:42.331
+<v Examiner>F I O two, zero point two one.
+
+392
+00:27:42.331 --> 00:27:44.168
+<v Examiner>pH, seven point three six.
+
+393
+00:27:44.168 --> 00:27:47.735
+<v Examiner>Reference seven point three five to seven point four five.
+
+394
+00:27:47.735 --> 00:27:53.193
+<v Examiner>P C O two, sixteen point zero millimetres of mercury, that's two point one three kilopascals.
+
+395
+00:27:53.193 --> 00:27:55.570
+<v Examiner>Reference thirty-five to forty-five.
+
+396
+00:27:55.570 --> 00:28:00.812
+<v Examiner>P O two, one hundred and eleven millimetres of mercury, fourteen point eight kilopascals.
+
+397
+00:28:00.812 --> 00:28:02.974
+<v Examiner>S P O two, ninety-seven percent.
+
+398
+00:28:02.974 --> 00:28:06.108
+<v Examiner>Bicarbonate, nine point zero millimoles per litre.
+
+399
+00:28:06.108 --> 00:28:08.432
+<v Examiner>Reference twenty-two to twenty-six.
+
+400
+00:28:08.432 --> 00:28:12.052
+<v Examiner>Base excess, minus fifteen point zero millimoles per litre.
+
+401
+00:28:12.052 --> 00:28:14.214
+<v Examiner>Reference minus two to plus two.
+
+402
+00:28:14.214 --> 00:28:17.510
+<v Examiner>Lactate, twenty-five point zero millimoles per litre.
+
+403
+00:28:17.510 --> 00:28:20.266
+<v Examiner>Reference zero point five to one point six.
+
+404
+00:28:20.266 --> 00:28:23.454
+<v Examiner>Sodium, one hundred and fifty millimoles per litre.
+
+405
+00:28:23.454 --> 00:28:27.561
+<v Examiner>Reference one hundred and thirty-five to one hundred and forty-five.
+
+406
+00:28:27.561 --> 00:28:30.587
+<v Examiner>Potassium, four point five millimoles per litre.
+
+407
+00:28:30.587 --> 00:28:34.100
+<v Examiner>Chloride, one hundred and seventeen millimoles per litre.
+
+408
+00:28:34.280 --> 00:28:37.209
+<v Examiner>Reference ninety-five to one hundred and five.
+
+409
+00:28:37.209 --> 00:28:40.139
+<v Examiner>Glucose, four point zero millimoles per litre.
+
+410
+00:28:40.139 --> 00:28:40.953
+<v Examiner>Part a.
+
+411
+00:28:40.953 --> 00:28:43.394
+<v Examiner>Describe the acid base abnormalities.
+
+412
+00:28:43.394 --> 00:28:45.076
+<v Examiner>Forty percent of marks.
+
+413
+00:28:45.076 --> 00:28:55.654
+<v Examiner>His lactate as measured on ABG is 25 millimoles per litre, but the result on a venous blood sample taken at the same time and measured in the laboratory is only five millimoles per litre.
+
+414
+00:28:55.654 --> 00:28:56.468
+<v Examiner>Part b.
+
+415
+00:28:56.468 --> 00:28:58.747
+<v Examiner>What is the most likely diagnosis?
+
+416
+00:28:58.747 --> 00:29:02.544
+<v Examiner>Explain the mechanism of the differences in measured lactates.
+
+417
+00:29:02.544 --> 00:29:04.280
+<v Examiner>Twenty percent of marks.
+
+418
+00:29:05.180 --> 00:29:07.328
+<v Tutor>Before the candidate answers.
+
+419
+00:29:07.328 --> 00:29:12.031
+<v Tutor>Calculate the anion gap, the expected carbon dioxide and the delta ratio.
+
+420
+00:29:12.031 --> 00:29:13.540
+<v Tutor>Pause, and answer.
+
+421
+00:29:18.940 --> 00:29:22.587
+<v Tutor>The gap is one hundred and fifty minus one hundred and twenty-six.
+
+422
+00:29:22.587 --> 00:29:23.573
+<v Tutor>Twenty-four.
+
+423
+00:29:23.573 --> 00:29:28.402
+<v Tutor>The expected carbon dioxide is one and a half times nine, thirteen and a half, plus eight.
+
+424
+00:29:28.402 --> 00:29:32.936
+<v Tutor>Twenty-one and a half, so a range of nineteen and a half to twenty-three and a half.
+
+425
+00:29:32.936 --> 00:29:35.252
+<v Tutor>The delta ratio is twelve over fifteen.
+
+426
+00:29:35.252 --> 00:29:36.484
+<v Tutor>Zero point eight.
+
+427
+00:29:36.484 --> 00:29:39.540
+<v Tutor>Hold those, and listen to how the candidate uses them.
+
+428
+00:29:40.440 --> 00:29:41.172
+<v Candidate>Okay.
+
+429
+00:29:41.172 --> 00:29:47.313
+<v Candidate>The pH is seven point three six, so it's just within normal, but there's a severe metabolic acidosis.
+
+430
+00:29:47.313 --> 00:29:50.243
+<v Candidate>Bicarbonate nine, base excess minus fifteen.
+
+431
+00:29:50.243 --> 00:29:52.102
+<v Candidate>There's a high anion gap.
+
+432
+00:29:52.102 --> 00:29:55.032
+<v Candidate>The gap is twenty-four, so raised by twelve.
+
+433
+00:29:55.032 --> 00:29:59.595
+<v Candidate>That's from the lactate of twenty-five, so it's a severe lactic acidosis.
+
+434
+00:29:59.595 --> 00:30:07.145
+<v Candidate>The chloride is high at one hundred and seventeen, and the sodium is high at one hundred and fifty, so there's hypernatraemia.
+
+435
+00:30:07.145 --> 00:30:10.863
+<v Candidate>The near-normal pH is because of respiratory compensation.
+
+436
+00:30:10.863 --> 00:30:13.680
+<v Candidate>The carbon dioxide is very low at sixteen.
+
+437
+00:30:14.180 --> 00:30:17.016
+<v Examiner>You said the pH is normal because of compensation.
+
+438
+00:30:17.016 --> 00:30:19.900
+<v Examiner>Does compensation ever bring the pH back to normal?
+
+439
+00:30:20.400 --> 00:30:21.006
+<v Candidate>No.
+
+440
+00:30:21.006 --> 00:30:23.376
+<v Candidate>Compensation doesn't fully correct.
+
+441
+00:30:23.376 --> 00:30:26.518
+<v Candidate>So if the pH is normal, there's a second process.
+
+442
+00:30:26.518 --> 00:30:30.486
+<v Candidate>Expected carbon dioxide is one and a half times nine plus eight.
+
+443
+00:30:30.486 --> 00:30:33.186
+<v Candidate>Twenty-one and a half, plus or minus two.
+
+444
+00:30:33.186 --> 00:30:34.454
+<v Candidate>His is sixteen.
+
+445
+00:30:34.454 --> 00:30:38.918
+<v Candidate>That's well below, so there's a concurrent primary respiratory alkalosis.
+
+446
+00:30:38.918 --> 00:30:42.280
+<v Candidate>That's what pulls the pH up to seven point three six.
+
+447
+00:30:42.780 --> 00:30:43.334
+<v Examiner>Good.
+
+448
+00:30:43.334 --> 00:30:46.660
+<v Examiner>And the lactate of twenty-five against a gap that's only up by twelve?
+
+449
+00:30:47.160 --> 00:30:48.754
+<v Candidate>That doesn't add up.
+
+450
+00:30:48.754 --> 00:30:54.675
+<v Candidate>A lactate of twenty-five should raise the gap by around twenty-five, but it's only up by twelve.
+
+451
+00:30:54.675 --> 00:30:59.229
+<v Candidate>So either the lactate reading isn't real, or something else is going on.
+
+452
+00:30:59.229 --> 00:31:03.157
+<v Candidate>And the delta ratio is twelve over fifteen, zero point eight.
+
+453
+00:31:03.157 --> 00:31:07.086
+<v Candidate>So it's a mixed high anion gap and normal anion gap acidosis.
+
+454
+00:31:07.086 --> 00:31:11.640
+<v Candidate>The high chloride fits a hyperchloraemic component, perhaps from saline.
+
+455
+00:31:12.140 --> 00:31:13.081
+<v Examiner>Part b.
+
+456
+00:31:13.081 --> 00:31:14.460
+<v Examiner>The diagnosis.
+
+457
+00:31:14.960 --> 00:31:16.462
+<v Candidate>It's a toxic alcohol.
+
+458
+00:31:16.462 --> 00:31:20.865
+<v Candidate>Something in the overdose is interfering with the lactate on the gas machine.
+
+459
+00:31:20.865 --> 00:31:22.781
+<v Candidate>So a toxic alcohol ingestion.
+
+460
+00:31:22.781 --> 00:31:26.200
+<v Candidate>I'd check the osmolar gap and send a toxic alcohol screen.
+
+461
+00:31:26.700 --> 00:31:27.953
+<v Examiner>Which toxic alcohol?
+
+462
+00:31:27.953 --> 00:31:31.220
+<v Examiner>There are two you've been taught, and only one of them does this.
+
+463
+00:31:31.720 --> 00:31:33.057
+<v Candidate>Ethylene glycol.
+
+464
+00:31:33.057 --> 00:31:38.184
+<v Candidate>Its metabolite, glycolate, and also glyoxylate, are structurally similar to lactate.
+
+465
+00:31:38.184 --> 00:31:45.206
+<v Candidate>The blood gas analyser uses a lactate oxidase electrode, and glycolate is oxidised by it too, so it's read as lactate.
+
+466
+00:31:45.206 --> 00:31:51.392
+<v Candidate>The laboratory assay in this case isn't fooled the same way, so the lab reads the true lactate of five.
+
+467
+00:31:51.392 --> 00:31:53.119
+<v Candidate>That's the lactate gap.
+
+468
+00:31:53.119 --> 00:31:56.240
+<v Candidate>Methanol's metabolite, formate, doesn't do this.
+
+469
+00:31:56.740 --> 00:31:58.420
+<v Examiner>And what would you expect to find next?
+
+470
+00:31:58.920 --> 00:32:04.128
+<v Candidate>A raised osmolar gap if he's presented early, though it may have closed if he's late.
+
+471
+00:32:04.128 --> 00:32:08.832
+<v Candidate>Calcium oxalate crystals in the urine, hypocalcaemia, and rising creatinine.
+
+472
+00:32:08.832 --> 00:32:12.584
+<v Candidate>An ethylene glycol or glycolate level if the lab can do it.
+
+473
+00:32:12.584 --> 00:32:16.952
+<v Candidate>And the gap of twenty-four is high, so I'd be thinking about dialysis.
+
+474
+00:32:16.952 --> 00:32:24.848
+<v Candidate>EXTRIP suggests dialysis at a gap of twenty-three to twenty-seven, and recommends it above twenty-seven, or with acute kidney injury.
+
+475
+00:32:24.848 --> 00:32:28.040
+<v Candidate>Plus fomepizole now, and thiamine and pyridoxine.
+
+476
+00:32:28.540 --> 00:32:30.384
+<v Examiner>Go back to part a for a moment.
+
+477
+00:32:30.384 --> 00:32:31.991
+<v Examiner>The respiratory alkalosis.
+
+478
+00:32:31.991 --> 00:32:34.780
+<v Examiner>In an overdose, what would make you worry about it?
+
+479
+00:32:35.280 --> 00:32:37.648
+<v Candidate>A coexisting salicylate ingestion.
+
+480
+00:32:37.648 --> 00:32:44.923
+<v Candidate>Salicylate stimulates the respiratory centre directly, so you get a respiratory alkalosis with a high anion gap acidosis.
+
+481
+00:32:44.923 --> 00:32:50.224
+<v Candidate>In an intentional overdose I'd send a salicylate level and a paracetamol level anyway.
+
+482
+00:32:50.224 --> 00:32:54.453
+<v Candidate>Otherwise it could be pain, agitation, aspiration, or early sepsis.
+
+483
+00:32:54.453 --> 00:33:00.600
+<v Candidate>The oxygen of one hundred and eleven on room air is reassuring, so I don't think it's a lung problem.
+
+484
+00:33:01.100 --> 00:33:04.380
+<v Examiner>And the sodium of one hundred and fifty with a chloride of one hundred and seventeen?
+
+485
+00:33:04.880 --> 00:33:08.449
+<v Candidate>The sodium is high, so the chloride has to be read against it.
+
+486
+00:33:08.449 --> 00:33:13.496
+<v Candidate>Corrected to a sodium of one hundred and forty, the chloride is about one hundred and nine.
+
+487
+00:33:13.496 --> 00:33:21.551
+<v Candidate>That's mildly raised, so there's relatively more chloride than sodium, which fits the hyperchloraemic, normal gap component the delta ratio suggested.
+
+488
+00:33:21.551 --> 00:33:24.712
+<v Candidate>In practice that's probably resuscitation with saline.
+
+489
+00:33:24.712 --> 00:33:29.147
+<v Candidate>The hypernatraemia might be from bicarbonate already given, or from water loss.
+
+490
+00:33:29.147 --> 00:33:32.920
+<v Candidate>I'd want to know what fluids and drugs he's had in the department.
+
+491
+00:33:33.420 --> 00:33:34.049
+<v Examiner>Fair.
+
+492
+00:33:34.049 --> 00:33:39.518
+<v Examiner>That's the kind of thing that turns a seven into an eight, because you've used every number in the table.
+
+493
+00:33:39.518 --> 00:33:44.260
+<v Examiner>Candidates who ignore a result the examiners chose to print are leaving marks on the page.
+
+494
+00:33:44.660 --> 00:33:48.410
+<v Examiner>That's more than the question asked, but none of it is wrong.
+
+495
+00:33:48.410 --> 00:33:49.877
+<v Examiner>Here's the marking.
+
+496
+00:33:49.877 --> 00:33:54.443
+<v Examiner>In part a, the marks come from: severe metabolic acidosis, with the numbers.
+
+497
+00:33:54.443 --> 00:33:57.269
+<v Examiner>A high anion gap of twenty-four, calculated.
+
+498
+00:33:57.269 --> 00:34:04.063
+<v Examiner>Expected carbon dioxide calculated, and a concurrent respiratory alkalosis named as the reason the pH is near normal.
+
+499
+00:34:04.063 --> 00:34:08.574
+<v Examiner>A delta ratio of zero point eight, so a mixed high and normal gap acidosis.
+
+500
+00:34:08.574 --> 00:34:11.943
+<v Examiner>And noticing that the lactate is too high for the gap.
+
+501
+00:34:11.943 --> 00:34:15.585
+<v Examiner>You started by calling the low carbon dioxide compensation.
+
+502
+00:34:15.585 --> 00:34:20.639
+<v Examiner>That would have cost you the respiratory alkalosis marks if you hadn't been prompted.
+
+503
+00:34:20.639 --> 00:34:22.922
+<v Examiner>Calculate first, interpret second.
+
+504
+00:34:22.922 --> 00:34:25.204
+<v Examiner>In part b: ethylene glycol, named.
+
+505
+00:34:25.204 --> 00:34:32.324
+<v Examiner>Glycolate cross-reacting with lactate oxidase on the gas analyser, and a laboratory assay that isn't affected the same way.
+
+506
+00:34:32.324 --> 00:34:34.335
+<v Examiner>You said toxic alcohol first.
+
+507
+00:34:34.335 --> 00:34:35.748
+<v Examiner>That's a category.
+
+508
+00:34:35.748 --> 00:34:39.661
+<v Examiner>The marks are for the specific toxin and the specific mechanism.
+
+509
+00:34:39.661 --> 00:34:43.411
+<v Examiner>On a first attempt, unprompted, that's around six out of ten.
+
+510
+00:34:43.411 --> 00:34:49.933
+<v Examiner>With the compensation calculated before you spoke, and ethylene glycol named in your first sentence, it's eight.
+
+511
+00:34:49.933 --> 00:34:51.020
+<v Examiner>The one fix.
+
+512
+00:34:51.200 --> 00:34:57.720
+<v Examiner>Write the expected carbon dioxide on its own line before you describe anything, and name the toxin, not the class.
+
+513
+00:34:58.120 --> 00:35:01.092
+<v Examiner>One more, shorter, to test the other alcohol.
+
+514
+00:35:01.092 --> 00:35:05.298
+<v Examiner>This is from the 2019 first sitting, question eighteen, part three.
+
+515
+00:35:05.298 --> 00:35:07.037
+<v Examiner>Fifty percent of marks.
+
+516
+00:35:07.037 --> 00:35:10.570
+<v Examiner>What are the biochemical findings in methanol toxicity?
+
+517
+00:35:10.570 --> 00:35:15.000
+<v Examiner>Outline the specific management along with its physiological rationale.
+
+518
+00:35:15.500 --> 00:35:17.247
+<v Candidate>Biochemical findings.
+
+519
+00:35:17.247 --> 00:35:25.320
+<v Candidate>A high anion gap metabolic acidosis, from formic acid, with a lactate component because formate inhibits cytochrome c oxidase.
+
+520
+00:35:25.320 --> 00:35:28.152
+<v Candidate>A raised osmolar gap, especially early.
+
+521
+00:35:28.152 --> 00:35:30.321
+<v Candidate>And a raised methanol level.
+
+522
+00:35:30.321 --> 00:35:32.008
+<v Candidate>Specific management.
+
+523
+00:35:32.008 --> 00:35:36.225
+<v Candidate>First, block alcohol dehydrogenase with fomepizole or ethanol.
+
+524
+00:35:36.225 --> 00:35:40.743
+<v Candidate>The rationale is that methanol itself isn't very toxic; formate is.
+
+525
+00:35:40.743 --> 00:35:46.286
+<v Candidate>Blocking the enzyme stops formate being made, and the methanol is cleared unchanged.
+
+526
+00:35:46.286 --> 00:35:51.467
+<v Candidate>Ethanol works because it has a much higher affinity for alcohol dehydrogenase.
+
+527
+00:35:51.467 --> 00:35:53.275
+<v Candidate>Second, haemodialysis.
+
+528
+00:35:53.275 --> 00:36:00.203
+<v Candidate>It clears methanol and formate, which are small, barely protein bound, with a small volume of distribution.
+
+529
+00:36:00.203 --> 00:36:08.879
+<v Candidate>EXTRIP indications include coma, seizures, new visual deficits, a pH of seven point one five or less, or an anion gap above twenty-four.
+
+530
+00:36:08.879 --> 00:36:14.060
+<v Candidate>Third, folinic acid, because formate is cleared by a folate-dependent pathway.
+
+531
+00:36:14.560 --> 00:36:16.760
+<v Examiner>Anything you'd avoid during the dialysis?
+
+532
+00:36:17.260 --> 00:36:22.500
+<v Candidate>Systemic anticoagulation, if possible, because of the risk of haemorrhage into the basal ganglia.
+
+533
+00:36:23.000 --> 00:36:24.932
+<v Examiner>That's a pass, comfortably.
+
+534
+00:36:24.932 --> 00:36:31.446
+<v Examiner>The College answer gives marks for the high anion gap acidosis, the raised osmolar gap and the methanol level.
+
+535
+00:36:31.446 --> 00:36:38.844
+<v Examiner>Then for alcohol dehydrogenase blockade with the reason, dialysis with the reason, and folic acid to speed formate metabolism.
+
+536
+00:36:38.844 --> 00:36:47.677
+<v Examiner>The candidates who did well, and the pass rate was seventy-two point seven percent, gave the rationale for each step, because the question asked for it.
+
+537
+00:36:47.677 --> 00:36:50.382
+<v Examiner>Every line of management needs a because.
+
+538
+00:36:50.382 --> 00:36:52.148
+<v Examiner>Around eight out of ten.
+
+539
+00:36:52.148 --> 00:36:55.240
+<v Examiner>The fix: if you mention fomepizole, give a dose.
+
+540
+00:36:55.240 --> 00:36:58.000
+<v Examiner>Fifteen milligrams per kilogram as a load.
+
+541
+00:36:58.900 --> 00:37:00.467
+<v Tutor>That's the deep dive.
+
+542
+00:37:00.467 --> 00:37:03.062
+<v Tutor>One thing to do before the next episode.
+
+543
+00:37:03.062 --> 00:37:15.439
+<v Tutor>In today's set, before you write any words on each gas, write the seven lines: pH, primary process, expected carbon dioxide, anion gap, albumin-corrected gap, delta ratio, and the osmolar gap where the gap is unexplained.
+
+544
+00:37:15.439 --> 00:37:18.304
+<v Tutor>Then name a specific cause and its mechanism.
+
+545
+00:37:18.304 --> 00:37:23.060
+<v Tutor>When it's marked, check the delta ratio and expected carbon dioxide lines first.
+
+546
+00:37:23.060 --> 00:37:25.763
+<v Tutor>That's where your marks have been leaking.
+
+547
+00:37:25.763 --> 00:37:27.060
+<v Tutor>Good luck today.
