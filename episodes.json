@@ -1,5 +1,174 @@
 [
  {
+  "date": "2026-11-07",
+  "title": "Spiral review: cardiogenic shock and the kidney, calcium and citrate, TURP, four gases at speed",
+  "description": "A spiral review that brings back cardiogenic shock after PCI, the 2025.1 phosphate and calcium question, TURP syndrome and the 2013.2 four-part gas question, each made harder and linked to renal replacement therapy, with IABP-SHOCK II and the story of Kolff's drum kidney. Then a six-item syllabus round-up: ventilation, airway, pulmonary embolism under the 2026 AHA/ACC categories, poisoning, haemostatic failure and the 2026 Surviving Sepsis guidelines.",
+  "file": "episodes/2026-11-07.mp3",
+  "bytes": 10974105,
+  "seconds": 2743.3,
+  "vtt": "episodes/2026-11-07.vtt",
+  "page": "episodes/2026-11-07.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, Ch 33 Acute heart failure and pulmonary hypertension (Cardiogenic shock after AMI, p1298), pp1258-1310",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, Ch 28 Mechanical cardiac supports, pp856-876",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, Ch 58 Fluid and electrolyte therapy (water metabolism, calcium, phosphate), pp2326-2374",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, Ch 56 Renal replacement therapy (CRRT and citrate, p2269), pp2266-2281",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Round-up: Ch 42 Mechanical ventilator support pp1721-1762; Ch 44 Airway management pp1802-1837; Ch 45 Pulmonary embolism pp1844-1869; Ch 101 Poisoning pp3636-3668; Ch 113 Haemostatic failure pp4040-4084; Ch 15 Sepsis and septic shock pp439-453",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "2026 AHA/ACC multisociety guideline on acute pulmonary embolism in adults. Circulation 2026",
+     "url": "https://doi.org/10.1161/CIR.0000000000001415"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Surviving Sepsis Campaign international guidelines for sepsis and septic shock 2026 (Crit Care Med and Intensive Care Med, March 2026)",
+     "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026"
+    },
+    {
+     "group": "Guidelines",
+     "label": "European guideline on management of major bleeding and coagulopathy following trauma, 6th edition. Rossaint et al. Crit Care 2023",
+     "url": "https://doi.org/10.1186/s13054-023-04327-7"
+    },
+    {
+     "group": "Guidelines",
+     "label": "ESICM guidelines on ARDS: definition, phenotyping and respiratory support. Grasselli et al. Intensive Care Med 2023",
+     "url": "https://doi.org/10.1007/s00134-023-07050-7"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Paracetamol poisoning in Australia and New Zealand, updated guidelines. Chiew et al. MJA 2019 (print 2020)",
+     "url": "https://doi.org/10.5694/mja2.50428"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Clinical practice guideline on diagnosis and treatment of hyponatraemia. Spasovski et al. Intensive Care Med 2014",
+     "url": "https://doi.org/10.1007/s00134-014-3210-2"
+    },
+    {
+     "group": "Guidelines",
+     "label": "KDIGO Clinical Practice Guideline for Acute Kidney Injury 2012 (regional citrate for CRRT)",
+     "url": null
+    },
+    {
+     "group": "Landmark trials",
+     "label": "IABP-SHOCK II: Thiele et al. Intraaortic balloon support for myocardial infarction with cardiogenic shock. NEJM 2012",
+     "url": "https://doi.org/10.1056/NEJMoa1208410"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Landmark Studies in Critical Care, Ch 76: The IABP-SHOCK II Trial, pp629-636",
+     "url": null
+    },
+    {
+     "group": "Past College questions",
+     "label": "2025.1 Q21: Hypophosphataemia and hypocalcaemia (your mark 2.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2025-paper-1-saqs/question-211"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2009.2 Q21: Iso-osmolar hyponatraemia, TURP syndrome (your mark 5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2009-paper-2-saqs/question-21"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2013.2 Q26: Metabolic alkalosis, DKA, rhabdomyolysis, lactic acidosis (your mark 1.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2013-paper-2-saqs/question-261"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2023.1 Q1: Cardiogenic shock",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2023-paper-1-saqs/question-1"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q18: Regional citrate for CRRT",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-18"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.1 Q26: CVVHDF circuit and citrate toxicity",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-1-saqs/question-261"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2022.2 Q6: TURP syndrome",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2022-paper-2-saqs/question-6"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2012.2 Q19: Mechanical haemodynamic support for cardiogenic shock",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2012-paper-2-saqs/question-19"
+    },
+    {
+     "group": "Further reading",
+     "label": "Ramanan et al. Hypophosphataemia in critical illness: a narrative review. J Clin Med 2024",
+     "url": "https://doi.org/10.3390/jcm13237165"
+    },
+    {
+     "group": "Further reading",
+     "label": "Melchers et al. Management of hypocalcaemia in the critically ill. Curr Opin Crit Care 2023",
+     "url": "https://doi.org/10.1097/MCC.0000000000001059"
+    },
+    {
+     "group": "Further reading",
+     "label": "Hahn. What the intensive care physician should know about the TURP syndrome. Annual Update 2019",
+     "url": "https://doi.org/10.1007/978-3-030-06067-1_22"
+    },
+    {
+     "group": "Further reading",
+     "label": "Adrogue et al. Diagnosis and management of hyponatremia: a review. JAMA 2022",
+     "url": "https://doi.org/10.1001/jama.2022.11176"
+    }
+   ],
+   "takeaways": [
+    "Hypocalcaemia with seizures: name the severe hypocalcaemia (ionised 0.61) and the renal dysfunction first, then link every cause to the biochemistry; replace magnesium or the calcium will not hold, and 10 mL of 10% calcium chloride gives 6.8 mmol of calcium versus 2.2 mmol for gluconate.",
+    "TURP syndrome: calculated osmolality 2 x 113 + 5.1 + 5.0 = 236 against a measured 280 gives an osmolar gap of 44, which means glycine; hypertonic saline only if the measured osmolality is below about 260.",
+    "Citrate accumulation on CRRT: a total-to-ionised calcium ratio above 2.5 with a rising anion gap, typically in liver failure or shock; reduce or stop citrate and increase calcium.",
+    "IABP-SHOCK II (n = 600): 30-day mortality 39.7% vs 41.3% (RR 0.96, P = 0.69), so routine balloon pumps are not used in infarct-related cardiogenic shock.",
+    "Cardiorenal congestion: renal perfusion pressure is roughly MAP minus CVP (68 - 18 = 50 mmHg); unload, don't fill.",
+    "PE 2026 AHA/ACC: categories A to E; in category E, systemic lysis, catheter-directed lysis and thrombectomy rate equally; LMWH is preferred over UFH; a PERT for C to E.",
+    "Sepsis 2026 SSC: antimicrobials immediately in shock, ideally within 1 h; MAP about 65 as a range, 60 to 65 if aged 65 or over; balanced crystalloids; active fluid removal after resuscitation.",
+    "Compensation: metabolic alkalosis expects PaCO2 = 0.7 x HCO3 + 20 (36 gives 45); delta ratio above 2 in HAGMA means a hidden metabolic alkalosis; EXTRIP dialyses metformin lactic acidosis at lactate above 20 or pH 7.0 or less.",
+    "Paracetamol (ANZ 2019): nomogram line 150 mg/L at 4 h; acetylcysteine 200 mg/kg over 4 h, then 100 mg/kg over 16 h."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 70.2,
+     "title": "Spiral review: cardiogenic shock, calcium and citrate, TURP syndrome, four gases"
+    },
+    {
+     "start": 1890.94,
+     "title": "Syllabus round-up"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-04",
   "title": "Deep dive: the high anion gap acidosis, from pyroglutamate to antifreeze",
   "description": "A consultant-level deep dive on the high anion gap metabolic acidosis: a seven-line method for the gas, GOLD MARK, lactate, pyroglutamic acidosis and the toxic alcohols, with the EXTRIP and Surviving Sepsis 2026 guidance. Then BICAR-ICU and BICARICU-2 on bicarbonate, and exam practice on the College's 2020.2 Question 20.",
