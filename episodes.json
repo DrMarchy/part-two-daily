@@ -1,5 +1,165 @@
 [
  {
+  "date": "2026-11-09",
+  "title": "Week 5 primer: pressures, pumps and kidneys",
+  "description": "The primer for week five: haemodynamic monitoring from the arterial line to the Swan-Ganz catheter, vasoactive drugs under the 2026 Surviving Sepsis guideline, KDIGO acute kidney injury and renal replacement therapy. With the SAFE and SMART trials, the 2016 question on end-stage kidney disease that only 29 percent passed, and a round-up of balloon pumps, ECMO, central lines, vasopressin, diuretics and replacement fluids.",
+  "file": "episodes/2026-11-09.mp3",
+  "bytes": 8975674,
+  "seconds": 2243.7,
+  "vtt": "episodes/2026-11-09.vtt",
+  "page": "episodes/2026-11-09.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 24: Haemodynamic monitoring, pp 697-745",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 26: Inotropes and vasopressors (vasoactive drugs), pp 790-813",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 25: Echocardiography in intensive care, pp 756-781",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 28: Mechanical cardiac supports, pp 856-876",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 55: Acute kidney injury, pp 2245-2260",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 56: Renal replacement therapy, pp 2266-2281",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 (Crit Care Med, March 2026)",
+     "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-management-of-sepsis-and-septic-shock-2026"
+    },
+    {
+     "group": "Guidelines",
+     "label": "KDIGO Clinical Practice Guideline for Acute Kidney Injury 2012 (2026 AKI/AKD update in draft)",
+     "url": "https://kdigo.org/guidelines/acute-kidney-injury/"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "SAFE: Finfer et al. A comparison of albumin and saline for fluid resuscitation in the ICU. NEJM 2004",
+     "url": "https://doi.org/10.1056/NEJMoa040232"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "SMART: Semler et al. Balanced crystalloids versus saline in critically ill adults. NEJM 2018",
+     "url": "https://doi.org/10.1056/NEJMoa1711584"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "PAC-Man: Harvey et al. Assessment of the clinical effectiveness of pulmonary artery catheters in management of patients in intensive care. Lancet 2005",
+     "url": null
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Landmark Studies in Critical Care, ch 10 (SAFE) and ch 13 (SMART)",
+     "url": null
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Swan et al. Catheterization of the heart in man with use of a flow-directed balloon-tipped catheter. NEJM 1970",
+     "url": "https://doi.org/10.1056/NEJM197008272830902"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2019.1 Q9: Catecholamines, hypercalcaemia, hyponatraemia, SIADH (your mark 4.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2019-paper-1-saqs/question-91"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2016.1 Q29: End-stage kidney disease in the critically ill (pass rate 29%)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2016-paper-1-saqs/question-29"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2020.2 Q13: Dialysis-dependent ESRF after Hartmann's procedure",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2020-paper-2-saqs/question-13"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q8: Pathophysiology of dialysis-dependent ESKD",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-8"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q2: Causes of shock after cardiac surgery",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-2"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q21: CVP waveforms and the passive leg raise",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-21"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2015.2 Q21: CVVHF vs SLED vs IHD",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2015-paper-2-saqs/question-21"
+    },
+    {
+     "group": "Further reading",
+     "label": "Yaxley et al. Care of the chronic dialysis patient in the intensive care unit: a state-of-the-art review. Critical Care Science 2025",
+     "url": "https://doi.org/10.62675/2965-2774.20250130"
+    },
+    {
+     "group": "Further reading",
+     "label": "Prediction of fluid responsiveness. What's new? Ann Intensive Care 2022",
+     "url": "https://doi.org/10.1186/s13613-022-01022-8"
+    }
+   ],
+   "takeaways": [
+    "Corrected calcium = measured + 0.02 x (40 - albumin): 2.59 with albumin 15 is about 3.1 mmol/L; write the sum, then the diagnosis.",
+    "Sodium deficit = TBW x (target - actual Na): 0.5-0.6 x 60 x (120 - 110) = 300-360 mmol.",
+    "Passive leg raise: a stroke volume rise of 10% or more predicts fluid responsiveness; PPV above 12-13% only in controlled ventilation, sinus rhythm, Vt at least 8 mL/kg.",
+    "SSC 2026: noradrenaline first line, initial MAP 65 mmHg (60-65 if aged 65 or over), add vasopressin on escalating noradrenaline, start peripherally rather than delay.",
+    "KDIGO stage 3 AKI: creatinine 3x baseline or at least 353.6 umol/L, RRT started, UO below 0.3 mL/kg/h for 24 h or anuria 12 h.",
+    "CRRT: deliver 20-25 mL/kg/h effluent; on citrate, post-filter iCa 0.25-0.35 mmol/L and total:ionised Ca above 2.5 means accumulation.",
+    "SAFE (6997 pts): 28-day mortality 20.9 vs 21.1% albumin vs saline, but 24.5 vs 15.1% in TBI; SMART: MAKE30 14.3 vs 15.4% favouring balanced fluid.",
+    "ESKD in ICU (2016.1 Q29, pass rate 29%): system-by-system table, change paired with management; lead with access, drugs and dialysis disequilibrium."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 48.56,
+     "title": "Last week"
+    },
+    {
+     "start": 191.34,
+     "title": "This week: shock, haemodynamics, fluids and the kidney"
+    },
+    {
+     "start": 1259.12,
+     "title": "Landmark trials"
+    },
+    {
+     "start": 1489.58,
+     "title": "Exam practice"
+    },
+    {
+     "start": 1796.62,
+     "title": "Syllabus round-up"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-07",
   "title": "Spiral review: cardiogenic shock and the kidney, calcium and citrate, TURP, four gases at speed",
   "description": "A spiral review that brings back cardiogenic shock after PCI, the 2025.1 phosphate and calcium question, TURP syndrome and the 2013.2 four-part gas question, each made harder and linked to renal replacement therapy, with IABP-SHOCK II and the story of Kolff's drum kidney. Then a six-item syllabus round-up: ventilation, airway, pulmonary embolism under the 2026 AHA/ACC categories, poisoning, haemostatic failure and the 2026 Surviving Sepsis guidelines.",
