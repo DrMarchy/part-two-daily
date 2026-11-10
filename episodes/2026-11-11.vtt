@@ -1,0 +1,1917 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.720
+<v Tutor>Welcome to Part Two Daily.
+
+2
+00:00:01.720 --> 00:00:05.412
+<v Tutor>It's Wednesday the eleventh of November, and this is a deep dive.
+
+3
+00:00:05.412 --> 00:00:08.802
+<v Tutor>Today we stay with one problem until it gives up its marks.
+
+4
+00:00:08.802 --> 00:00:11.432
+<v Tutor>The problem is a filter that keeps clotting.
+
+5
+00:00:11.432 --> 00:00:13.557
+<v Tutor>It sounds like a nursing headache.
+
+6
+00:00:13.557 --> 00:00:21.498
+<v Tutor>In the exam it is a renal question, a haematology question and a pharmacology question at once, and in 2014 fewer than half the candidates passed it.
+
+7
+00:00:21.498 --> 00:00:23.167
+<v Tutor>Here's the running order.
+
+8
+00:00:23.167 --> 00:00:30.502
+<v Tutor>First, a tutorial on keeping the continuous renal replacement circuit alive, including the patient with heparin-induced thrombocytopenia.
+
+9
+00:00:30.502 --> 00:00:35.813
+<v Tutor>Second, the two trials that made citrate the default, one of them from Australia and New Zealand.
+
+10
+00:00:35.813 --> 00:00:41.074
+<v Tutor>Third, exam practice on a real College question about citrate, with an examiner and a candidate.
+
+11
+00:00:41.074 --> 00:00:42.440
+<v Tutor>Then a short close.
+
+12
+00:00:43.840 --> 00:00:45.568
+<v Tutor>Picture three in the morning.
+
+13
+00:00:45.568 --> 00:00:48.790
+<v Tutor>Your patient is on continuous veno-venous haemodiafiltration.
+
+14
+00:00:48.790 --> 00:00:51.031
+<v Tutor>The third filter today has just clotted.
+
+15
+00:00:51.031 --> 00:00:53.226
+<v Tutor>The nurse shows you the platelet count.
+
+16
+00:00:53.226 --> 00:00:54.720
+<v Tutor>It was 240 on admission.
+
+17
+00:00:54.720 --> 00:00:55.794
+<v Tutor>Today it is 70.
+
+18
+00:00:55.794 --> 00:00:59.716
+<v Tutor>The patient has been on heparin for seven days, and the left leg is swollen.
+
+19
+00:00:59.716 --> 00:01:01.584
+<v Tutor>What do you do with the circuit?
+
+20
+00:01:01.584 --> 00:01:02.798
+<v Tutor>Hold that thought.
+
+21
+00:01:02.798 --> 00:01:06.160
+<v Tutor>By the end of this part you should have a ten-mark answer ready.
+
+22
+00:01:06.560 --> 00:01:09.087
+<v Tutor>First, how the College asks this.
+
+23
+00:01:09.087 --> 00:01:14.325
+<v Tutor>In the curriculum data, the circuit has been examined seven times since 2007.
+
+24
+00:01:14.325 --> 00:01:23.877
+<v Tutor>Three questions ask for strategies to prolong the life of the circuit: the 2007 first sitting, the 2010 second sitting, and the 2014 first sitting.
+
+25
+00:01:23.877 --> 00:01:30.163
+<v Tutor>Two ask about citrate anticoagulation specifically, in 2013 and again, word for word, in 2015.
+
+26
+00:01:30.163 --> 00:01:34.970
+<v Tutor>Two more ask you to troubleshoot a dialysis circuit, in 2009 and 2018.
+
+27
+00:01:34.970 --> 00:01:37.188
+<v Tutor>The pass rates tell a story.
+
+28
+00:01:37.188 --> 00:01:40.948
+<v Tutor>The 2007 and 2010 versions were passed by 71 percent.
+
+29
+00:01:40.948 --> 00:01:45.878
+<v Tutor>The 2014 version, which is on your list today, was passed by 43 percent.
+
+30
+00:01:45.878 --> 00:01:49.699
+<v Tutor>The citrate question in 2015 was passed by 86 percent.
+
+31
+00:01:49.699 --> 00:01:52.472
+<v Tutor>So candidates know citrate chemistry.
+
+32
+00:01:52.472 --> 00:02:00.360
+<v Tutor>What they lose marks on is the whole-patient strategy, and especially the patient with heparin-induced thrombocytopenia.
+
+33
+00:02:00.760 --> 00:02:04.800
+<v Tutor>Here is the 2014 first sitting, question 29, read exactly.
+
+34
+00:02:04.800 --> 00:02:15.758
+<v Tutor>A 55-year-old patient with severe sepsis develops Heparin Induced Thrombotic Thrombocytopaenia Syndrome, HITTS, while on continuous veno-venous haemodiafiltration, CVVHDF.
+
+35
+00:02:15.758 --> 00:02:25.858
+<v Tutor>Outline the strategies available for prolonging the life of the CVVHDF circuit in this patient, mentioning the advantages and disadvantages of each strategy.
+
+36
+00:02:25.858 --> 00:02:27.756
+<v Tutor>Notice the instruction.
+
+37
+00:02:27.756 --> 00:02:32.041
+<v Tutor>Outline, with advantages and disadvantages, for each strategy.
+
+38
+00:02:32.041 --> 00:02:33.510
+<v Tutor>That is a table.
+
+39
+00:02:33.510 --> 00:02:41.223
+<v Tutor>The College's own discussion of the near-identical 2010 question said the answer would have benefited from tabulation.
+
+40
+00:02:41.223 --> 00:02:44.834
+<v Tutor>Three columns: strategy, advantages, disadvantages.
+
+41
+00:02:44.834 --> 00:02:46.426
+<v Tutor>Six to eight rows.
+
+42
+00:02:46.426 --> 00:02:50.160
+<v Tutor>Write it as a table and you will not forget a column.
+
+43
+00:02:50.560 --> 00:02:51.813
+<v Tutor>Now the framework.
+
+44
+00:02:51.813 --> 00:02:53.886
+<v Tutor>Think of filter life in two layers.
+
+45
+00:02:53.886 --> 00:02:56.633
+<v Tutor>The first layer is everything that is not a drug.
+
+46
+00:02:56.633 --> 00:02:58.850
+<v Tutor>The second layer is the anticoagulant.
+
+47
+00:02:58.850 --> 00:03:06.320
+<v Tutor>Examiners reward candidates who start with the first layer, because it is where the free marks are and because it is what a consultant fixes first.
+
+48
+00:03:06.720 --> 00:03:11.033
+<v Tutor>Before any drug: name three things that determine how long a filter lasts.
+
+49
+00:03:11.033 --> 00:03:12.400
+<v Tutor>Pause, and answer.
+
+50
+00:03:17.800 --> 00:03:19.309
+<v Tutor>Here is the answer.
+
+51
+00:03:19.309 --> 00:03:20.539
+<v Tutor>First, access.
+
+52
+00:03:20.539 --> 00:03:23.782
+<v Tutor>Second, flow and haemoconcentration in the filter.
+
+53
+00:03:23.782 --> 00:03:25.403
+<v Tutor>Third, interruptions.
+
+54
+00:03:25.403 --> 00:03:27.080
+<v Tutor>Let's go through each.
+
+55
+00:03:27.480 --> 00:03:28.644
+<v Tutor>Access first.
+
+56
+00:03:28.644 --> 00:03:32.027
+<v Tutor>Most early clotting is an access problem in disguise.
+
+57
+00:03:32.027 --> 00:03:35.686
+<v Tutor>A poorly flowing catheter causes repeated pressure alarms.
+
+58
+00:03:35.686 --> 00:03:37.959
+<v Tutor>Every alarm stops the blood pump.
+
+59
+00:03:37.959 --> 00:03:39.567
+<v Tutor>Stagnant blood clots.
+
+60
+00:03:39.567 --> 00:03:47.052
+<v Tutor>So you want a wide-bore, double-lumen dialysis catheter, of the right length for the site, with its tip where flow is generous.
+
+61
+00:03:47.052 --> 00:03:57.975
+<v Tutor>The 2012 Kidney Disease Improving Global Outcomes guideline, known as KDIGO, ranks the sites: right internal jugular first, femoral second, left internal jugular third, and subclavian last.
+
+62
+00:03:57.975 --> 00:04:02.522
+<v Tutor>The subclavian is last because of stenosis that can ruin a future fistula.
+
+63
+00:04:02.522 --> 00:04:07.401
+<v Tutor>Kinking, patient position and a catheter tip against the vessel wall all matter.
+
+64
+00:04:07.401 --> 00:04:14.720
+<v Tutor>If the access pressure swings every time the patient coughs or sits up, fix the catheter before you blame the anticoagulant.
+
+65
+00:04:15.120 --> 00:04:17.516
+<v Tutor>Second, flow and haemoconcentration.
+
+66
+00:04:17.516 --> 00:04:20.239
+<v Tutor>Blood in a haemofilter loses plasma water.
+
+67
+00:04:20.239 --> 00:04:25.140
+<v Tutor>The further you concentrate it, the thicker it gets and the more readily it clots.
+
+68
+00:04:25.140 --> 00:04:31.021
+<v Tutor>The measure is the filtration fraction: the proportion of plasma flow you take off as ultrafiltrate.
+
+69
+00:04:31.021 --> 00:04:35.323
+<v Tutor>In post-dilution haemofiltration, keep it under about 20 to 25 percent.
+
+70
+00:04:35.323 --> 00:04:37.283
+<v Tutor>You can lower it three ways.
+
+71
+00:04:37.283 --> 00:04:41.477
+<v Tutor>Raise the blood flow, typically to 150 to 250 millilitres per minute.
+
+72
+00:04:41.477 --> 00:04:46.432
+<v Tutor>Give some or all of the replacement fluid before the filter, which is pre-dilution.
+
+73
+00:04:46.432 --> 00:04:52.204
+<v Tutor>Or shift clearance from convection to diffusion, by using dialysate rather than replacement fluid.
+
+74
+00:04:52.204 --> 00:04:53.947
+<v Tutor>Pre-dilution is a trade.
+
+75
+00:04:53.947 --> 00:05:03.640
+<v Tutor>It lengthens filter life, but it dilutes the blood you are trying to clean, so you lose some clearance and must prescribe a little more effluent to deliver the same dose.
+
+76
+00:05:04.040 --> 00:05:05.739
+<v Tutor>Third, interruptions.
+
+77
+00:05:05.739 --> 00:05:08.025
+<v Tutor>Every stop is a chance to clot.
+
+78
+00:05:08.025 --> 00:05:14.412
+<v Tutor>Prompt response to alarms, trained nursing staff, and planned circuit changes all extend filter life.
+
+79
+00:05:14.412 --> 00:05:19.334
+<v Tutor>The venous bubble trap, where blood meets air, is a favourite site for clot.
+
+80
+00:05:19.334 --> 00:05:21.033
+<v Tutor>And watch the trends.
+
+81
+00:05:21.033 --> 00:05:28.592
+<v Tutor>A rising pre-filter pressure and a rising transmembrane pressure tell you the filter is failing before it actually clots.
+
+82
+00:05:28.592 --> 00:05:35.800
+<v Tutor>A falling ratio of effluent urea to blood urea tells you the membrane is fouling and clearance is quietly dropping.
+
+83
+00:05:36.200 --> 00:05:39.592
+<v Tutor>The 2018 first sitting turned this into a data question.
+
+84
+00:05:39.592 --> 00:05:43.089
+<v Tutor>You were given circuit pressures and asked what was wrong.
+
+85
+00:05:43.089 --> 00:05:45.845
+<v Tutor>So learn the pattern of the three pressures.
+
+86
+00:05:45.845 --> 00:05:48.918
+<v Tutor>The access pressure, before the pump, is negative.
+
+87
+00:05:48.918 --> 00:05:52.575
+<v Tutor>The pre-filter pressure sits between the pump and the filter.
+
+88
+00:05:52.575 --> 00:05:56.178
+<v Tutor>The return pressure is on the venous side, after the filter.
+
+89
+00:05:56.178 --> 00:06:06.565
+<v Tutor>If the access pressure becomes much more negative, the problem is drawing blood out: a kinked or malpositioned catheter, the tip sucking against the vessel wall, or a hypovolaemic patient.
+
+90
+00:06:06.565 --> 00:06:13.560
+<v Tutor>If the return pressure rises, the problem is getting blood back: a clot in the venous chamber or the return limb, or a kink.
+
+91
+00:06:13.560 --> 00:06:20.078
+<v Tutor>If the pre-filter pressure climbs while the return pressure stays the same or falls, the filter itself is clotting.
+
+92
+00:06:20.078 --> 00:06:22.781
+<v Tutor>The pressure drop across the filter widens.
+
+93
+00:06:22.781 --> 00:06:29.193
+<v Tutor>The transmembrane pressure rises as the membrane clogs with protein, which is called fouling, and then with clot.
+
+94
+00:06:29.193 --> 00:06:31.260
+<v Tutor>That is a filter about to fail.
+
+95
+00:06:31.260 --> 00:06:38.520
+<v Tutor>Change it electively before it clots with a full blood volume inside, which can be 150 to 200 millilitres of the patient's blood.
+
+96
+00:06:38.920 --> 00:06:46.829
+<v Tutor>A consultant habit worth stating in an answer: when filter life suddenly shortens in a patient whose regimen hasn't changed, look for a new cause.
+
+97
+00:06:46.829 --> 00:06:48.678
+<v Tutor>The catheter may have moved.
+
+98
+00:06:48.678 --> 00:06:51.143
+<v Tutor>The patient may be more volume depleted.
+
+99
+00:06:51.143 --> 00:06:56.896
+<v Tutor>Or something new may be driving coagulation, such as sepsis, or heparin-induced thrombocytopenia itself.
+
+100
+00:06:56.896 --> 00:07:04.240
+<v Tutor>Recurrent unexplained clotting on heparin, with a falling platelet count, is one of the classic ways HIT first shows itself in the ICU.
+
+101
+00:07:04.640 --> 00:07:06.987
+<v Tutor>Why does this matter beyond the circuit?
+
+102
+00:07:06.987 --> 00:07:08.844
+<v Tutor>Because downtime is lost dose.
+
+103
+00:07:08.844 --> 00:07:15.151
+<v Tutor>If you prescribe 25 millilitres per kilogram per hour and the filter is down a quarter of the day, you deliver much less.
+
+104
+00:07:15.151 --> 00:07:19.698
+<v Tutor>That is one reason the big dose trials prescribed more than they intended to deliver.
+
+105
+00:07:19.698 --> 00:07:21.947
+<v Tutor>And downtime means lost fluid removal.
+
+106
+00:07:21.947 --> 00:07:26.640
+<v Tutor>A circuit that clots four times a day cannot de-resuscitate a patient in fluid overload.
+
+107
+00:07:27.040 --> 00:07:29.567
+<v Tutor>Now the second layer, the anticoagulant.
+
+108
+00:07:29.567 --> 00:07:34.253
+<v Tutor>Let me tell you where the most familiar one came from, because it explains a lot.
+
+109
+00:07:34.253 --> 00:07:40.413
+<v Tutor>In 1916, Jay McLean was a medical student at Johns Hopkins working in William Howell's physiology laboratory.
+
+110
+00:07:40.413 --> 00:07:44.941
+<v Tutor>Howell believed that a substance called cephalin was the body's clot promoter.
+
+111
+00:07:44.941 --> 00:07:48.837
+<v Tutor>McLean's job was to purify it and prove that it helped blood clot.
+
+112
+00:07:48.837 --> 00:07:51.575
+<v Tutor>He tried extracts from heart and from liver.
+
+113
+00:07:51.575 --> 00:07:53.838
+<v Tutor>The liver extract did the opposite.
+
+114
+00:07:53.838 --> 00:07:55.629
+<v Tutor>It stopped blood clotting.
+
+115
+00:07:55.629 --> 00:07:57.787
+<v Tutor>McLean called it heparphosphatid.
+
+116
+00:07:57.787 --> 00:08:03.421
+<v Tutor>Howell and his colleague Emmett Holt introduced the name heparin in 1918, from the Greek for liver.
+
+117
+00:08:03.421 --> 00:08:12.108
+<v Tutor>It took the Toronto group under Charles Best, in the 1930s, to purify it well enough for humans, and Gordon Murray's clinical studies were published in 1937.
+
+118
+00:08:12.108 --> 00:08:17.320
+<v Tutor>So the drug we put in every circuit began as a failed experiment to find the opposite drug.
+
+119
+00:08:17.720 --> 00:08:20.772
+<v Tutor>And it took decades to see heparin's paradox.
+
+120
+00:08:20.772 --> 00:08:26.761
+<v Tutor>In 1958, Weismann and Tobin described arterial emboli occurring during systemic heparin therapy.
+
+121
+00:08:26.761 --> 00:08:35.457
+<v Tutor>In 1977, Rhodes, Dixon and Silver described eight patients with heparin-induced thrombocytopenia and thrombotic and haemorrhagic complications.
+
+122
+00:08:35.457 --> 00:08:37.414
+<v Tutor>We now know the mechanism.
+
+123
+00:08:37.414 --> 00:08:41.906
+<v Tutor>Antibodies form against complexes of heparin and platelet factor four.
+
+124
+00:08:41.906 --> 00:08:44.786
+<v Tutor>Those immune complexes activate platelets.
+
+125
+00:08:44.786 --> 00:08:48.010
+<v Tutor>The platelet count falls, and the patient clots.
+
+126
+00:08:48.010 --> 00:08:50.602
+<v Tutor>That is the trap in today's question.
+
+127
+00:08:50.602 --> 00:08:54.172
+<v Tutor>A patient with HITTS does not have a bleeding problem.
+
+128
+00:08:54.172 --> 00:08:57.800
+<v Tutor>They have a clotting problem with a low platelet count.
+
+129
+00:08:58.200 --> 00:09:00.063
+<v Tutor>So, the anticoagulant options.
+
+130
+00:09:00.063 --> 00:09:06.240
+<v Tutor>I'll give you each one in the way the College answer lays them out: what it is, its advantages, and its disadvantages.
+
+131
+00:09:06.640 --> 00:09:12.236
+<v Tutor>Option one: unfractionated heparin, given systemically, usually as a pre-filter infusion.
+
+132
+00:09:12.236 --> 00:09:18.121
+<v Tutor>In the RICH trial the target was an activated partial thromboplastin time of 45 to 60 seconds.
+
+133
+00:09:18.121 --> 00:09:22.910
+<v Tutor>Advantages: cheap, familiar, easy to monitor and reversible with protamine.
+
+134
+00:09:22.910 --> 00:09:26.949
+<v Tutor>Disadvantages: bleeding, and heparin-induced thrombocytopenia.
+
+135
+00:09:26.949 --> 00:09:30.295
+<v Tutor>In this patient, it is absolutely contraindicated.
+
+136
+00:09:30.295 --> 00:09:32.719
+<v Tutor>Every source of heparin must stop.
+
+137
+00:09:32.719 --> 00:09:39.296
+<v Tutor>That includes the heparin flushes on arterial lines, heparin catheter locks, and heparin-bonded membranes.
+
+138
+00:09:39.296 --> 00:09:41.488
+<v Tutor>Say that sentence in the exam.
+
+139
+00:09:41.488 --> 00:09:44.200
+<v Tutor>It is a mark that most candidates miss.
+
+140
+00:09:44.600 --> 00:09:51.194
+<v Tutor>Two variations on heparin appear in the College answer to the 2007 question, so know them for a patient without HIT.
+
+141
+00:09:51.194 --> 00:09:58.533
+<v Tutor>Regional heparin means heparin before the filter and protamine after it, to neutralise it before the blood returns to the patient.
+
+142
+00:09:58.533 --> 00:10:01.458
+<v Tutor>The advantage is less systemic anticoagulation.
+
+143
+00:10:01.458 --> 00:10:13.371
+<v Tutor>The disadvantages are that the ratio is hard to get right, protamine has its own risks, including hypotension and anaphylaxis, and the heparin protamine complex can dissociate later and cause rebound anticoagulation.
+
+144
+00:10:13.371 --> 00:10:18.210
+<v Tutor>KDIGO suggests avoiding regional heparin in patients at increased risk of bleeding.
+
+145
+00:10:18.210 --> 00:10:21.401
+<v Tutor>Low molecular weight heparin is the other variation.
+
+146
+00:10:21.401 --> 00:10:23.741
+<v Tutor>Its advantage is predictable dosing.
+
+147
+00:10:23.741 --> 00:10:35.175
+<v Tutor>Its disadvantages in this setting are renal accumulation, monitoring that needs anti-ten-A levels, only partial reversal by protamine, and a higher risk of HIT antibodies cross-reacting than with danaparoid.
+
+148
+00:10:35.175 --> 00:10:40.440
+<v Tutor>In a patient with HIT, both variations are contraindicated, because they are still heparin.
+
+149
+00:10:40.840 --> 00:10:44.742
+<v Tutor>Option two: no anticoagulant, with or without saline flushes.
+
+150
+00:10:44.742 --> 00:10:47.795
+<v Tutor>Advantages: no bleeding risk from the circuit.
+
+151
+00:10:47.795 --> 00:10:51.414
+<v Tutor>Disadvantages: short filter life and more interruptions.
+
+152
+00:10:51.414 --> 00:10:55.033
+<v Tutor>Saline flushes add volume and their benefit is doubtful.
+
+153
+00:10:55.033 --> 00:10:57.747
+<v Tutor>And here is the key point for this stem.
+
+154
+00:10:57.747 --> 00:11:04.363
+<v Tutor>In HITTS, no anticoagulation is not an option for the patient, even if it might be an option for the circuit.
+
+155
+00:11:04.363 --> 00:11:09.000
+<v Tutor>The patient has a thrombosis and needs a non-heparin anticoagulant anyway.
+
+156
+00:11:09.400 --> 00:11:11.647
+<v Tutor>Option three: regional citrate.
+
+157
+00:11:11.647 --> 00:11:15.218
+<v Tutor>We'll do the chemistry in detail in the exam practice.
+
+158
+00:11:15.218 --> 00:11:22.533
+<v Tutor>In short, citrate binds ionised calcium in the circuit, and calcium is needed at several steps of the clotting cascade.
+
+159
+00:11:22.533 --> 00:11:30.022
+<v Tutor>You infuse citrate before the filter, aiming for a post-filter ionised calcium of about 0.25 to 0.35 millimoles per litre.
+
+160
+00:11:30.022 --> 00:11:35.149
+<v Tutor>You replace calcium into the patient to keep the systemic ionised calcium normal.
+
+161
+00:11:35.149 --> 00:11:41.715
+<v Tutor>Advantages: the longest filter life, and the least bleeding, because anticoagulation stays in the circuit.
+
+162
+00:11:41.715 --> 00:11:48.167
+<v Tutor>Disadvantages: complexity, protocols and frequent monitoring of sodium, ionised calcium and bicarbonate.
+
+163
+00:11:48.167 --> 00:11:52.487
+<v Tutor>It can cause metabolic alkalosis, hypocalcaemia and hypernatraemia.
+
+164
+00:11:52.487 --> 00:11:57.383
+<v Tutor>It is risky in liver failure and low-output shock, where citrate accumulates.
+
+165
+00:11:57.383 --> 00:12:03.144
+<v Tutor>And in HITTS, citrate looks after the circuit but does nothing for the patient's thrombosis.
+
+166
+00:12:03.144 --> 00:12:06.600
+<v Tutor>You still need a systemic non-heparin anticoagulant.
+
+167
+00:12:06.600 --> 00:12:10.920
+<v Tutor>That sentence is in the College's discussion of this very question.
+
+168
+00:12:11.320 --> 00:12:17.173
+<v Tutor>Let me add the practical citrate management the examiners expect, because the College asks it in detail.
+
+169
+00:12:17.173 --> 00:12:20.047
+<v Tutor>Citrate delivery is proportional to blood flow.
+
+170
+00:12:20.047 --> 00:12:23.235
+<v Tutor>Turn the blood pump up, and you deliver more citrate.
+
+171
+00:12:23.235 --> 00:12:36.561
+<v Tutor>So if a patient on citrate develops a metabolic alkalosis, the usual moves are to lower the blood flow, which lowers the citrate load, or to increase the dialysate or effluent flow, which removes more calcium citrate before it reaches the patient.
+
+172
+00:12:36.561 --> 00:12:39.905
+<v Tutor>Some units also switch to a lower-bicarbonate dialysate.
+
+173
+00:12:39.905 --> 00:12:44.504
+<v Tutor>If the sodium is creeping up, the cause is usually hypertonic trisodium citrate.
+
+174
+00:12:44.504 --> 00:12:46.960
+<v Tutor>Check the protocol's fluid composition.
+
+175
+00:12:47.360 --> 00:12:48.833
+<v Tutor>You're on citrate.
+
+176
+00:12:48.833 --> 00:12:55.573
+<v Tutor>The systemic ionised calcium has fallen to 0.9, and your calcium infusion has been increased three times today.
+
+177
+00:12:55.573 --> 00:12:58.858
+<v Tutor>The total calcium is now 3.1 millimoles per litre.
+
+178
+00:12:58.858 --> 00:13:01.407
+<v Tutor>What's happening, and what do you do?
+
+179
+00:13:01.407 --> 00:13:02.880
+<v Tutor>Pause, and answer.
+
+180
+00:13:08.280 --> 00:13:09.727
+<v Tutor>Divide 3.1 by 0.9.
+
+181
+00:13:09.727 --> 00:13:12.342
+<v Tutor>The ratio is about 3.4, well above 2.5.
+
+182
+00:13:12.342 --> 00:13:14.123
+<v Tutor>Citrate is accumulating.
+
+183
+00:13:14.123 --> 00:13:16.127
+<v Tutor>The liver isn't clearing it.
+
+184
+00:13:16.127 --> 00:13:21.079
+<v Tutor>Look for the cause: worsening shock, a rising lactate, or failing liver function.
+
+185
+00:13:21.079 --> 00:13:22.026
+<v Tutor>Then act.
+
+186
+00:13:22.026 --> 00:13:25.309
+<v Tutor>Reduce the citrate load by lowering the blood flow.
+
+187
+00:13:25.309 --> 00:13:29.705
+<v Tutor>Increase the effluent or dialysate to clear more citrate in the filter.
+
+188
+00:13:29.705 --> 00:13:33.656
+<v Tutor>If the ratio doesn't improve, stop citrate and change strategy.
+
+189
+00:13:33.656 --> 00:13:37.107
+<v Tutor>Keep giving calcium until the ionised calcium is safe.
+
+190
+00:13:37.107 --> 00:13:44.452
+<v Tutor>As the accumulated citrate is finally metabolised, all that bound calcium is released, and the bicarbonate load arrives too.
+
+191
+00:13:44.452 --> 00:13:48.292
+<v Tutor>So expect a rebound later, with hypercalcaemia and alkalosis.
+
+192
+00:13:48.292 --> 00:13:51.520
+<v Tutor>That rebound is an examiner's favourite follow-up.
+
+193
+00:13:51.920 --> 00:13:55.610
+<v Tutor>Option four: prostacyclin, epoprostenol, or its analogues.
+
+194
+00:13:55.610 --> 00:13:59.523
+<v Tutor>It inhibits platelet aggregation, with a half-life of minutes.
+
+195
+00:13:59.523 --> 00:14:03.213
+<v Tutor>Advantages: less bleeding, and a short duration of action.
+
+196
+00:14:03.213 --> 00:14:12.437
+<v Tutor>Disadvantages: vasodilatation and hypotension in a patient who may already be on noradrenaline, cost, and a filter life shorter than with citrate or heparin.
+
+197
+00:14:12.437 --> 00:14:15.120
+<v Tutor>Again, it does not treat the thrombosis.
+
+198
+00:14:15.520 --> 00:14:18.346
+<v Tutor>Option five: the direct thrombin inhibitors.
+
+199
+00:14:18.346 --> 00:14:23.888
+<v Tutor>Argatroban, bivalirudin, and historically lepirudin and hirudin, which are no longer marketed.
+
+200
+00:14:23.888 --> 00:14:28.290
+<v Tutor>They bind thrombin directly, so there is no antibody to cross-react with.
+
+201
+00:14:28.290 --> 00:14:32.800
+<v Tutor>This is the class that treats the patient and the circuit at the same time.
+
+202
+00:14:33.200 --> 00:14:34.194
+<v Tutor>Pause here.
+
+203
+00:14:34.194 --> 00:14:37.437
+<v Tutor>You have a patient with HITTS and acute kidney injury.
+
+204
+00:14:37.437 --> 00:14:42.720
+<v Tutor>Which direct thrombin inhibitor would you choose, and what laboratory artefact does it cause?
+
+205
+00:14:42.720 --> 00:14:44.080
+<v Tutor>Pause, and answer.
+
+206
+00:14:49.480 --> 00:14:50.523
+<v Tutor>Argatroban.
+
+207
+00:14:50.523 --> 00:14:54.859
+<v Tutor>It is cleared by the liver, so it does not accumulate in renal failure.
+
+208
+00:14:54.859 --> 00:15:00.348
+<v Tutor>That makes it the drug of choice in HIT with kidney injury, as long as the liver is working.
+
+209
+00:15:00.348 --> 00:15:02.324
+<v Tutor>KDIGO 2012 says so directly.
+
+210
+00:15:02.324 --> 00:15:15.113
+<v Tutor>In patients with heparin-induced thrombocytopenia, all heparin must be stopped and direct thrombin inhibitors such as argatroban, or factor ten A inhibitors such as danaparoid or fondaparinux, are recommended, at grade one A.
+
+211
+00:15:15.113 --> 00:15:20.108
+<v Tutor>In those without severe liver failure, argatroban is suggested ahead of the others.
+
+212
+00:15:20.108 --> 00:15:26.091
+<v Tutor>The artefact: argatroban prolongs the prothrombin time and raises the international normalised ratio.
+
+213
+00:15:26.091 --> 00:15:31.964
+<v Tutor>That matters when you switch to warfarin later, because the INR will overstate the warfarin effect.
+
+214
+00:15:31.964 --> 00:15:38.221
+<v Tutor>Monitor with the activated partial thromboplastin time, aiming for one and a half to three times baseline.
+
+215
+00:15:38.221 --> 00:15:50.352
+<v Tutor>Critically ill patients need much lower doses than the product information suggests, often starting around 0.5 to 1.2 micrograms per kilogram per minute, because hepatic clearance falls in shock and heart failure.
+
+216
+00:15:50.352 --> 00:15:56.280
+<v Tutor>Disadvantages of the class: no reversal agent, cost, and accumulation of the renally cleared agents.
+
+217
+00:15:56.460 --> 00:16:02.974
+<v Tutor>Bivalirudin is cleared partly by the kidney, so it accumulates in renal failure, but its short half-life makes it workable.
+
+218
+00:16:02.974 --> 00:16:06.604
+<v Tutor>Lepirudin and hirudin were renally cleared and accumulated badly.
+
+219
+00:16:06.604 --> 00:16:14.460
+<v Tutor>The College answer also notes that the relationship between hirudin level and the partial thromboplastin time is only roughly linear at the lower end.
+
+220
+00:16:14.860 --> 00:16:19.584
+<v Tutor>Option six: danaparoid, a heparinoid that works mainly against factor ten A.
+
+221
+00:16:19.584 --> 00:16:23.184
+<v Tutor>Advantages: it works in HIT and has a long track record.
+
+222
+00:16:23.184 --> 00:16:33.420
+<v Tutor>Disadvantages: a long half-life, renal clearance, monitoring only by anti-ten-A levels, limited availability, and occasional cross-reactivity with heparin-induced antibodies.
+
+223
+00:16:33.420 --> 00:16:35.894
+<v Tutor>Fondaparinux sits in the same space.
+
+224
+00:16:35.894 --> 00:16:43.880
+<v Tutor>It has a long half-life and is renally cleared, so it accumulates in acute kidney injury, and the evidence for circuit use is limited.
+
+225
+00:16:43.880 --> 00:16:54.060
+<v Tutor>The 2014 College answer lists it, along with nafamostat, a serine protease inhibitor used in Japan and Korea, which it describes as limited in experience and very expensive.
+
+226
+00:16:54.460 --> 00:16:56.706
+<v Tutor>Now, how does Oh's frame this?
+
+227
+00:16:56.706 --> 00:17:03.503
+<v Tutor>Chapter 56, Renal replacement therapy, covers circuit anticoagulation in the section on continuous therapy.
+
+228
+00:17:03.503 --> 00:17:08.999
+<v Tutor>The heparin-induced thrombocytopenia material is in chapter 113, Haemostatic failure.
+
+229
+00:17:08.999 --> 00:17:13.491
+<v Tutor>Put them together and you get the consultant answer to today's stem.
+
+230
+00:17:13.491 --> 00:17:15.973
+<v Tutor>One: stop all heparin, everywhere.
+
+231
+00:17:15.973 --> 00:17:25.075
+<v Tutor>Two: confirm HIT, with a pre-test probability using the four Ts score, then a platelet factor four immunoassay, then a functional assay if needed.
+
+232
+00:17:25.075 --> 00:17:32.876
+<v Tutor>Three: start a systemic non-heparin anticoagulant, usually argatroban, because the patient has thrombosis and kidney injury.
+
+233
+00:17:32.876 --> 00:17:38.254
+<v Tutor>Four: that same drug anticoagulates the circuit, so you rarely need citrate on top.
+
+234
+00:17:38.254 --> 00:17:44.105
+<v Tutor>Five: optimise access, blood flow and pre-dilution to reduce how hard the drug has to work.
+
+235
+00:17:44.105 --> 00:17:51.020
+<v Tutor>Six: don't give platelets for a low count alone, and don't start warfarin until the platelets have recovered.
+
+236
+00:17:51.420 --> 00:17:53.026
+<v Tutor>What are the four Ts?
+
+237
+00:17:53.026 --> 00:17:58.288
+<v Tutor>Thrombocytopenia: a fall of more than 50 percent, with a nadir that's usually above 20.
+
+238
+00:17:58.288 --> 00:18:04.824
+<v Tutor>Timing: typically days 5 to 10 of heparin, or within a day if the patient was exposed in the previous 30 days.
+
+239
+00:18:04.824 --> 00:18:09.588
+<v Tutor>Thrombosis: new venous or arterial clots, or skin necrosis at injection sites.
+
+240
+00:18:09.588 --> 00:18:19.225
+<v Tutor>And other causes: in a septic patient on a filter there are many, which is why the score in the ICU often lands in the intermediate range and you need the laboratory.
+
+241
+00:18:19.225 --> 00:18:32.020
+<v Tutor>The American Society of Hematology's 2018 guideline on heparin-induced thrombocytopenia sets this out, and recommends a non-heparin anticoagulant once the probability is intermediate or high, without waiting for the result.
+
+242
+00:18:32.420 --> 00:18:36.930
+<v Tutor>A few management details from the same guideline earn marks in a HIT question.
+
+243
+00:18:36.930 --> 00:18:45.425
+<v Tutor>Treat with a non-heparin anticoagulant at therapeutic dose, not prophylactic dose, because the thrombotic risk is high even if no clot has been found yet.
+
+244
+00:18:45.425 --> 00:18:52.190
+<v Tutor>Look for occult deep vein thrombosis with a duplex ultrasound of the legs, including the arms if there are lines in them.
+
+245
+00:18:52.190 --> 00:18:59.374
+<v Tutor>Do not give platelet transfusions just to correct the number, but they can be given for active bleeding or a high-risk procedure.
+
+246
+00:18:59.374 --> 00:19:01.943
+<v Tutor>Do not start warfarin in the acute phase.
+
+247
+00:19:01.943 --> 00:19:08.183
+<v Tutor>Warfarin drops protein C before it drops the procoagulant factors, so it can cause venous limb gangrene in HIT.
+
+248
+00:19:08.183 --> 00:19:11.959
+<v Tutor>If warfarin has already been started, reverse it with vitamin K.
+
+249
+00:19:11.959 --> 00:19:17.937
+<v Tutor>Start it only once platelets have recovered, usually above 150, and overlap it with the non-heparin agent.
+
+250
+00:19:17.937 --> 00:19:24.387
+<v Tutor>The direct oral anticoagulants are an option once the patient is stable, but not with this degree of kidney injury.
+
+251
+00:19:24.387 --> 00:19:27.638
+<v Tutor>Duration: around three months if there was thrombosis.
+
+252
+00:19:27.638 --> 00:19:32.620
+<v Tutor>And document it as a heparin allergy, so no one restarts heparin in the next admission.
+
+253
+00:19:33.020 --> 00:19:35.752
+<v Tutor>In the sepsis stem, there's one more twist.
+
+254
+00:19:35.752 --> 00:19:43.358
+<v Tutor>The four Ts may not distinguish heparin-induced thrombocytopenia from sepsis, disseminated intravascular coagulation or haemodilution.
+
+255
+00:19:43.358 --> 00:19:46.839
+<v Tutor>A filter that consumes platelets can lower the count too.
+
+256
+00:19:46.839 --> 00:19:49.089
+<v Tutor>That's why the laboratory matters.
+
+257
+00:19:49.089 --> 00:19:54.713
+<v Tutor>And while you wait for the result, an intermediate or high probability means you treat it as HIT.
+
+258
+00:19:54.713 --> 00:19:57.713
+<v Tutor>The cost of missing it is limb loss or a stroke.
+
+259
+00:19:57.713 --> 00:20:00.980
+<v Tutor>The cost of overtreating is a few days of argatroban.
+
+260
+00:20:01.380 --> 00:20:07.387
+<v Tutor>A quick word on the guideline landscape, because examiners like a candidate who knows what is current.
+
+261
+00:20:07.387 --> 00:20:11.429
+<v Tutor>KDIGO's 2012 acute kidney injury guideline is still the reference.
+
+262
+00:20:11.429 --> 00:20:19.020
+<v Tutor>A 2026 update to it was released as a draft for public review this year, and the final version is not yet published, so quote 2012.
+
+263
+00:20:19.020 --> 00:20:23.007
+<v Tutor>Its anticoagulation recommendations are worth learning by number.
+
+264
+00:20:23.007 --> 00:20:30.161
+<v Tutor>For continuous therapy, regional citrate rather than heparin in patients without contraindications to citrate, grade two B.
+
+265
+00:20:30.161 --> 00:20:35.568
+<v Tutor>If citrate is contraindicated, unfractionated or low molecular weight heparin, grade two C.
+
+266
+00:20:35.568 --> 00:20:40.265
+<v Tutor>If bleeding risk is high, citrate rather than no anticoagulation, grade two C.
+
+267
+00:20:40.265 --> 00:20:46.217
+<v Tutor>And the heparin-induced thrombocytopenia recommendation at grade one A, which I've already given you.
+
+268
+00:20:46.217 --> 00:20:56.922
+<v Tutor>A Chinese Society of Critical Care Medicine guideline published in August 2026 also makes regional citrate first line, with heparin preferred where there is a risk of citrate accumulation.
+
+269
+00:20:56.922 --> 00:20:59.980
+<v Tutor>That's the same message from a second direction.
+
+270
+00:21:00.380 --> 00:21:02.610
+<v Tutor>Where do candidates lose marks?
+
+271
+00:21:02.610 --> 00:21:12.846
+<v Tutor>From the College material on the 2014 question: candidates gave regional strategies alone, without recognising that HITTS still needs a systemic non-heparin anticoagulant.
+
+272
+00:21:12.846 --> 00:21:15.477
+<v Tutor>The highest mark that sitting was 7.5.
+
+273
+00:21:15.477 --> 00:21:27.200
+<v Tutor>And from your own work: yesterday, on the 2015 second sitting question comparing intermittent haemodialysis, slow low-efficiency dialysis and continuous haemofiltration, you scored five and a half.
+
+274
+00:21:27.200 --> 00:21:32.403
+<v Tutor>The fix was to add the disadvantages, and the biggest omission was anticoagulation.
+
+275
+00:21:32.403 --> 00:21:38.922
+<v Tutor>Continuous therapy needs continuous anticoagulation, with its bleeding risk and its effect on filter life.
+
+276
+00:21:38.922 --> 00:21:41.896
+<v Tutor>Intermittent haemodialysis often needs none.
+
+277
+00:21:41.896 --> 00:21:45.327
+<v Tutor>Slow low-efficiency dialysis gives shorter exposure.
+
+278
+00:21:45.327 --> 00:21:48.472
+<v Tutor>Today's topic is the other half of that answer.
+
+279
+00:21:48.472 --> 00:21:55.220
+<v Tutor>Once you've learned this, anticoagulation becomes a row in every renal replacement comparison table you write.
+
+280
+00:21:55.620 --> 00:21:57.914
+<v Tutor>Three numbers to remember.
+
+281
+00:21:57.914 --> 00:22:03.988
+<v Tutor>One: post-filter ionised calcium of 0.25 to 0.35 millimoles per litre for citrate.
+
+282
+00:22:03.988 --> 00:22:09.791
+<v Tutor>Two: a total to ionised calcium ratio above 2.5 means citrate is accumulating.
+
+283
+00:22:09.791 --> 00:22:15.460
+<v Tutor>Three: keep the filtration fraction under 20 to 25 percent in post-dilution.
+
+284
+00:22:16.860 --> 00:22:20.495
+<v Tutor>Two trials changed circuit anticoagulation from habit to evidence.
+
+285
+00:22:20.495 --> 00:22:22.608
+<v Tutor>Both compared citrate with heparin.
+
+286
+00:22:22.608 --> 00:22:27.275
+<v Tutor>One was run in Australia and New Zealand, so an examiner here may quote it back at you.
+
+287
+00:22:27.275 --> 00:22:33.121
+<v Tutor>Before we start, which outcome would you expect citrate to win on, and which would you expect it not to change?
+
+288
+00:22:33.121 --> 00:22:34.300
+<v Tutor>Hold your guess.
+
+289
+00:22:34.700 --> 00:22:41.603
+<v Tutor>The first is the Heparin Citrate Study, by David Gattas and colleagues, published in Critical Care Medicine in 2015.
+
+290
+00:22:41.603 --> 00:22:47.393
+<v Tutor>It ran from 2010 to 2013 in seven intensive care units, six in Australia and one in New Zealand.
+
+291
+00:22:47.393 --> 00:22:52.293
+<v Tutor>It randomised 212 adults with acute kidney injury who needed continuous therapy.
+
+292
+00:22:52.293 --> 00:23:01.757
+<v Tutor>The comparison was regional citrate, with calcium replacement to keep systemic calcium normal, against regional heparin, reversed with protamine after the filter.
+
+293
+00:23:01.757 --> 00:23:04.986
+<v Tutor>Note that this was regional heparin, not systemic.
+
+294
+00:23:04.986 --> 00:23:08.716
+<v Tutor>Patients with liver failure or suspected HIT were excluded.
+
+295
+00:23:08.716 --> 00:23:12.780
+<v Tutor>The primary outcome was the functional life of the first circuit.
+
+296
+00:23:12.780 --> 00:23:17.735
+<v Tutor>Median life was 39.2 hours with citrate against 22.8 hours with regional heparin.
+
+297
+00:23:17.735 --> 00:23:21.910
+<v Tutor>The hazard of filter clotting was about twice as high with heparin.
+
+298
+00:23:21.910 --> 00:23:27.144
+<v Tutor>There was no difference in ICU mortality, 26.7 versus 23.4 percent, or in transfusion.
+
+299
+00:23:27.144 --> 00:23:33.657
+<v Tutor>Adverse events were more common with heparin, mostly suspected or confirmed heparin-induced thrombocytopenia.
+
+300
+00:23:33.657 --> 00:23:36.330
+<v Tutor>Criticisms: open label, as it had to be.
+
+301
+00:23:36.330 --> 00:23:39.280
+<v Tutor>Underpowered for any patient-centred outcome.
+
+302
+00:23:39.280 --> 00:23:45.460
+<v Tutor>Three quarters of patients came from two centres, and many potentially eligible patients were excluded.
+
+303
+00:23:45.640 --> 00:23:55.275
+<v Tutor>What it changed: it gave Australian and New Zealand units local evidence that citrate keeps the circuit alive longer than the regional heparin and protamine technique.
+
+304
+00:23:55.275 --> 00:24:05.240
+<v Tutor>One sentence for an exam answer: in the ANZ Heparin Citrate Study, regional citrate nearly doubled first-circuit life over regional heparin, with no difference in mortality.
+
+305
+00:24:05.640 --> 00:24:11.174
+<v Tutor>The second is RICH, by Alexander Zarbock and colleagues, published in JAMA in 2020.
+
+306
+00:24:11.174 --> 00:24:15.491
+<v Tutor>It was run in 26 German intensive care units from 2016 to 2018.
+
+307
+00:24:15.491 --> 00:24:24.613
+<v Tutor>Adults with stage three acute kidney injury needing continuous therapy were randomised to regional citrate or systemic unfractionated heparin.
+
+308
+00:24:24.613 --> 00:24:30.694
+<v Tutor>The citrate arm targeted a post-filter ionised calcium of 0.25 to 0.35 millimoles per litre.
+
+309
+00:24:30.694 --> 00:24:35.742
+<v Tutor>The heparin arm targeted a partial thromboplastin time of 45 to 60 seconds.
+
+310
+00:24:35.742 --> 00:24:40.850
+<v Tutor>Both arms received an effluent dose of 30 millilitres per kilogram per hour.
+
+311
+00:24:40.850 --> 00:24:45.350
+<v Tutor>There were two primary outcomes, filter life and 90-day mortality.
+
+312
+00:24:45.350 --> 00:24:52.343
+<v Tutor>The trial was stopped at an interim analysis after 638 patients were randomised, of whom 596 were analysed.
+
+313
+00:24:52.343 --> 00:24:58.120
+<v Tutor>Filter life had crossed its efficacy boundary, and mortality had crossed into futility.
+
+314
+00:24:58.520 --> 00:25:05.086
+<v Tutor>Before I give you the numbers: what was the median filter life with citrate in RICH, roughly, and with heparin?
+
+315
+00:25:05.086 --> 00:25:06.520
+<v Tutor>Pause, and answer.
+
+316
+00:25:11.920 --> 00:25:17.870
+<v Tutor>Median filter life was 47 hours with citrate and 26 hours with heparin, a difference of 15 hours.
+
+317
+00:25:17.870 --> 00:25:24.443
+<v Tutor>Ninety-day mortality was 51.2 percent with citrate and 53.6 percent with heparin, which was not significant.
+
+318
+00:25:24.443 --> 00:25:29.600
+<v Tutor>Bleeding complications were 5.1 percent with citrate and 16.9 percent with heparin.
+
+319
+00:25:29.600 --> 00:25:30.847
+<v Tutor>Now the twist.
+
+320
+00:25:30.847 --> 00:25:36.173
+<v Tutor>New culture-proven infections were more common with citrate, 68.0 versus 55.4 percent.
+
+321
+00:25:36.173 --> 00:25:43.710
+<v Tutor>That was a secondary outcome among many, with no correction for multiple comparisons, so treat it as a signal, not a finding.
+
+322
+00:25:43.710 --> 00:25:49.377
+<v Tutor>Citrate also caused more hypophosphataemia, and more severe alkalosis, though that was rare.
+
+323
+00:25:49.377 --> 00:25:53.797
+<v Tutor>The criticisms: stopped early, so the mortality estimate is imprecise.
+
+324
+00:25:53.797 --> 00:25:54.873
+<v Tutor>Open label.
+
+325
+00:25:54.873 --> 00:25:59.463
+<v Tutor>About 6 percent of randomised patients were excluded for lack of consent.
+
+326
+00:25:59.463 --> 00:26:08.077
+<v Tutor>And patients at highest risk of citrate accumulation, with severe liver failure or profound shock, were excluded, so it says nothing about them.
+
+327
+00:26:08.077 --> 00:26:13.177
+<v Tutor>What it changed: it confirmed the 2012 KDIGO suggestion with a large modern trial.
+
+328
+00:26:13.177 --> 00:26:17.200
+<v Tutor>Citrate is the default for continuous therapy where it is safe.
+
+329
+00:26:17.380 --> 00:26:28.660
+<v Tutor>In an SAQ: the RICH trial showed regional citrate prolonged filter life compared with systemic heparin, 47 versus 26 hours, and reduced bleeding, without a demonstrated mortality benefit.
+
+330
+00:26:29.060 --> 00:26:30.805
+<v Tutor>So, was your guess right?
+
+331
+00:26:30.805 --> 00:26:33.555
+<v Tutor>Citrate wins on the circuit and on bleeding.
+
+332
+00:26:33.555 --> 00:26:36.147
+<v Tutor>Neither trial showed it changes survival.
+
+333
+00:26:36.147 --> 00:26:43.710
+<v Tutor>That is the honest position, and it's what an examiner wants: citrate is chosen for filter life and safety, not because it saves lives.
+
+334
+00:26:43.710 --> 00:26:47.570
+<v Tutor>There's a nice irony in the history of continuous therapy itself.
+
+335
+00:26:47.570 --> 00:26:53.864
+<v Tutor>In 1977, Peter Kramer in Göttingen connected a haemofilter between a patient's femoral artery and femoral vein.
+
+336
+00:26:53.864 --> 00:26:55.239
+<v Tutor>There was no pump.
+
+337
+00:26:55.239 --> 00:27:03.278
+<v Tutor>The patient's own blood pressure drove about 100 millilitres a minute through the filter, to treat fluid overload that diuretics couldn't shift.
+
+338
+00:27:03.278 --> 00:27:08.672
+<v Tutor>That was continuous arteriovenous haemofiltration, the ancestor of every circuit in your unit.
+
+339
+00:27:08.672 --> 00:27:14.754
+<v Tutor>A pumpless circuit at low flow clots easily, and anticoagulation was a problem from the very first patient.
+
+340
+00:27:14.754 --> 00:27:22.740
+<v Tutor>Fifty years on, the question of how to keep blood moving through plastic without clotting the patient or the filter is still a core exam topic.
+
+341
+00:27:24.140 --> 00:27:24.953
+<v Examiner>Right.
+
+342
+00:27:24.953 --> 00:27:28.261
+<v Examiner>This is from the 2015 first sitting, question 22.
+
+343
+00:27:28.261 --> 00:27:31.917
+<v Examiner>It is identical to the 2013 first sitting, question 29.
+
+344
+00:27:31.917 --> 00:27:37.604
+<v Examiner>Regarding regional citrate anticoagulation for continuous renal replacement therapy, CRRT.
+
+345
+00:27:37.604 --> 00:27:38.475
+<v Examiner>Part a.
+
+346
+00:27:38.475 --> 00:27:42.654
+<v Examiner>What is the mechanism by which citrate provides anticoagulation?
+
+347
+00:27:42.654 --> 00:27:44.511
+<v Examiner>Twenty percent of marks.
+
+348
+00:27:44.511 --> 00:27:45.381
+<v Examiner>Part b.
+
+349
+00:27:45.381 --> 00:27:48.283
+<v Examiner>What is the metabolic fate of the citrate?
+
+350
+00:27:48.283 --> 00:27:49.618
+<v Examiner>Twenty percent.
+
+351
+00:27:49.618 --> 00:27:50.489
+<v Examiner>Part c.
+
+352
+00:27:50.489 --> 00:27:53.390
+<v Examiner>What are the features of citrate toxicity?
+
+353
+00:27:53.390 --> 00:27:54.725
+<v Examiner>Twenty percent.
+
+354
+00:27:54.725 --> 00:27:55.596
+<v Examiner>Part d.
+
+355
+00:27:55.596 --> 00:27:59.426
+<v Examiner>What conditions may increase the risk of citrate toxicity?
+
+356
+00:27:59.426 --> 00:28:00.761
+<v Examiner>Twenty percent.
+
+357
+00:28:00.761 --> 00:28:01.631
+<v Examiner>Part e.
+
+358
+00:28:01.631 --> 00:28:07.203
+<v Examiner>What alternative or alternatives to citrate could you use in a patient with severe HITS?
+
+359
+00:28:07.203 --> 00:28:08.538
+<v Examiner>Twenty percent.
+
+360
+00:28:08.538 --> 00:28:10.917
+<v Examiner>You have ten minutes in the exam.
+
+361
+00:28:10.917 --> 00:28:12.020
+<v Examiner>Off you go.
+
+362
+00:28:12.520 --> 00:28:13.355
+<v Candidate>Part a.
+
+363
+00:28:13.355 --> 00:28:15.638
+<v Candidate>Citrate chelates ionised calcium.
+
+364
+00:28:15.638 --> 00:28:25.103
+<v Candidate>Calcium is a cofactor at several steps of the coagulation cascade, including the activation of factors nine and ten and the conversion of prothrombin to thrombin.
+
+365
+00:28:25.103 --> 00:28:34.624
+<v Candidate>Citrate is infused before the filter to bring the post-filter ionised calcium down to about 0.25 to 0.35 millimoles per litre, which stops clotting in the circuit.
+
+366
+00:28:34.624 --> 00:28:42.920
+<v Candidate>Calcium is then infused into the patient, separately, to restore the systemic ionised calcium to normal, so the patient isn't anticoagulated.
+
+367
+00:28:43.420 --> 00:28:44.140
+<v Examiner>Good.
+
+368
+00:28:44.140 --> 00:28:50.509
+<v Examiner>That's full marks for a, provided you say the post-filter target and that calcium is replaced systemically.
+
+369
+00:28:50.509 --> 00:28:51.340
+<v Examiner>Part b.
+
+370
+00:28:51.840 --> 00:28:52.622
+<v Candidate>Part b.
+
+371
+00:28:52.622 --> 00:28:57.677
+<v Candidate>A proportion of the calcium citrate complex is removed across the filter in the effluent.
+
+372
+00:28:57.677 --> 00:29:04.817
+<v Candidate>The rest returns to the patient and is metabolised, mainly in the liver, with some in muscle and kidney, through the Krebs cycle.
+
+373
+00:29:04.817 --> 00:29:07.840
+<v Candidate>The calcium is released back into the circulation.
+
+374
+00:29:08.340 --> 00:29:11.060
+<v Examiner>And what does metabolising citrate produce?
+
+375
+00:29:11.560 --> 00:29:13.651
+<v Candidate>Energy, through the Krebs cycle.
+
+376
+00:29:13.651 --> 00:29:15.324
+<v Candidate>And, sorry, bicarbonate.
+
+377
+00:29:15.324 --> 00:29:18.200
+<v Candidate>Each citrate molecule yields three bicarbonate.
+
+378
+00:29:18.700 --> 00:29:19.434
+<v Examiner>Yes.
+
+379
+00:29:19.434 --> 00:29:23.655
+<v Examiner>Three bicarbonate per citrate, and NADH from the Krebs cycle.
+
+380
+00:29:23.655 --> 00:29:27.142
+<v Examiner>That's the link to part c, so don't leave it out.
+
+381
+00:29:27.142 --> 00:29:28.060
+<v Examiner>Part c.
+
+382
+00:29:28.560 --> 00:29:29.460
+<v Candidate>Part c.
+
+383
+00:29:29.460 --> 00:29:31.980
+<v Candidate>Citrate toxicity has two patterns.
+
+384
+00:29:31.980 --> 00:29:36.660
+<v Candidate>The first is low ionised calcium, from inadequate calcium replacement.
+
+385
+00:29:36.660 --> 00:29:44.700
+<v Candidate>Features are perioral tingling, paraesthesia, carpopedal spasm, tetany, a prolonged QT interval, arrhythmias, and hypotension.
+
+386
+00:29:44.700 --> 00:29:53.280
+<v Candidate>The second is metabolic alkalosis, because of the bicarbonate load, together with hypernatraemia, from the sodium in trisodium citrate.
+
+387
+00:29:53.780 --> 00:29:56.941
+<v Examiner>You've described what happens when the liver metabolises citrate too well.
+
+388
+00:29:56.941 --> 00:29:59.100
+<v Examiner>What happens when it can't metabolise it at all?
+
+389
+00:29:59.600 --> 00:30:01.429
+<v Candidate>Then citrate accumulates.
+
+390
+00:30:01.429 --> 00:30:06.528
+<v Candidate>You get a high anion gap metabolic acidosis, because citrate is an unmeasured anion.
+
+391
+00:30:06.528 --> 00:30:15.230
+<v Candidate>The ionised calcium falls, because citrate keeps binding it, but the total calcium rises, because you keep infusing calcium and it's all still bound.
+
+392
+00:30:15.230 --> 00:30:18.279
+<v Candidate>So the ratio of total to ionised calcium rises.
+
+393
+00:30:18.279 --> 00:30:20.496
+<v Candidate>Above about 2.5 is accumulation.
+
+394
+00:30:20.496 --> 00:30:23.600
+<v Candidate>The calcium infusion requirement keeps climbing.
+
+395
+00:30:24.100 --> 00:30:32.960
+<v Examiner>That's the answer the College wanted: two distinct patterns, alkalosis when metabolism is intact and acidosis with a high ratio when it is not.
+
+396
+00:30:32.960 --> 00:30:36.070
+<v Examiner>You didn't volunteer the ratio until I asked.
+
+397
+00:30:36.070 --> 00:30:38.300
+<v Examiner>In the real thing I can't ask.
+
+398
+00:30:38.300 --> 00:30:39.180
+<v Examiner>Part d.
+
+399
+00:30:39.680 --> 00:30:40.528
+<v Candidate>Part d.
+
+400
+00:30:40.528 --> 00:30:44.426
+<v Candidate>Liver failure, because the liver does most of the metabolism.
+
+401
+00:30:44.426 --> 00:30:48.155
+<v Candidate>Low cardiac output and shock, with poor hepatic perfusion.
+
+402
+00:30:48.155 --> 00:30:51.037
+<v Candidate>Severe lactic acidosis is a marker of that.
+
+403
+00:30:51.037 --> 00:30:53.240
+<v Candidate>And pre-existing hypocalcaemia.
+
+404
+00:30:53.740 --> 00:30:54.397
+<v Examiner>Fine.
+
+405
+00:30:54.397 --> 00:31:01.022
+<v Examiner>You could add that a high blood flow means more citrate delivered, and that a massive transfusion is itself a citrate load.
+
+406
+00:31:01.022 --> 00:31:01.780
+<v Examiner>Part e.
+
+407
+00:31:02.280 --> 00:31:03.038
+<v Candidate>Part e.
+
+408
+00:31:03.038 --> 00:31:05.314
+<v Candidate>In severe HITS, I'd stop all heparin.
+
+409
+00:31:05.314 --> 00:31:12.140
+<v Candidate>Alternatives for the circuit are prostacyclin, which is a platelet inhibitor with a short half-life, but it causes hypotension.
+
+410
+00:31:12.140 --> 00:31:15.680
+<v Candidate>Or no anticoagulation with a high blood flow and pre-dilution.
+
+411
+00:31:16.180 --> 00:31:17.129
+<v Examiner>Stop there.
+
+412
+00:31:17.129 --> 00:31:20.924
+<v Examiner>This patient has severe heparin-induced thrombotic thrombocytopenia.
+
+413
+00:31:20.924 --> 00:31:24.020
+<v Examiner>What does the patient need, regardless of the circuit?
+
+414
+00:31:24.520 --> 00:31:26.384
+<v Candidate>Systemic anticoagulation.
+
+415
+00:31:26.384 --> 00:31:28.249
+<v Candidate>With a non-heparin agent.
+
+416
+00:31:28.249 --> 00:31:32.938
+<v Candidate>So, argatroban, which is hepatically cleared and suitable in renal failure.
+
+417
+00:31:32.938 --> 00:31:37.401
+<v Candidate>Bivalirudin, which has a short half-life but is partly renally cleared.
+
+418
+00:31:37.401 --> 00:31:42.768
+<v Candidate>Danaparoid, which has anti-ten-A activity, a long half-life, and some cross-reactivity.
+
+419
+00:31:42.768 --> 00:31:46.327
+<v Candidate>Fondaparinux, which is renally cleared and accumulates.
+
+420
+00:31:46.327 --> 00:31:52.880
+<v Candidate>And the argatroban infusion anticoagulates the circuit as well, so I wouldn't need a regional method on top.
+
+421
+00:31:53.380 --> 00:31:55.461
+<v Examiner>That's what gets the marks.
+
+422
+00:31:55.461 --> 00:32:05.507
+<v Examiner>The College answer wanted at least three classes or four named agents for full marks: prostacyclin, argatroban, danaparoid, bivalirudin, fondaparinux, lepirudin.
+
+423
+00:32:05.507 --> 00:32:13.888
+<v Examiner>And the reasoning that the patient, not just the filter, needs a non-heparin anticoagulant is what separates a pass from a good pass.
+
+424
+00:32:13.888 --> 00:32:19.060
+<v Examiner>Your first answer to e would have earned about two of the five marks it needed.
+
+425
+00:32:19.460 --> 00:32:21.723
+<v Examiner>Let me mark the whole thing.
+
+426
+00:32:21.723 --> 00:32:23.421
+<v Examiner>Part a, full marks.
+
+427
+00:32:23.421 --> 00:32:28.765
+<v Examiner>Part b, nearly full, but only once I prompted you for the three bicarbonates.
+
+428
+00:32:28.765 --> 00:32:35.618
+<v Examiner>Part c, about two thirds without prompting, because the accumulation pattern and the ratio came late.
+
+429
+00:32:35.618 --> 00:32:36.938
+<v Examiner>Part d, full.
+
+430
+00:32:36.938 --> 00:32:39.704
+<v Examiner>Part e, about half as first written.
+
+431
+00:32:39.704 --> 00:32:42.219
+<v Examiner>Overall, about seven out of ten.
+
+432
+00:32:42.219 --> 00:32:48.254
+<v Examiner>In the sitting, the pass rate on this question was 86 percent, and the top mark was 9.3.
+
+433
+00:32:48.254 --> 00:32:51.209
+<v Examiner>So seven is a pass on an easy question.
+
+434
+00:32:51.209 --> 00:32:54.227
+<v Examiner>On an easy question, seven isn't enough.
+
+435
+00:32:54.227 --> 00:33:08.876
+<v Examiner>The one fix: for every citrate answer, write two columns for toxicity, the liver metabolising it, giving alkalosis and high sodium, and the liver failing, giving acidosis and a rising total to ionised calcium ratio above 2.5.
+
+436
+00:33:08.876 --> 00:33:16.860
+<v Examiner>And whenever a stem says HITTS, write in your first line: stop all heparin, start a systemic non-heparin anticoagulant.
+
+437
+00:33:17.260 --> 00:33:23.555
+<v Examiner>A follow-up, the kind you'd get in a viva, and the kind that turns up as a data question.
+
+438
+00:33:23.555 --> 00:33:25.437
+<v Examiner>Day three on citrate.
+
+439
+00:33:25.437 --> 00:33:28.033
+<v Examiner>Sodium 149 millimoles per litre.
+
+440
+00:33:28.033 --> 00:33:30.888
+<v Examiner>Bicarbonate 34 millimoles per litre.
+
+441
+00:33:30.888 --> 00:33:31.927
+<v Examiner>pH 7.52.
+
+442
+00:33:31.927 --> 00:33:37.702
+<v Examiner>Ionised calcium 1.1 millimoles per litre, total calcium 2.3 millimoles per litre.
+
+443
+00:33:37.702 --> 00:33:39.260
+<v Examiner>What's going on?
+
+444
+00:33:39.760 --> 00:33:43.040
+<v Candidate>The ratio is about 2.1, so it isn't accumulating.
+
+445
+00:33:43.040 --> 00:33:49.371
+<v Candidate>The liver is metabolising the citrate well, and the bicarbonate load is causing a metabolic alkalosis.
+
+446
+00:33:49.371 --> 00:33:52.364
+<v Candidate>The sodium is up from the trisodium citrate.
+
+447
+00:33:52.364 --> 00:34:02.723
+<v Candidate>I'd reduce the blood flow to deliver less citrate, increase the dialysate flow to clear more of it, and check whether there's a lower-bicarbonate dialysate in the protocol.
+
+448
+00:34:02.723 --> 00:34:07.960
+<v Candidate>I'd also check for other causes of alkalosis, like nasogastric losses or diuretics.
+
+449
+00:34:08.460 --> 00:34:09.084
+<v Examiner>Good.
+
+450
+00:34:09.084 --> 00:34:13.688
+<v Examiner>That's the commonest citrate problem in a well patient, and the reverse of accumulation.
+
+451
+00:34:13.688 --> 00:34:18.820
+<v Examiner>A candidate who can tell those two patterns apart from a single blood gas has understood the topic.
+
+452
+00:34:19.320 --> 00:34:20.726
+<v Candidate>Can I ask one thing?
+
+453
+00:34:20.726 --> 00:34:24.240
+<v Candidate>If the circuit keeps clotting on argatroban, do I add citrate?
+
+454
+00:34:24.740 --> 00:34:26.547
+<v Examiner>You can, and some units do.
+
+455
+00:34:26.547 --> 00:34:31.917
+<v Examiner>But first check the access and the flows, and check that the argatroban is actually therapeutic.
+
+456
+00:34:31.917 --> 00:34:37.596
+<v Examiner>A partial thromboplastin time drawn from a line with saline flush running is a common source of error.
+
+457
+00:34:37.596 --> 00:34:39.920
+<v Examiner>Then raise the dose within the range.
+
+458
+00:34:39.920 --> 00:34:42.140
+<v Examiner>Most of the time it's the catheter.
+
+459
+00:34:43.040 --> 00:34:49.416
+<v Tutor>Let me pull the exam practice together, because the College could easily combine these two stems.
+
+460
+00:34:49.416 --> 00:34:53.484
+<v Tutor>If you see HITTS on a filter, your answer has three layers.
+
+461
+00:34:53.484 --> 00:35:03.382
+<v Tutor>First: stop every source of heparin, including flushes, locks and coated membranes, and send the four Ts, the immunoassay and if needed a functional assay.
+
+462
+00:35:03.382 --> 00:35:12.248
+<v Tutor>Second: the systemic non-heparin anticoagulant, normally argatroban in kidney injury, with its dose, its monitoring, and the INR artefact.
+
+463
+00:35:12.248 --> 00:35:15.284
+<v Tutor>Third, as a table: the circuit strategies.
+
+464
+00:35:15.284 --> 00:35:17.956
+<v Tutor>Access, blood flow and pre-dilution.
+
+465
+00:35:17.956 --> 00:35:19.231
+<v Tutor>Prostacyclin.
+
+466
+00:35:19.231 --> 00:35:21.599
+<v Tutor>Regional citrate as an adjunct.
+
+467
+00:35:21.599 --> 00:35:24.636
+<v Tutor>Each with an advantage and a disadvantage.
+
+468
+00:35:24.636 --> 00:35:30.040
+<v Tutor>That covers the 2014, 2010 and 2007 versions, and part e of the citrate question.
+
+469
+00:35:30.440 --> 00:35:33.043
+<v Tutor>One last question, from yesterday's answer.
+
+470
+00:35:33.043 --> 00:35:40.393
+<v Tutor>Comparing continuous haemofiltration with intermittent haemodialysis, what anticoagulation disadvantage should be in the continuous row?
+
+471
+00:35:40.393 --> 00:35:41.720
+<v Tutor>Pause, and answer.
+
+472
+00:35:47.120 --> 00:35:54.178
+<v Tutor>Continuous therapy needs continuous anticoagulation, with ongoing bleeding risk, and clotting interrupts the delivered dose.
+
+473
+00:35:54.178 --> 00:35:58.508
+<v Tutor>Intermittent haemodialysis often runs without any anticoagulation at all.
+
+474
+00:35:58.508 --> 00:36:03.160
+<v Tutor>That row was worth a mark you didn't get yesterday, and it's yours from now on.
+
+475
+00:36:03.560 --> 00:36:06.385
+<v Tutor>Before the next episode, do one thing.
+
+476
+00:36:06.385 --> 00:36:18.297
+<v Tutor>Draw the HITTS circuit table from memory: strategy, advantage, disadvantage, six rows, with the stop-all-heparin line at the top and argatroban with its dose and INR artefact underneath.
+
+477
+00:36:18.297 --> 00:36:24.806
+<v Tutor>Then check it against the College answer for the 2014 first sitting, question 29, on today's list.
+
+478
+00:36:24.806 --> 00:36:26.648
+<v Tutor>Ten minutes, on paper.
+
+479
+00:36:26.648 --> 00:36:28.920
+<v Tutor>This has been Part Two Daily.
