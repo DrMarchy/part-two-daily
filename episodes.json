@@ -1,5 +1,199 @@
 [
  {
+  "date": "2026-11-14",
+  "title": "Spiral review: rhabdomyolysis, the dialysis patient, diabetes insipidus and low output after cardiac surgery",
+  "description": "A spiral review that takes four recent topics and makes each one harder: rhabdomyolysis with exertional heat stroke and hyperkalaemia, end-stage kidney disease with septic shock, diabetes insipidus on CRRT, and low output after valve surgery with right ventricular failure. Then a round-up of Impella and LVADs, interstitial nephritis and glomerular disease, renal transplantation, renal imaging, the obstetric patient, and antimicrobial dosing.",
+  "file": "episodes/2026-11-14.mp3",
+  "bytes": 10897216,
+  "seconds": 2724.0,
+  "vtt": "episodes/2026-11-14.vtt",
+  "page": "episodes/2026-11-14.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 55: Acute kidney injury, pp 2245 to 2260 (rhabdomyolysis, interstitial nephritis, glomerular disease, imaging)",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 56: Renal replacement therapy, pp 2266 to 2281",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 69: Polyuria in the ICU, diabetes insipidus and other causes, pp 2726 to 2764",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 73: Postoperative cardiac intensive care, pp 2840 to 2863",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 28: Mechanical cardiac supports, pp 856 to 876",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 116: Liver and kidney transplantation, pp 4173 to 4216",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 88: Pre-eclampsia, eclampsia and related disorders in pregnancy, pp 3256 to 3280; ch 89: Obstetric emergencies, pp 3286 to 3311",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 20: Principles of antimicrobial use in the intensive care unit, pp 576 to 593",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 104: Thermal disorders, pp 3714 to 3746",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "SOMANZ Hypertension in Pregnancy Guideline 2023",
+     "url": "https://somanz.org/hypertension-in-pregnancy-guideline-2023/"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026 (Prescott et al. Crit Care Med 2026)",
+     "url": "https://doi.org/10.1097/CCM.0000000000007075"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "BaSICS: Zampieri et al. Balanced solution vs 0.9% saline on mortality in critically ill patients. JAMA 2021",
+     "url": "https://doi.org/10.1001/jama.2021.11684"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Landmark Studies in Critical Care, ch 14: Balanced crystalloid vs normal saline, the BaSICS trial",
+     "url": null
+    },
+    {
+     "group": "Landmark trials",
+     "label": "DanGer Shock: Møller et al. Microaxial flow pump or standard care in infarct-related cardiogenic shock. NEJM 2024",
+     "url": "https://doi.org/10.1056/NEJMoa2312572"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "BLING III: Dulhunty et al. Continuous vs intermittent beta-lactam infusions in critically ill patients with sepsis. JAMA 2024",
+     "url": "https://doi.org/10.1001/jama.2024.9779"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2016.1 Q6: Haemodynamically unstable cardiac surgical patient (your mark 4.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2016-paper-1-saqs/question-6"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2020.1 Q1: Rhabdomyolysis (your mark 5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2020-paper-1-saqs/question-1"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q8: Influence of chronic renal failure on critical illness (your mark 5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-8"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2018.1 Q5.2: Hypernatraemia, diabetes insipidus (your marks 5 and 6)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2018-paper-1-saqs/question-52"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2025.1 Q3: Rhabdomyolysis",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2025-paper-1-saqs/question-3"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2016.1 Q29: Influence of chronic renal failure on critical illness",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2016-paper-1-saqs/question-29"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2023.1 Q2: Hypernatraemia, central vs nephrogenic DI",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2023-paper-1-saqs/question-2"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2025.2 Q14: Right ventricular dysfunction after cardiac surgery",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2025-paper-2-saqs/question-14"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2016.2 Q13.3: Acute interstitial nephritis",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2016-paper-2-saqs/question-133"
+    },
+    {
+     "group": "Further reading",
+     "label": "Kodadek et al. Rhabdomyolysis: an AAST Critical Care Committee clinical consensus document. Trauma Surg Acute Care Open 2022",
+     "url": "https://doi.org/10.1136/tsaco-2021-000836"
+    },
+    {
+     "group": "Further reading",
+     "label": "Yaxley et al. Care of the chronic dialysis patient in the intensive care unit: a state-of-the-art review. Crit Care Sci 2025",
+     "url": "https://doi.org/10.62675/2965-2774.20250130"
+    },
+    {
+     "group": "Further reading",
+     "label": "Christ-Crain et al. Diabetes insipidus. Nat Rev Dis Primers 2019",
+     "url": "https://doi.org/10.1038/s41572-019-0103-2"
+    },
+    {
+     "group": "Further reading",
+     "label": "Lomivorotov et al. Low-cardiac-output syndrome after cardiac surgery. J Cardiothorac Vasc Anesth 2017",
+     "url": "https://doi.org/10.1053/j.jvca.2016.05.029"
+    }
+   ],
+   "takeaways": [
+    "Rhabdomyolysis: give lab tests when the verb asks for labs (CK, K, PO4, Ca, urate, gas with anion gap, drug screen), and fasciotomy is indicated when diastolic pressure minus compartment pressure is under 30 mmHg.",
+    "Hyperkalaemia with a widening QRS: 10 mL of 10% calcium chloride (or 30 mL of 10% gluconate), 10 units of insulin with 50 mL of 50% glucose, salbutamol 10 to 20 mg nebulised, then remove the potassium.",
+    "ESKD in ICU: answer system by system, protect the fistula arm and its central veins, never needle the fistula for CRRT, and give full antibiotic loading doses.",
+    "BaSICS (n = 11,052): 90-day mortality 26.4% balanced vs 27.2% saline (HR 0.97), with a harm signal for balanced fluid in TBI (31.3% vs 21.1%).",
+    "DI water deficit = TBW x (Na/140 - 1): about 8.7 L for a 70 kg man with Na 169; correct chronic hypernatraemia by no more than 10 to 12 mmol/L per 24 h, and dose desmopressin in micrograms (1 to 2 micrograms IV).",
+    "On CRRT the plasma sodium moves toward the fluid sodium, so set the replacement-fluid sodium within about 8 to 10 mmol/L of the patient's and step it daily.",
+    "Post-bypass CI 1.5 with PAWP 10, CVP 8 and SVR 1700 is low output with low filling and high afterload: fluid, inotrope or inodilator to CI above 2.2, echo, AV pacing about 90, not noradrenaline.",
+    "DanGer Shock: Impella CP cut 180-day mortality from 58.5% to 45.8% (HR 0.74) at the cost of more device complications (24% vs 6%) and RRT (42% vs 27%)."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 60.48,
+     "title": "Spiral review 1: rhabdomyolysis, heat stroke and hyperkalaemia"
+    },
+    {
+     "start": 554.34,
+     "title": "Spiral review 2: end-stage kidney disease meets septic shock"
+    },
+    {
+     "start": 1026.82,
+     "title": "Spiral review 3: hypernatraemia, diabetes insipidus and the CRRT circuit"
+    },
+    {
+     "start": 1469.66,
+     "title": "Spiral review 4: low output after cardiac surgery, with the right ventricle"
+    },
+    {
+     "start": 1875.3,
+     "title": "Syllabus round-up"
+    },
+    {
+     "start": 2697.18,
+     "title": "Close"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-11",
   "title": "Deep dive: keeping the CRRT circuit alive — citrate, HITTS and the filter that keeps clotting",
   "description": "A deep dive on prolonging the life of the CRRT circuit: access, flows and pre-dilution, then heparin, citrate, prostacyclin and the direct thrombin inhibitors, with the patient who develops HITTS on CVVHDF. Landmark trials RICH and the ANZ Heparin Citrate Study, then exam practice on the College's citrate question from 2015.1 (identical to 2013.1).",
