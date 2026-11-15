@@ -1,0 +1,1742 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.733
+<v Tutor>Welcome to Part Two Daily.
+
+2
+00:00:01.733 --> 00:00:07.187
+<v Tutor>It's Monday the sixteenth of November, and this is the primer for week six: cardiac intensive care.
+
+3
+00:00:07.187 --> 00:00:09.379
+<v Tutor>Sixteen weeks to the written paper.
+
+4
+00:00:09.379 --> 00:00:13.814
+<v Tutor>Cardiac is the block where the College shows you a picture and asks what it is.
+
+5
+00:00:13.814 --> 00:00:18.299
+<v Tutor>The ECG has turned up more often than almost any other single item in the paper.
+
+6
+00:00:18.299 --> 00:00:25.537
+<v Tutor>But the questions that sink candidates are the ones with an unstable patient attached to the rhythm, and that's where this week lives.
+
+7
+00:00:25.537 --> 00:00:27.219
+<v Tutor>Here's the running order.
+
+8
+00:00:27.219 --> 00:00:29.564
+<v Tutor>First, a short look back at last week.
+
+9
+00:00:29.564 --> 00:00:39.300
+<v Tutor>Then the week's theme: the unstable arrhythmia, new atrial fibrillation in the critically ill, broad complex tachycardia, dynamic outflow obstruction and arrest after cardiac surgery.
+
+10
+00:00:39.300 --> 00:00:45.773
+<v Tutor>Then two landmark trials, an exam practice question from the 2021 second sitting, and a syllabus round-up of six items.
+
+11
+00:00:45.773 --> 00:00:46.640
+<v Tutor>Let's go.
+
+12
+00:00:48.040 --> 00:00:49.037
+<v Tutor>Last week.
+
+13
+00:00:49.037 --> 00:00:58.953
+<v Tutor>Two answers on Wednesday the eleventh earned four and a half each, and they share a lesson: you knew the territory but left the specific, mark-bearing detail on the table.
+
+14
+00:00:58.953 --> 00:01:03.607
+<v Tutor>The first was fluid responsiveness, 2020 second sitting, question seventeen.
+
+15
+00:01:03.607 --> 00:01:08.315
+<v Tutor>The examiners wanted the limitations of pulse pressure variation spelled out.
+
+16
+00:01:08.315 --> 00:01:16.459
+<v Tutor>Pulse pressure variation above about twelve percent predicts a response, with an area under the curve around 0.94 in Marik's meta-analysis.
+
+17
+00:01:16.459 --> 00:01:19.229
+<v Tutor>But it only holds under strict conditions.
+
+18
+00:01:19.229 --> 00:01:23.383
+<v Tutor>First, controlled ventilation with no spontaneous breathing effort.
+
+19
+00:01:23.383 --> 00:01:27.427
+<v Tutor>Second, tidal volumes of at least eight millilitres per kilogram.
+
+20
+00:01:27.427 --> 00:01:28.978
+<v Tutor>Third, sinus rhythm.
+
+21
+00:01:28.978 --> 00:01:30.696
+<v Tutor>Fourth, a closed chest.
+
+22
+00:01:30.696 --> 00:01:35.294
+<v Tutor>Fifth, no right ventricular failure and no raised intra-abdominal pressure.
+
+23
+00:01:35.294 --> 00:01:40.833
+<v Tutor>In your answer those limitations drifted under passive leg raising, where they don't belong.
+
+24
+00:01:40.833 --> 00:01:43.437
+<v Tutor>Hold on to the third one, sinus rhythm.
+
+25
+00:01:43.437 --> 00:01:51.359
+<v Tutor>This week you'll meet a patient in fast atrial fibrillation, and the variation in pulse pressure from beat to beat will be meaningless.
+
+26
+00:01:51.359 --> 00:01:56.400
+<v Tutor>Passive leg raising, by contrast, works in spontaneous breathing and in arrhythmia.
+
+27
+00:01:56.580 --> 00:02:07.246
+<v Tutor>It returns roughly three hundred millilitres from the legs and splanchnic bed, but it must be judged on real-time cardiac output or aortic velocity time integral, not on blood pressure.
+
+28
+00:02:07.246 --> 00:02:12.827
+<v Tutor>Monnet's meta-analysis found a pooled sensitivity and specificity of about 85 and 91 percent.
+
+29
+00:02:12.827 --> 00:02:18.962
+<v Tutor>And it's unreliable with raised intra-abdominal pressure, and impractical with pelvic or leg fractures.
+
+30
+00:02:18.962 --> 00:02:25.593
+<v Tutor>The second was keeping the continuous renal replacement circuit alive, 2014 first sitting, question twenty-nine.
+
+31
+00:02:25.593 --> 00:02:32.004
+<v Tutor>The miss that matters: heparin-induced thrombocytopenia with thrombosis is a systemic prothrombotic disease.
+
+32
+00:02:32.004 --> 00:02:36.646
+<v Tutor>Regional citrate keeps the filter running, but it doesn't treat the patient.
+
+33
+00:02:36.646 --> 00:02:51.180
+<v Tutor>You must stop every source of heparin, flushes included, and start a systemic non-heparin anticoagulant: argatroban, cleared by the liver and falsely raising the INR; bivalirudin, cleared partly by the kidney; or danaparoid, monitored with anti-Xa levels.
+
+34
+00:02:52.580 --> 00:02:58.310
+<v Tutor>An eighty-two-year-old on the ward is referred to you with an ECG, and nothing else.
+
+35
+00:02:58.310 --> 00:03:02.856
+<v Tutor>That is the whole stem of question one in the 2026 first sitting.
+
+36
+00:03:02.856 --> 00:03:13.319
+<v Tutor>Assess the patient and explain why you'd order each test, then discuss specific management in the first twenty-four hours if the arrhythmia makes them unstable.
+
+37
+00:03:13.319 --> 00:03:15.748
+<v Tutor>The pass rate was 43.7 percent.
+
+38
+00:03:15.748 --> 00:03:21.852
+<v Tutor>Fewer than half of candidates passed a question that every intensivist manages every week.
+
+39
+00:03:21.852 --> 00:03:25.215
+<v Tutor>So let's set out how the College asks cardiac.
+
+40
+00:03:25.215 --> 00:03:33.373
+<v Tutor>In the past question bank, Name That ECG Abnormality is tagged to seventeen questions, most recently in both 2026 sittings.
+
+41
+00:03:33.373 --> 00:03:39.041
+<v Tutor>Cardiovascular physical examination appears eight times, all between 2009 and 2013.
+
+42
+00:03:39.041 --> 00:03:43.151
+<v Tutor>Atrial fibrillation four times: 2012, 2021, 2024 and 2025.
+
+43
+00:03:43.151 --> 00:03:48.134
+<v Tutor>Troubleshooting the temporary pacemaker, six times across its two forms.
+
+44
+00:03:48.134 --> 00:03:53.490
+<v Tutor>Dynamic left ventricular outflow tract obstruction three times, twice in 2025.
+
+45
+00:03:53.490 --> 00:03:59.780
+<v Tutor>And cardiac arrest after cardiac surgery twice, in 2022 and again in the 2026 second sitting.
+
+46
+00:03:59.960 --> 00:04:12.600
+<v Tutor>The reading for this week is Oh's ninth edition: chapter thirty-one on cardiac arrhythmias, chapter thirty on resuscitation, chapter thirty-three on acute heart failure and chapter seventy-three on post-operative cardiac intensive care.
+
+47
+00:04:13.000 --> 00:04:17.038
+<v Tutor>Start with the framework that earns marks on any unstable rhythm.
+
+48
+00:04:17.038 --> 00:04:21.187
+<v Tutor>Examiners reward a structure that a registrar could follow at 3 am.
+
+49
+00:04:21.187 --> 00:04:23.400
+<v Tutor>First: is this patient unstable?
+
+50
+00:04:23.400 --> 00:04:29.595
+<v Tutor>The resuscitation council's adverse features are shock, syncope, myocardial ischaemia and heart failure.
+
+51
+00:04:29.595 --> 00:04:33.855
+<v Tutor>Any one of them changes the plan from drugs to electricity or pacing.
+
+52
+00:04:33.855 --> 00:04:35.846
+<v Tutor>Second: classify the rhythm.
+
+53
+00:04:35.846 --> 00:04:37.008
+<v Tutor>Fast or slow.
+
+54
+00:04:37.008 --> 00:04:38.336
+<v Tutor>Narrow or broad.
+
+55
+00:04:38.336 --> 00:04:39.940
+<v Tutor>Regular or irregular.
+
+56
+00:04:39.940 --> 00:04:43.757
+<v Tutor>That gives you six boxes, and each box has its own algorithm.
+
+57
+00:04:43.757 --> 00:04:49.233
+<v Tutor>Third: look for the cause, because in an eighty-two-year-old it is often outside the heart.
+
+58
+00:04:49.233 --> 00:04:55.871
+<v Tutor>Drugs come first: beta-blockers, calcium channel blockers, digoxin, and sometimes donepezil causing bradycardia.
+
+59
+00:04:55.871 --> 00:04:59.190
+<v Tutor>Then electrolytes: potassium, magnesium and calcium.
+
+60
+00:04:59.190 --> 00:05:04.501
+<v Tutor>Then ischaemia, then thyroid disease, then sepsis, then degenerative conduction disease.
+
+61
+00:05:04.501 --> 00:05:09.258
+<v Tutor>Now the rationale for investigations, because that was half the 2026 question.
+
+62
+00:05:09.258 --> 00:05:12.743
+<v Tutor>The twelve-lead ECG and rhythm strip define the rhythm.
+
+63
+00:05:12.743 --> 00:05:17.888
+<v Tutor>Potassium and magnesium because both are arrhythmogenic and both are quickly fixable.
+
+64
+00:05:17.888 --> 00:05:21.428
+<v Tutor>Troponin, to look for ischaemia as cause or consequence.
+
+65
+00:05:21.428 --> 00:05:24.360
+<v Tutor>Thyroid function for new atrial fibrillation.
+
+66
+00:05:24.540 --> 00:05:29.911
+<v Tutor>A digoxin level if they take it, with potassium, because toxicity is worse with hypokalaemia.
+
+67
+00:05:29.911 --> 00:05:33.900
+<v Tutor>An arterial gas for acidosis and lactate as a measure of perfusion.
+
+68
+00:05:33.900 --> 00:05:37.623
+<v Tutor>An echo for ventricular function and valves, and a chest film.
+
+69
+00:05:37.623 --> 00:05:39.910
+<v Tutor>Every test needs a reason attached.
+
+70
+00:05:39.910 --> 00:05:43.420
+<v Tutor>A list without reasons earns only a fraction of the marks.
+
+71
+00:05:43.820 --> 00:05:48.836
+<v Tutor>Now treatment in the first twenty-four hours if the patient becomes unstable.
+
+72
+00:05:48.836 --> 00:05:53.911
+<v Tutor>For an unstable tachyarrhythmia, synchronised DC cardioversion under sedation.
+
+73
+00:05:53.911 --> 00:06:05.772
+<v Tutor>Current resuscitation guidance suggests a first biphasic shock of 120 to 150 joules for atrial fibrillation, escalating, and 70 to 120 joules for flutter and regular narrow complex tachycardia.
+
+74
+00:06:05.772 --> 00:06:14.505
+<v Tutor>If three shocks fail, give amiodarone 300 milligrams over ten to twenty minutes and shock again, then 900 milligrams over twenty-four hours.
+
+75
+00:06:14.505 --> 00:06:20.642
+<v Tutor>For an unstable bradycardia, atropine 500 micrograms, repeated to a maximum of three milligrams.
+
+76
+00:06:20.642 --> 00:06:26.425
+<v Tutor>If that fails, isoprenaline or an adrenaline infusion at two to ten micrograms per minute.
+
+77
+00:06:26.425 --> 00:06:33.388
+<v Tutor>Then transcutaneous pacing as a bridge, and transvenous pacing as the definitive bridge to a permanent device.
+
+78
+00:06:33.388 --> 00:06:40.765
+<v Tutor>Atropine won't help a transplanted heart, and it rarely helps Mobitz two or complete heart block with a broad escape.
+
+79
+00:06:40.765 --> 00:06:45.013
+<v Tutor>Then the specific treatments, which are where the top marks are.
+
+80
+00:06:45.013 --> 00:06:48.672
+<v Tutor>Digoxin toxicity: digoxin-specific antibody fragments.
+
+81
+00:06:48.672 --> 00:06:55.340
+<v Tutor>Hyperkalaemia: calcium first, ten millilitres of ten percent calcium chloride, then insulin and dextrose.
+
+82
+00:06:55.520 --> 00:06:59.798
+<v Tutor>Beta-blocker overdose: high-dose insulin euglycaemia and glucagon.
+
+83
+00:06:59.798 --> 00:07:03.960
+<v Tutor>Calcium channel blocker overdose: calcium and high-dose insulin.
+
+84
+00:07:04.360 --> 00:07:06.717
+<v Tutor>Why do we synchronise the shock at all?
+
+85
+00:07:06.717 --> 00:07:09.776
+<v Tutor>The answer is a story from Boston in the early 1960s.
+
+86
+00:07:09.776 --> 00:07:17.999
+<v Tutor>In 1956 Paul Zoll showed that alternating current, straight from the mains through a transformer, could defibrillate a human heart through the closed chest.
+
+87
+00:07:17.999 --> 00:07:19.854
+<v Tutor>It worked, but it was brutal.
+
+88
+00:07:19.854 --> 00:07:29.883
+<v Tutor>Bernard Lown, a cardiologist at the Peter Bent Brigham Hospital, set out to use shocks deliberately to terminate arrhythmias that weren't arrests: atrial fibrillation, ventricular tachycardia.
+
+89
+00:07:29.883 --> 00:07:40.714
+<v Tutor>Working with the engineer Baruch Berkovits from the American Optical Company, he found in animal experiments that alternating current burned muscle and could itself induce atrial and ventricular fibrillation.
+
+90
+00:07:40.714 --> 00:07:45.077
+<v Tutor>They switched to direct current: a capacitor discharge with a defined waveform.
+
+91
+00:07:45.077 --> 00:07:46.230
+<v Tutor>That was safer.
+
+92
+00:07:46.230 --> 00:07:48.236
+<v Tutor>But Lown noticed something else.
+
+93
+00:07:48.236 --> 00:07:53.250
+<v Tutor>There was a brief vulnerable window near the T wave, only a few hundredths of a second long.
+
+94
+00:07:53.250 --> 00:07:57.863
+<v Tutor>A shock landing there could throw an organised rhythm into ventricular fibrillation.
+
+95
+00:07:57.863 --> 00:08:03.680
+<v Tutor>So he timed the discharge to the R wave, well away from that window, and called the technique cardioversion.
+
+96
+00:08:03.860 --> 00:08:10.193
+<v Tutor>The 1962 papers in JAMA described synchronised capacitor discharge, then its use for atrial fibrillation.
+
+97
+00:08:10.193 --> 00:08:18.936
+<v Tutor>Lown went on to share the 1985 Nobel Peace Prize, accepting it for International Physicians for the Prevention of Nuclear War, a body he co-founded.
+
+98
+00:08:18.936 --> 00:08:20.617
+<v Tutor>Here's the exam point.
+
+99
+00:08:20.617 --> 00:08:24.148
+<v Tutor>Synchronisation exists to avoid shocking on the T wave.
+
+100
+00:08:24.148 --> 00:08:32.946
+<v Tutor>That's why you synchronise for any organised rhythm with a pulse, and why you turn synchronisation off for ventricular fibrillation and pulseless VT.
+
+101
+00:08:32.946 --> 00:08:39.055
+<v Tutor>In polymorphic VT the defibrillator can't reliably find an R wave, so you treat it as unsynchronised.
+
+102
+00:08:39.055 --> 00:08:45.500
+<v Tutor>And after each synchronised shock, check that the sync mode hasn't reset, because on many machines it does.
+
+103
+00:08:45.900 --> 00:08:47.637
+<v Tutor>Here's a pause and answer.
+
+104
+00:08:47.637 --> 00:08:55.504
+<v Tutor>Your patient in fast atrial fibrillation with a blood pressure of 75 over 40 has had a synchronised shock, and is now in ventricular fibrillation.
+
+105
+00:08:55.504 --> 00:08:59.132
+<v Tutor>Name the most likely technical cause, and say what you do next.
+
+106
+00:08:59.132 --> 00:09:00.460
+<v Tutor>Pause, and answer.
+
+107
+00:09:05.860 --> 00:09:14.657
+<v Tutor>The most likely cause is that the shock wasn't synchronised, or the device marked a T wave or artefact as the R wave, so the discharge fell in the vulnerable period.
+
+108
+00:09:14.657 --> 00:09:16.843
+<v Tutor>Next: this is now a cardiac arrest.
+
+109
+00:09:16.843 --> 00:09:23.860
+<v Tutor>Check that sync is off, defibrillate immediately unsynchronised at maximum energy, and follow the advanced life support algorithm.
+
+110
+00:09:24.260 --> 00:09:27.983
+<v Tutor>Now new-onset atrial fibrillation in the critically ill.
+
+111
+00:09:27.983 --> 00:09:36.127
+<v Tutor>This is the most examined rhythm problem in the paper, and the College wants the intensivist's version, not the cardiology clinic's.
+
+112
+00:09:36.127 --> 00:09:37.290
+<v Tutor>It's common.
+
+113
+00:09:37.290 --> 00:09:46.656
+<v Tutor>The 2024 European guideline notes sepsis is the most common precipitating factor, with atrial fibrillation in roughly 9 to 20 percent of septic patients.
+
+114
+00:09:46.656 --> 00:09:48.983
+<v Tutor>It also marks a worse prognosis.
+
+115
+00:09:48.983 --> 00:09:59.453
+<v Tutor>Most of the time it's driven by the acute illness: endogenous and infused catecholamines, atrial stretch from fluid, inflammation, electrolyte loss and lines in the atrium.
+
+116
+00:09:59.453 --> 00:10:08.237
+<v Tutor>The governing guideline is the 2024 European Society of Cardiology guideline for atrial fibrillation, written with the cardiothoracic surgeons.
+
+117
+00:10:08.237 --> 00:10:10.564
+<v Tutor>Its framework is called AF-CARE.
+
+118
+00:10:10.564 --> 00:10:13.007
+<v Tutor>C, comorbidities and risk factors.
+
+119
+00:10:13.007 --> 00:10:15.567
+<v Tutor>A, avoid stroke and thromboembolism.
+
+120
+00:10:15.567 --> 00:10:18.708
+<v Tutor>R, reduce symptoms by rate and rhythm control.
+
+121
+00:10:18.708 --> 00:10:21.442
+<v Tutor>E, evaluation and dynamic reassessment.
+
+122
+00:10:21.442 --> 00:10:24.467
+<v Tutor>Note the order: the precipitant comes first.
+
+123
+00:10:24.467 --> 00:10:32.669
+<v Tutor>In the unit, that means treating sepsis, hypoxia, hypovolaemia and potassium and magnesium, and cutting catecholamines where you can.
+
+124
+00:10:32.669 --> 00:10:35.985
+<v Tutor>Three changes from earlier guidance are quotable.
+
+125
+00:10:35.985 --> 00:10:40.580
+<v Tutor>First, the stroke score is now CHA2DS2-VA: female sex has been removed.
+
+126
+00:10:40.760 --> 00:10:47.153
+<v Tutor>A score of two or more means anticoagulation is recommended, and a score of one means it should be considered.
+
+127
+00:10:47.153 --> 00:10:52.353
+<v Tutor>Bleeding scores should not be used to decide on starting or withdrawing anticoagulation.
+
+128
+00:10:52.353 --> 00:10:57.554
+<v Tutor>Second, the early cardioversion window has shrunk from forty-eight hours to twenty-four.
+
+129
+00:10:57.554 --> 00:11:05.463
+<v Tutor>Beyond twenty-four hours, cardioversion needs three weeks of therapeutic anticoagulation first, or a transoesophageal echo excluding clot.
+
+130
+00:11:05.463 --> 00:11:12.560
+<v Tutor>Third, wait-and-see is acceptable in a stable patient, because many paroxysms revert by themselves once the driver settles.
+
+131
+00:11:12.960 --> 00:11:15.870
+<v Tutor>In the unit, rate control usually comes first.
+
+132
+00:11:15.870 --> 00:11:17.864
+<v Tutor>A beta-blocker is first line.
+
+133
+00:11:17.864 --> 00:11:23.415
+<v Tutor>Metoprolol, or esmolol if you want something titratable with a half-life of about nine minutes.
+
+134
+00:11:23.415 --> 00:11:28.428
+<v Tutor>Diltiazem or verapamil are options only if the ejection fraction is above 40 percent.
+
+135
+00:11:28.428 --> 00:11:32.308
+<v Tutor>Digoxin is slow, but useful with poor left ventricular function.
+
+136
+00:11:32.308 --> 00:11:35.919
+<v Tutor>Magnesium is cheap and helps with both rate and conversion.
+
+137
+00:11:35.919 --> 00:11:42.278
+<v Tutor>Amiodarone does both rate and rhythm and is the default when the blood pressure won't tolerate a beta-blocker.
+
+138
+00:11:42.278 --> 00:11:46.751
+<v Tutor>Amiodarone is the anti-arrhythmic you'll be asked about, so know its harms.
+
+139
+00:11:46.751 --> 00:11:52.626
+<v Tutor>Intravenously, it causes hypotension, largely from its solvent, plus bradycardia and QT prolongation.
+
+140
+00:11:52.626 --> 00:11:55.051
+<v Tutor>It's an irritant to peripheral veins.
+
+141
+00:11:55.051 --> 00:12:04.375
+<v Tutor>With longer use come thyroid dysfunction in both directions, pulmonary toxicity, hepatitis and drug interactions: it raises digoxin levels and the INR with warfarin.
+
+142
+00:12:04.375 --> 00:12:05.345
+<v Tutor>Two traps.
+
+143
+00:12:05.345 --> 00:12:12.890
+<v Tutor>Never give AV nodal blockers to pre-excited atrial fibrillation, the irregular, broad, bizarre tachycardia of Wolff-Parkinson-White.
+
+144
+00:12:12.890 --> 00:12:18.926
+<v Tutor>Blocking the node pushes conduction down the accessory pathway and can trigger ventricular fibrillation.
+
+145
+00:12:18.926 --> 00:12:20.920
+<v Tutor>Use procainamide, or a shock.
+
+146
+00:12:21.100 --> 00:12:26.788
+<v Tutor>And in the ICU, cardioversion often fails or the rhythm relapses while the driver persists.
+
+147
+00:12:26.788 --> 00:12:29.660
+<v Tutor>Say so in your answer: it shows judgement.
+
+148
+00:12:30.060 --> 00:12:31.503
+<v Tutor>Pause and answer.
+
+149
+00:12:31.503 --> 00:12:39.062
+<v Tutor>A septic patient on noradrenaline develops atrial fibrillation at 150 beats per minute with a blood pressure of 95 over 55.
+
+150
+00:12:39.062 --> 00:12:41.312
+<v Tutor>The AF started eight hours ago.
+
+151
+00:12:41.312 --> 00:12:43.967
+<v Tutor>Their ejection fraction is 35 percent.
+
+152
+00:12:43.967 --> 00:12:46.160
+<v Tutor>Give your first three actions.
+
+153
+00:12:46.160 --> 00:12:47.660
+<v Tutor>Pause, and answer.
+
+154
+00:12:53.060 --> 00:12:55.027
+<v Tutor>First: correct the drivers.
+
+155
+00:12:55.027 --> 00:13:01.939
+<v Tutor>Potassium to around 4.5, magnesium replaced, oxygenation and volume status checked, and the noradrenaline reviewed.
+
+156
+00:13:01.939 --> 00:13:06.435
+<v Tutor>Second: the patient isn't in shock from the rhythm, so treat with drugs.
+
+157
+00:13:06.435 --> 00:13:10.875
+<v Tutor>With an ejection fraction of 35 percent, avoid diltiazem and verapamil.
+
+158
+00:13:10.875 --> 00:13:16.157
+<v Tutor>Amiodarone is reasonable, with cautious beta-blockade as the alternative if tolerated.
+
+159
+00:13:16.157 --> 00:13:24.868
+<v Tutor>Third: because the onset is clearly under twenty-four hours, cardioversion without prior anticoagulation is acceptable if the patient deteriorates.
+
+160
+00:13:24.868 --> 00:13:31.780
+<v Tutor>Then calculate CHA2DS2-VA, and decide about anticoagulation once the bleeding risk from the acute illness is clear.
+
+161
+00:13:32.180 --> 00:13:37.851
+<v Tutor>Next, the broad complex tachycardia, which is where ECG questions go to hurt you.
+
+162
+00:13:37.851 --> 00:13:48.111
+<v Tutor>2021 second sitting, question twenty-three, gave a broad complex tachycardia at about 200 per minute with a QRS of 150 milliseconds and a northwest axis.
+
+163
+00:13:48.111 --> 00:13:53.336
+<v Tutor>It then asked for the differential and how to separate the two on the ECG.
+
+164
+00:13:53.336 --> 00:14:02.831
+<v Tutor>The safe rule first: a broad complex tachycardia is ventricular tachycardia until proven otherwise, especially with structural heart disease.
+
+165
+00:14:02.831 --> 00:14:07.164
+<v Tutor>Verapamil given to VT on the assumption that it's SVT kills.
+
+166
+00:14:07.164 --> 00:14:10.414
+<v Tutor>To discriminate, use the Brugada algorithm.
+
+167
+00:14:10.414 --> 00:14:12.581
+<v Tutor>Any one of these means VT.
+
+168
+00:14:12.581 --> 00:14:15.767
+<v Tutor>One, no RS complex in any precordial lead.
+
+169
+00:14:15.767 --> 00:14:20.674
+<v Tutor>Two, an R to S interval over 100 milliseconds in any precordial lead.
+
+170
+00:14:20.674 --> 00:14:25.836
+<v Tutor>Three, atrioventricular dissociation, including capture and fusion beats.
+
+171
+00:14:25.836 --> 00:14:29.404
+<v Tutor>Four, VT morphology criteria in V1 to V2 and V6.
+
+172
+00:14:29.404 --> 00:14:33.482
+<v Tutor>Also mention extreme axis deviation, the northwest axis.
+
+173
+00:14:33.482 --> 00:14:35.458
+<v Tutor>It strongly favours VT.
+
+174
+00:14:35.458 --> 00:14:38.070
+<v Tutor>Polymorphic VT is the other face.
+
+175
+00:14:38.070 --> 00:14:42.340
+<v Tutor>If the QT is long before the run, it's torsades de pointes.
+
+176
+00:14:42.520 --> 00:14:55.594
+<v Tutor>Treatment is two grams of magnesium sulphate intravenously, potassium kept high-normal, every QT-prolonging drug stopped, and the heart rate raised with isoprenaline or overdrive pacing, because torsades is pause-dependent.
+
+177
+00:14:55.594 --> 00:15:00.292
+<v Tutor>If the QT is normal, think ischaemia first, and get the coronary angiogram.
+
+178
+00:15:00.292 --> 00:15:08.838
+<v Tutor>And the young man after an out-of-hospital arrest, with coved ST elevation sloping into inverted T waves in V1 and V2, has the Brugada pattern.
+
+179
+00:15:08.838 --> 00:15:12.970
+<v Tutor>Know that fever unmasks it and sodium channel blockers worsen it.
+
+180
+00:15:12.970 --> 00:15:17.668
+<v Tutor>For an electrical storm, isoprenaline and quinidine are the drugs you name.
+
+181
+00:15:17.668 --> 00:15:24.120
+<v Tutor>The governing document is the 2022 European guideline on ventricular arrhythmias and sudden cardiac death.
+
+182
+00:15:24.520 --> 00:15:28.117
+<v Tutor>Now dynamic left ventricular outflow tract obstruction.
+
+183
+00:15:28.117 --> 00:15:33.598
+<v Tutor>You scored seven on this on the twelfth of October, 2025 first sitting, question twelve.
+
+184
+00:15:33.598 --> 00:15:42.961
+<v Tutor>The missing points were the mitral regurgitation that comes from systolic anterior motion, and echo as the test that makes the diagnosis and guides therapy.
+
+185
+00:15:42.961 --> 00:15:51.011
+<v Tutor>The 2019 first sitting, question eight, asked for predisposing and precipitating factors, the signs, and the principles of treatment.
+
+186
+00:15:51.011 --> 00:16:06.312
+<v Tutor>The examiners' comment is worth remembering word for word: "Candidates who did poorly did not know how to manage outflow tract obstruction and recommended dangerous therapies, including inotropic therapy and vasodilator agents." The pass rate was 65.9 percent.
+
+187
+00:16:06.312 --> 00:16:08.710
+<v Tutor>The mechanism explains everything.
+
+188
+00:16:08.710 --> 00:16:16.474
+<v Tutor>A small, hyperdynamic, hypertrophied ventricle ejects so fast that the anterior mitral leaflet is pulled into the outflow tract.
+
+189
+00:16:16.474 --> 00:16:20.756
+<v Tutor>Anything that empties the ventricle or speeds it up makes it worse.
+
+190
+00:16:20.756 --> 00:16:29.948
+<v Tutor>So: predisposing, hypertrophic cardiomyopathy, hypertensive hypertrophy, and the ventricle just relieved of aortic stenosis by valve replacement or TAVI.
+
+191
+00:16:29.948 --> 00:16:36.000
+<v Tutor>Precipitating: hypovolaemia, vasodilatation from sepsis or anaesthesia, tachycardia and inotropes.
+
+192
+00:16:36.180 --> 00:16:38.178
+<v Tutor>Treatment reverses each one.
+
+193
+00:16:38.178 --> 00:16:39.288
+<v Tutor>Give volume.
+
+194
+00:16:39.288 --> 00:16:43.283
+<v Tutor>Use a pure vasoconstrictor such as phenylephrine or vasopressin.
+
+195
+00:16:43.283 --> 00:16:46.502
+<v Tutor>Slow the heart with a beta-blocker, often esmolol.
+
+196
+00:16:46.502 --> 00:16:47.945
+<v Tutor>Stop the inotrope.
+
+197
+00:16:47.945 --> 00:16:49.387
+<v Tutor>Keep sinus rhythm.
+
+198
+00:16:49.387 --> 00:16:58.100
+<v Tutor>And diagnose it on echo: systolic anterior motion, a late-peaking dagger-shaped outflow Doppler, and a gradient of 30 millimetres of mercury or more.
+
+199
+00:16:58.500 --> 00:16:59.845
+<v Tutor>Pause and answer.
+
+200
+00:16:59.845 --> 00:17:03.449
+<v Tutor>Day one after aortic valve replacement for severe stenosis.
+
+201
+00:17:03.449 --> 00:17:10.818
+<v Tutor>The patient is hypotensive, tachycardic at 120, and the nurse has just started dobutamine, after which the pressure fell further.
+
+202
+00:17:10.818 --> 00:17:14.260
+<v Tutor>A new systolic murmur is heard at the left sternal edge.
+
+203
+00:17:14.260 --> 00:17:17.541
+<v Tutor>What's happening, and what are your next three moves?
+
+204
+00:17:17.541 --> 00:17:18.940
+<v Tutor>Pause, and answer.
+
+205
+00:17:24.340 --> 00:17:31.620
+<v Tutor>Dynamic outflow obstruction in a hypertrophied ventricle freshly relieved of its stenosis, made worse by the inotrope.
+
+206
+00:17:31.620 --> 00:17:33.238
+<v Tutor>Stop the dobutamine.
+
+207
+00:17:33.238 --> 00:17:38.438
+<v Tutor>Give a fluid bolus and start a pure vasoconstrictor, phenylephrine or vasopressin.
+
+208
+00:17:38.438 --> 00:17:48.260
+<v Tutor>Then slow the rate, with esmolol if the pressure allows, and confirm on echo: systolic anterior motion, mitral regurgitation and a dagger-shaped outflow gradient.
+
+209
+00:17:48.660 --> 00:17:54.358
+<v Tutor>Pacing deserves a minute, because troubleshooting the temporary pacemaker has been asked six times.
+
+210
+00:17:54.358 --> 00:17:58.566
+<v Tutor>Know the pacing threshold: the smallest current that reliably captures.
+
+211
+00:17:58.566 --> 00:18:06.501
+<v Tutor>Pace about ten beats above the intrinsic rate, turn the output down until capture is lost, then set the output at about twice that threshold.
+
+212
+00:18:06.501 --> 00:18:08.631
+<v Tutor>Sensitivity is the reverse idea.
+
+213
+00:18:08.631 --> 00:18:12.305
+<v Tutor>It decides how small an intrinsic signal the box will notice.
+
+214
+00:18:12.305 --> 00:18:17.897
+<v Tutor>You set it so the pacemaker doesn't compete with the patient's own rhythm and fire on the T wave.
+
+215
+00:18:17.897 --> 00:18:23.809
+<v Tutor>When the nurse tells you the output has crept up all shift to keep capture, list the reversible causes.
+
+216
+00:18:23.809 --> 00:18:28.122
+<v Tutor>The wire has moved, or there's oedema and fibrosis at the epicardial tip.
+
+217
+00:18:28.122 --> 00:18:32.170
+<v Tutor>Electrolytes and acid-base: potassium too high or too low, acidosis.
+
+218
+00:18:32.170 --> 00:18:34.460
+<v Tutor>And drugs that raise the threshold.
+
+219
+00:18:34.460 --> 00:18:48.200
+<v Tutor>Then the fixes from the 2013 first-sitting answer: increase output, check every connection, reverse the polarity, swap the box and cables, convert to unipolar pacing with a skin electrode, and use transcutaneous or transvenous pacing as the fallback.
+
+220
+00:18:48.200 --> 00:18:52.460
+<v Tutor>The second trace in that question showed pacemaker-mediated tachycardia.
+
+221
+00:18:52.640 --> 00:19:00.221
+<v Tutor>That's a re-entry loop: a ventricular beat conducts back to the atria, the atrial lead senses it and triggers another paced beat.
+
+222
+00:19:00.221 --> 00:19:05.920
+<v Tutor>You break it by lengthening the post-ventricular atrial refractory period or changing the mode.
+
+223
+00:19:06.320 --> 00:19:11.708
+<v Tutor>Your own weak spot this block is the haemodynamically unstable cardiac surgical patient.
+
+224
+00:19:11.708 --> 00:19:16.591
+<v Tutor>You earned four and a half on the 2016 first sitting, question six, a week ago.
+
+225
+00:19:16.591 --> 00:19:20.240
+<v Tutor>That error is worth naming again because it'll come back.
+
+226
+00:19:20.240 --> 00:19:28.715
+<v Tutor>A low wedge pressure and a low central venous pressure with a low cardiac index mean the ventricle is underfilled, so the first move is volume.
+
+227
+00:19:28.715 --> 00:19:34.720
+<v Tutor>A high systemic vascular resistance, 1,700 in that question, means the circulation is clamped down.
+
+228
+00:19:34.720 --> 00:19:39.098
+<v Tutor>It calls for afterload reduction and inotropy, not more noradrenaline.
+
+229
+00:19:39.098 --> 00:19:48.640
+<v Tutor>And whenever a post-operative cardiac patient deteriorates with rising filling pressures and falling output, consider tamponade first: echo, and call the surgeon.
+
+230
+00:19:49.040 --> 00:19:54.363
+<v Tutor>Which brings us to arrest after cardiac surgery, examined in 2022 and again in 2026.
+
+231
+00:19:54.363 --> 00:20:02.579
+<v Tutor>The governing document is the Society of Thoracic Surgeons expert consensus, Dunning and colleagues, Annals of Thoracic Surgery, 2017.
+
+232
+00:20:02.579 --> 00:20:07.092
+<v Tutor>It departs from standard advanced life support in ways examiners love.
+
+233
+00:20:07.092 --> 00:20:20.283
+<v Tutor>For ventricular fibrillation or pulseless VT, give up to three sequential shocks before starting compressions, because a shock within the first minute works and external compressions risk tearing grafts and suture lines.
+
+234
+00:20:20.283 --> 00:20:24.044
+<v Tutor>Amiodarone 300 milligrams follows the third failed shock.
+
+235
+00:20:24.044 --> 00:20:32.375
+<v Tutor>For asystole or severe bradycardia with epicardial wires in place, connect them and pace at maximum output, DDD at 80 to 100 per minute.
+
+236
+00:20:32.375 --> 00:20:34.458
+<v Tutor>Atropine is not recommended.
+
+237
+00:20:34.458 --> 00:20:42.211
+<v Tutor>If none of that works, resternotomy within five minutes, and it stays part of the protocol until the tenth post-operative day.
+
+238
+00:20:42.211 --> 00:20:45.509
+<v Tutor>Internal massage is more effective than external.
+
+239
+00:20:45.509 --> 00:20:47.939
+<v Tutor>Adrenaline is not given routinely.
+
+240
+00:20:47.939 --> 00:20:59.800
+<v Tutor>The consensus says to give it only if an experienced clinician directs, because a full one milligram dose on a heart that restarts can cause severe hypertension and bleeding from fresh anastomoses.
+
+241
+00:20:59.980 --> 00:21:04.723
+<v Tutor>If the monitor shows a paced rhythm with no output, briefly pause the pacing.
+
+242
+00:21:04.723 --> 00:21:06.620
+<v Tutor>It can mask underlying VF.
+
+243
+00:21:07.020 --> 00:21:08.351
+<v Tutor>Pause and answer.
+
+244
+00:21:08.351 --> 00:21:14.526
+<v Tutor>Ten minutes after arriving from theatre, a patient after coronary bypass goes into ventricular fibrillation.
+
+245
+00:21:14.526 --> 00:21:16.868
+<v Tutor>Their epicardial wires are attached.
+
+246
+00:21:16.868 --> 00:21:19.796
+<v Tutor>What's your sequence for the first two minutes?
+
+247
+00:21:19.796 --> 00:21:21.180
+<v Tutor>Pause, and answer.
+
+248
+00:21:26.580 --> 00:21:31.362
+<v Tutor>Confirm the rhythm and call for help, including the surgeon and the resternotomy kit.
+
+249
+00:21:31.362 --> 00:21:35.887
+<v Tutor>Give up to three sequential shocks within the first minute, before compressions.
+
+250
+00:21:35.887 --> 00:21:43.599
+<v Tutor>If VF persists after the third, start external compressions, give amiodarone 300 milligrams, and prepare for resternotomy within five minutes.
+
+251
+00:21:43.599 --> 00:21:45.450
+<v Tutor>Withhold routine adrenaline.
+
+252
+00:21:45.450 --> 00:21:52.340
+<v Tutor>Keep ventilation at 100 percent oxygen and check the airway and ventilator, and turn off the pacing if it might be masking VF.
+
+253
+00:21:52.740 --> 00:21:55.412
+<v Tutor>Three numbers to remember this week.
+
+254
+00:21:55.412 --> 00:22:03.305
+<v Tutor>Twenty-four hours: the new cut-off for cardioversion without prior anticoagulation or TOE, in the 2024 European guideline.
+
+255
+00:22:03.305 --> 00:22:11.199
+<v Tutor>Three shocks: the stacked sequence for VF after cardiac surgery, before compressions and before amiodarone 300 milligrams.
+
+256
+00:22:11.199 --> 00:22:13.871
+<v Tutor>Two grams of magnesium for torsades.
+
+257
+00:22:13.871 --> 00:22:19.700
+<v Tutor>And with it, the reminder that a broad complex tachycardia is VT until proven otherwise.
+
+258
+00:22:21.100 --> 00:22:26.624
+<v Tutor>Two trials this week, both about choices we make every day in cardiac intensive care.
+
+259
+00:22:26.624 --> 00:22:34.939
+<v Tutor>First, the Cardiothoracic Surgical Trials Network trial of rate versus rhythm control for atrial fibrillation after cardiac surgery.
+
+260
+00:22:34.939 --> 00:22:39.156
+<v Tutor>Gillinov and colleagues, New England Journal of Medicine, 2016.
+
+261
+00:22:39.156 --> 00:22:42.958
+<v Tutor>It's chapter fifty of Landmark Studies in Critical Care.
+
+262
+00:22:42.958 --> 00:22:49.491
+<v Tutor>The question: post-operative atrial fibrillation affects roughly a third of cardiac surgical patients.
+
+263
+00:22:49.491 --> 00:22:55.253
+<v Tutor>Should we chase sinus rhythm with amiodarone and cardioversion, or just control the rate?
+
+264
+00:22:55.253 --> 00:23:02.380
+<v Tutor>Population: patients having elective coronary or valve surgery who developed post-operative atrial fibrillation.
+
+265
+00:23:02.380 --> 00:23:04.043
+<v Tutor>523 were randomised.
+
+266
+00:23:04.043 --> 00:23:10.339
+<v Tutor>Intervention: rhythm control with amiodarone, plus cardioversion if atrial fibrillation persisted.
+
+267
+00:23:10.339 --> 00:23:13.725
+<v Tutor>Comparator: rate control with rate-slowing drugs.
+
+268
+00:23:13.725 --> 00:23:17.645
+<v Tutor>Primary outcome: total days in hospital within sixty days.
+
+269
+00:23:17.645 --> 00:23:21.565
+<v Tutor>5.1 days with rate control versus 5.0 with rhythm control.
+
+270
+00:23:21.565 --> 00:23:22.872
+<v Tutor>No difference.
+
+271
+00:23:22.872 --> 00:23:33.860
+<v Tutor>Secondary results: by sixty days, freedom from atrial fibrillation was 93.8 percent with rate control and 97.9 percent with rhythm control, a difference that wasn't significant.
+
+272
+00:23:34.040 --> 00:23:38.768
+<v Tutor>About a quarter of patients in each arm didn't stay on their assigned strategy.
+
+273
+00:23:38.768 --> 00:23:42.464
+<v Tutor>Rhythm control brought the expected amiodarone side effects.
+
+274
+00:23:42.464 --> 00:23:50.073
+<v Tutor>Main criticisms: crossover blurred the comparison, it was open label, and the sixty-day horizon says nothing about long-term stroke.
+
+275
+00:23:50.073 --> 00:23:54.421
+<v Tutor>What it changed: it gave intensivists permission to use either strategy.
+
+276
+00:23:54.421 --> 00:24:05.562
+<v Tutor>Most post-operative atrial fibrillation is self-limiting, so rate control is a legitimate first choice in the stable patient, and you reserve rhythm control for symptoms or haemodynamic compromise.
+
+277
+00:24:05.562 --> 00:24:18.280
+<v Tutor>How to quote it in an answer: "In the CTSN trial, rate and rhythm control for post-operative atrial fibrillation gave the same hospital stay, 5.1 versus 5.0 days, with over 90 percent in sinus rhythm at sixty days either way."
+
+278
+00:24:18.680 --> 00:24:20.628
+<v Tutor>Second, CULPRIT-SHOCK.
+
+279
+00:24:20.628 --> 00:24:25.109
+<v Tutor>Thiele and colleagues, New England Journal of Medicine, 2017.
+
+280
+00:24:25.109 --> 00:24:28.096
+<v Tutor>Chapter fifty-one of Landmark Studies.
+
+281
+00:24:28.096 --> 00:24:35.758
+<v Tutor>The question: in cardiogenic shock complicating myocardial infarction, most patients have multivessel disease.
+
+282
+00:24:35.758 --> 00:24:42.446
+<v Tutor>Should the interventionist open every critical lesion while they're there, or only the culprit?
+
+283
+00:24:42.446 --> 00:24:50.108
+<v Tutor>Population: 706 patients with acute myocardial infarction, cardiogenic shock and multivessel coronary disease.
+
+284
+00:24:50.108 --> 00:24:56.147
+<v Tutor>Intervention: culprit-lesion-only PCI, with staged revascularisation later if needed.
+
+285
+00:24:56.147 --> 00:25:02.251
+<v Tutor>Comparator: immediate multivessel PCI, including attempts on chronic total occlusions.
+
+286
+00:25:02.251 --> 00:25:09.004
+<v Tutor>Primary outcome: death or severe renal failure needing renal replacement therapy at thirty days.
+
+287
+00:25:09.004 --> 00:25:13.420
+<v Tutor>45.9 versus 55.4 percent, relative risk 0.83, p equals 0.01.
+
+288
+00:25:13.420 --> 00:25:16.991
+<v Tutor>The driver was death: 43.3 versus 51.6 percent.
+
+289
+00:25:16.991 --> 00:25:22.770
+<v Tutor>Renal replacement therapy was 11.6 versus 16.4 percent, which wasn't significant.
+
+290
+00:25:22.770 --> 00:25:38.160
+<v Tutor>Criticisms: open label; 43 patients crossed from culprit-only to multivessel; chronic occlusions were attempted in the multivessel arm, which may have added contrast, time and harm; and the primary follow-up was only thirty days.
+
+291
+00:25:38.340 --> 00:25:47.875
+<v Tutor>What it changed: European guidance now advises against routine immediate revascularisation of non-culprit lesions in infarct-related cardiogenic shock.
+
+292
+00:25:47.875 --> 00:25:59.268
+<v Tutor>Put that next to IABP-SHOCK II, which removed the routine balloon pump, and DanGer Shock, which found a survival benefit for the microaxial pump in a selected STEMI shock population.
+
+293
+00:25:59.268 --> 00:26:03.046
+<v Tutor>Together they map how the evidence for shock has moved.
+
+294
+00:26:03.046 --> 00:26:13.540
+<v Tutor>How to quote it: "In cardiogenic shock with multivessel disease, CULPRIT-SHOCK showed culprit-only PCI reduced thirty-day death or dialysis, 45.9 versus 55.4 percent."
+
+295
+00:26:14.940 --> 00:26:17.969
+<v Examiner>This is from the 2021 second sitting, question nine.
+
+296
+00:26:17.969 --> 00:26:19.433
+<v Examiner>I'll read it exactly.
+
+297
+00:26:19.433 --> 00:26:26.500
+<v Examiner>"Outline your approach to the assessment and management of atrial fibrillation in the critically ill patient."
+You have ten minutes.
+
+298
+00:26:27.000 --> 00:26:28.148
+<v Candidate>Thank you.
+
+299
+00:26:28.148 --> 00:26:36.310
+<v Candidate>I'll structure this as assessment, then management split into the unstable and the stable patient, then anticoagulation.
+
+300
+00:26:36.310 --> 00:26:37.521
+<v Candidate>Assessment.
+
+301
+00:26:37.521 --> 00:26:46.257
+<v Candidate>First, haemodynamic stability: looking for shock, ischaemia, heart failure or a fall in consciousness attributable to the rhythm.
+
+302
+00:26:46.257 --> 00:26:52.634
+<v Candidate>Second, confirming the rhythm on a twelve-lead ECG and excluding flutter and pre-excitation.
+
+303
+00:26:52.634 --> 00:26:59.138
+<v Candidate>Third, timing the onset from the monitor record, which matters for the cardioversion decision.
+
+304
+00:26:59.138 --> 00:27:14.250
+<v Candidate>Fourth, looking for precipitants, which in the ICU are usually the acute illness: sepsis, hypovolaemia, catecholamine infusions, central lines in the right atrium, hypoxia, electrolyte loss and recent cardiac or thoracic surgery.
+
+305
+00:27:14.250 --> 00:27:25.983
+<v Candidate>Investigations: potassium, magnesium, troponin, thyroid function, an arterial gas, a chest film, and a transthoracic echo for left ventricular function, valves and atrial size.
+
+306
+00:27:25.983 --> 00:27:27.832
+<v Candidate>Management, unstable.
+
+307
+00:27:27.832 --> 00:27:37.333
+<v Candidate>Synchronised DC cardioversion under sedation, starting at 120 to 150 joules biphasic, with amiodarone 300 milligrams if it fails or relapses.
+
+308
+00:27:37.333 --> 00:27:39.055
+<v Candidate>Management, stable.
+
+309
+00:27:39.055 --> 00:27:45.240
+<v Candidate>Treat the precipitant: replace potassium and magnesium, treat sepsis, and wean inotropes.
+
+310
+00:27:45.420 --> 00:27:54.326
+<v Candidate>Then rate control to below 110, using a beta-blocker first line, or amiodarone if the blood pressure is marginal, and digoxin in poor LV function.
+
+311
+00:27:54.326 --> 00:27:58.663
+<v Candidate>I'd avoid calcium channel blockers if the ejection fraction is low.
+
+312
+00:27:58.663 --> 00:28:04.620
+<v Candidate>To guide fluid in the shocked patient, I'd use pulse pressure variation from the arterial line.
+
+313
+00:28:05.120 --> 00:28:05.977
+<v Examiner>Stop there.
+
+314
+00:28:05.977 --> 00:28:08.998
+<v Examiner>You said you'd use pulse pressure variation to guide fluid.
+
+315
+00:28:08.998 --> 00:28:10.080
+<v Examiner>In this patient?
+
+316
+00:28:10.580 --> 00:28:11.205
+<v Candidate>Ah.
+
+317
+00:28:11.205 --> 00:28:11.830
+<v Candidate>No.
+
+318
+00:28:11.830 --> 00:28:14.785
+<v Candidate>Pulse pressure variation needs sinus rhythm.
+
+319
+00:28:14.785 --> 00:28:21.662
+<v Candidate>In atrial fibrillation the stroke volume varies from beat to beat with the filling time, so it's uninterpretable.
+
+320
+00:28:21.662 --> 00:28:30.300
+<v Candidate>I'd use a passive leg raise with real-time cardiac output or velocity time integral on echo, or a small fluid challenge judged on stroke volume.
+
+321
+00:28:30.800 --> 00:28:31.486
+<v Examiner>Better.
+
+322
+00:28:31.486 --> 00:28:34.183
+<v Examiner>You promised anticoagulation and haven't delivered.
+
+323
+00:28:34.183 --> 00:28:36.880
+<v Examiner>And what about cardioversion in the stable patient?
+
+324
+00:28:37.380 --> 00:28:38.726
+<v Candidate>Anticoagulation.
+
+325
+00:28:38.726 --> 00:28:48.541
+<v Candidate>I'd calculate the stroke risk with CHA2DS2-VA, and weigh it against the bleeding risk of the acute illness: recent surgery, thrombocytopenia, coagulopathy, procedures.
+
+326
+00:28:48.541 --> 00:28:53.869
+<v Candidate>In the ICU, unfractionated heparin is usually the first choice because it's reversible.
+
+327
+00:28:53.869 --> 00:28:58.692
+<v Candidate>For elective cardioversion, the onset must be clearly under twenty-four hours.
+
+328
+00:28:58.692 --> 00:29:08.956
+<v Candidate>Otherwise the patient needs three weeks of anticoagulation or a TOE excluding left atrial appendage thrombus, and anticoagulation continues for at least four weeks afterwards.
+
+329
+00:29:08.956 --> 00:29:19.332
+<v Candidate>And I'd add that in the critically ill, cardioversion often fails or relapses while the driver persists, so rate control and treating the cause is usually the better first step.
+
+330
+00:29:19.332 --> 00:29:24.940
+<v Candidate>Much of this AF reverts as the patient recovers, and it should be reviewed before discharge.
+
+331
+00:29:25.440 --> 00:29:26.877
+<v Examiner>Here's the marking.
+
+332
+00:29:26.877 --> 00:29:35.660
+<v Examiner>Assessment carries roughly three marks: stability, the ECG with exclusion of pre-excitation, onset time, precipitants and targeted tests, each with a reason.
+
+333
+00:29:35.660 --> 00:29:37.204
+<v Examiner>You got most of that.
+
+334
+00:29:37.204 --> 00:29:41.568
+<v Examiner>Your test list needed the reasons attached, as the 2026 question demanded.
+
+335
+00:29:41.568 --> 00:29:44.283
+<v Examiner>Unstable management carries one and a half.
+
+336
+00:29:44.283 --> 00:29:45.294
+<v Examiner>You got it.
+
+337
+00:29:45.294 --> 00:29:47.743
+<v Examiner>Stable management carries about three.
+
+338
+00:29:47.743 --> 00:29:53.119
+<v Examiner>The precipitant first, rate control with named drugs and their limits, and the relapse point.
+
+339
+00:29:53.119 --> 00:29:59.985
+<v Examiner>You got there, but the pulse pressure variation slip would have cost you a credibility half mark before you recovered it.
+
+340
+00:29:59.985 --> 00:30:02.806
+<v Examiner>In a written paper, you don't get to recover.
+
+341
+00:30:02.806 --> 00:30:05.042
+<v Examiner>Anticoagulation carries about two.
+
+342
+00:30:05.042 --> 00:30:11.962
+<v Examiner>The score, the bleeding balance in the critically ill, the agent, the twenty-four hour rule and the four weeks afterwards.
+
+343
+00:30:11.962 --> 00:30:14.517
+<v Examiner>Your version came late but was complete.
+
+344
+00:30:14.517 --> 00:30:23.566
+<v Examiner>The last half mark goes to the one sentence that shows you know the ICU is different: most new atrial fibrillation in the critically ill is driven by the illness.
+
+345
+00:30:23.566 --> 00:30:26.866
+<v Examiner>Verdict: as written, around six and a half out of ten.
+
+346
+00:30:26.866 --> 00:30:33.200
+<v Examiner>With anticoagulation planned up front and the pulse pressure variation line removed, seven and a half to eight.
+
+347
+00:30:33.380 --> 00:30:42.740
+<v Examiner>The one fix: write a four-part skeleton in the first minute, assessment, unstable, stable, anticoagulation, so no part gets left until time runs out.
+
+348
+00:30:44.140 --> 00:30:50.127
+<v Tutor>Now the syllabus round-up: six items from this week's block that the episodes haven't touched yet.
+
+349
+00:30:50.127 --> 00:30:53.177
+<v Tutor>First, hypertensive crisis with a renal focus.
+
+350
+00:30:53.177 --> 00:30:55.492
+<v Tutor>It appears in six past questions.
+
+351
+00:30:55.492 --> 00:31:01.648
+<v Tutor>A hypertensive emergency is severe hypertension, usually above 180 over 120, with acute organ damage.
+
+352
+00:31:01.648 --> 00:31:06.449
+<v Tutor>Severe hypertension without organ damage is an urgency and is treated orally.
+
+353
+00:31:06.449 --> 00:31:08.821
+<v Tutor>The renal faces to name are these.
+
+354
+00:31:08.821 --> 00:31:15.034
+<v Tutor>Acute kidney injury with thrombotic microangiopathy: fragments on the film, low platelets, a high LDH.
+
+355
+00:31:15.034 --> 00:31:16.897
+<v Tutor>Scleroderma renal crisis.
+
+356
+00:31:16.897 --> 00:31:20.625
+<v Tutor>Renovascular disease presenting as flash pulmonary oedema.
+
+357
+00:31:20.625 --> 00:31:22.093
+<v Tutor>And pre-eclampsia.
+
+358
+00:31:22.093 --> 00:31:25.087
+<v Tutor>Scleroderma renal crisis is the classic trap.
+
+359
+00:31:25.087 --> 00:31:31.299
+<v Tutor>The treatment is an ACE inhibitor, classically captopril, titrated up even while the creatinine rises.
+
+360
+00:31:31.299 --> 00:31:34.632
+<v Tutor>Stopping it because the creatinine climbs is wrong.
+
+361
+00:31:34.632 --> 00:31:41.183
+<v Tutor>The general target: reduce mean arterial pressure by no more than about 20 to 25 percent in the first hours.
+
+362
+00:31:41.183 --> 00:31:52.140
+<v Tutor>The two exceptions are aortic dissection, where you go lower and faster with heart rate control first, and acute ischaemic stroke, where you go more cautiously depending on thrombolysis.
+
+363
+00:31:52.320 --> 00:32:04.660
+<v Tutor>Agents to name, all titratable intravenously: labetalol, clevidipine or nicardipine, glyceryl trinitrate for pulmonary oedema, and sodium nitroprusside, with its cyanide and thiocyanate toxicity.
+
+364
+00:32:04.660 --> 00:32:09.280
+<v Tutor>Oh's chapter twenty-seven covers vasodilators and antihypertensives.
+
+365
+00:32:09.680 --> 00:32:15.214
+<v Tutor>Second, infective endocarditis: four past questions, the latest in the 2026 second sitting.
+
+366
+00:32:15.214 --> 00:32:20.692
+<v Tutor>The governing guideline is the 2023 European Society of Cardiology endocarditis guideline.
+
+367
+00:32:20.692 --> 00:32:24.828
+<v Tutor>The intensivist's questions are when to operate, and how to image.
+
+368
+00:32:24.828 --> 00:32:34.163
+<v Tutor>Emergency surgery, within twenty-four hours, for aortic or mitral endocarditis with valve dysfunction causing refractory pulmonary oedema or cardiogenic shock.
+
+369
+00:32:34.163 --> 00:32:38.020
+<v Tutor>Urgent surgery, within three to five days, for heart failure.
+
+370
+00:32:38.020 --> 00:32:44.896
+<v Tutor>Also for locally uncontrolled infection: abscess, false aneurysm, fistula, an enlarging vegetation or new AV block.
+
+371
+00:32:44.896 --> 00:32:49.256
+<v Tutor>And for a vegetation of 10 millimetres or more after an embolic event.
+
+372
+00:32:49.256 --> 00:32:55.013
+<v Tutor>For right-sided disease, residual tricuspid vegetations above 20 millimetres are an indication.
+
+373
+00:32:55.013 --> 00:33:07.814
+<v Tutor>Imaging: transthoracic echo first, transoesophageal echo for prosthetic valves or a negative transthoracic study, FDG PET-CT for possible prosthetic valve endocarditis, and brain imaging when there are neurological signs.
+
+374
+00:33:07.814 --> 00:33:11.000
+<v Tutor>Device infection means removing the whole system.
+
+375
+00:33:11.000 --> 00:33:15.360
+<v Tutor>Prosthetic valve endocarditis needs at least six weeks of antibiotics.
+
+376
+00:33:15.540 --> 00:33:24.443
+<v Tutor>In selected stable patients, the guideline allows a switch to oral therapy after two weeks of intravenous treatment and a transoesophageal echo showing no progression.
+
+377
+00:33:24.443 --> 00:33:26.580
+<v Tutor>In Oh's, it's chapter thirty-four.
+
+378
+00:33:26.980 --> 00:33:34.179
+<v Tutor>Third and fourth together: pericarditis, which has five past questions, and pericardiocentesis, which has four.
+
+379
+00:33:34.179 --> 00:33:40.834
+<v Tutor>The new document is the 2025 European Society of Cardiology guideline on myocarditis and pericarditis.
+
+380
+00:33:40.834 --> 00:33:50.634
+<v Tutor>Acute pericarditis needs two of four: pleuritic chest pain, a friction rub, new widespread ST elevation or PR depression, and a new or worsening effusion.
+
+381
+00:33:50.634 --> 00:33:57.772
+<v Tutor>Treatment is a non-steroidal or aspirin with colchicine, colchicine for around three months to cut recurrence.
+
+382
+00:33:57.772 --> 00:33:59.769
+<v Tutor>Steroids are second line.
+
+383
+00:33:59.769 --> 00:34:02.915
+<v Tutor>Tamponade is clinical and echocardiographic.
+
+384
+00:34:02.915 --> 00:34:09.085
+<v Tutor>Hypotension, raised venous pressure, pulsus paradoxus of more than ten millimetres of mercury.
+
+385
+00:34:09.085 --> 00:34:20.700
+<v Tutor>On echo: right atrial collapse in systole, right ventricular collapse in diastole, a plethoric inferior vena cava, and exaggerated respiratory variation in mitral and tricuspid inflow.
+
+386
+00:34:20.700 --> 00:34:27.052
+<v Tutor>Pericardiocentesis is echo-guided, usually subxiphoid or apical, with a pigtail left in to drain.
+
+387
+00:34:27.052 --> 00:34:29.412
+<v Tutor>The traps the examiners reward.
+
+388
+00:34:29.412 --> 00:34:35.219
+<v Tutor>One: after cardiac surgery, tamponade is often a localised clot compressing one chamber.
+
+389
+00:34:35.219 --> 00:34:40.180
+<v Tutor>Echo can miss it, and the answer is surgical re-exploration, not a needle.
+
+390
+00:34:40.360 --> 00:34:47.922
+<v Tutor>Two: in type A dissection with tamponade, a needle drain can precipitate rupture, so the answer is the operating theatre.
+
+391
+00:34:47.922 --> 00:34:52.729
+<v Tutor>Three: intubation and positive pressure can cause cardiovascular collapse.
+
+392
+00:34:52.729 --> 00:34:58.240
+<v Tutor>Keep the patient breathing spontaneously, load with fluid, and drain first if you can.
+
+393
+00:34:58.640 --> 00:35:02.858
+<v Tutor>Fifth, pulmonary hypertension and the failing right ventricle.
+
+394
+00:35:02.858 --> 00:35:08.402
+<v Tutor>Three past questions, plus the perioperative right heart questions of 2017 and 2026.
+
+395
+00:35:08.402 --> 00:35:17.442
+<v Tutor>The 2022 European respiratory and cardiology guideline lowered the definition: mean pulmonary artery pressure above 20 millimetres of mercury.
+
+396
+00:35:17.442 --> 00:35:24.251
+<v Tutor>Pre-capillary disease adds a pulmonary vascular resistance above 2 Wood units with a wedge of 15 or less.
+
+397
+00:35:24.251 --> 00:35:27.927
+<v Tutor>In the unit, the right ventricle fails from pressure.
+
+398
+00:35:27.927 --> 00:35:31.905
+<v Tutor>The management principles form a structure examiners like.
+
+399
+00:35:31.905 --> 00:35:39.558
+<v Tutor>First, remove what raises pulmonary vascular resistance: hypoxia, hypercapnia, acidosis, high PEEP and over-distension.
+
+400
+00:35:39.558 --> 00:35:47.874
+<v Tutor>Second, protect right coronary perfusion by keeping systemic pressure above pulmonary pressure, with noradrenaline or vasopressin.
+
+401
+00:35:47.874 --> 00:35:49.803
+<v Tutor>Third, optimise preload.
+
+402
+00:35:49.803 --> 00:35:56.853
+<v Tutor>The failing right ventricle is usually over-full, so diuresis or ultrafiltration often helps more than fluid.
+
+403
+00:35:56.853 --> 00:36:01.735
+<v Tutor>Fourth, support contractility with dobutamine, milrinone or levosimendan.
+
+404
+00:36:01.735 --> 00:36:07.761
+<v Tutor>Fifth, give a selective pulmonary vasodilator: inhaled nitric oxide or inhaled epoprostenol.
+
+405
+00:36:07.761 --> 00:36:12.160
+<v Tutor>Sixth, think early about mechanical support, VA ECMO as a bridge.
+
+406
+00:36:12.340 --> 00:36:19.715
+<v Tutor>And name the danger: induction and intubation in severe pulmonary hypertension is one of the highest-risk moments in intensive care.
+
+407
+00:36:19.715 --> 00:36:21.980
+<v Tutor>In Oh's, it's chapter thirty-three.
+
+408
+00:36:22.380 --> 00:36:23.618
+<v Tutor>Pause and answer.
+
+409
+00:36:23.618 --> 00:36:29.514
+<v Tutor>A patient with known pulmonary arterial hypertension is hypoxic and hypotensive with a dilated right ventricle.
+
+410
+00:36:29.514 --> 00:36:32.932
+<v Tutor>Name three things that will make them worse in the next hour.
+
+411
+00:36:32.932 --> 00:36:34.220
+<v Tutor>Pause, and answer.
+
+412
+00:36:39.620 --> 00:37:00.900
+<v Tutor>Any three of: a large fluid bolus, which dilates the right ventricle further and shifts the septum; induction and positive pressure ventilation, with the fall in systemic pressure and rise in right ventricular afterload; hypoxia, hypercapnia or acidosis; high PEEP; and systemic vasodilators that drop the pressure perfusing the right coronary artery.
+
+413
+00:37:01.300 --> 00:37:04.541
+<v Tutor>Sixth, beyond the cardiac core, vascular surgery.
+
+414
+00:37:04.541 --> 00:37:06.076
+<v Tutor>Two past questions.
+
+415
+00:37:06.076 --> 00:37:10.114
+<v Tutor>Oh's chapter thirty-five covers it with acute aortic syndromes.
+
+416
+00:37:10.114 --> 00:37:20.690
+<v Tutor>For ruptured abdominal aortic aneurysm, the principles are permissive hypotension in the conscious patient, with systolic pressure around 70 to 90, until the aorta is controlled.
+
+417
+00:37:20.690 --> 00:37:22.964
+<v Tutor>Avoid large crystalloid volumes.
+
+418
+00:37:22.964 --> 00:37:28.651
+<v Tutor>Endovascular repair is preferred where anatomy allows; the IMPROVE trial is the one to name.
+
+419
+00:37:28.651 --> 00:37:31.152
+<v Tutor>After repair, watch for four things.
+
+420
+00:37:31.152 --> 00:37:36.896
+<v Tutor>Abdominal compartment syndrome: intra-abdominal pressure above 20 with new organ dysfunction.
+
+421
+00:37:36.896 --> 00:37:40.421
+<v Tutor>Colonic ischaemia: bloody diarrhoea, a rising lactate.
+
+422
+00:37:40.421 --> 00:37:42.013
+<v Tutor>Acute kidney injury.
+
+423
+00:37:42.013 --> 00:37:46.448
+<v Tutor>And, after thoracic or thoracoabdominal repair, spinal cord ischaemia.
+
+424
+00:37:46.448 --> 00:37:49.405
+<v Tutor>That last one is the high-yield ICU problem.
+
+425
+00:37:49.405 --> 00:37:54.409
+<v Tutor>Spinal cord perfusion pressure equals mean arterial pressure minus CSF pressure.
+
+426
+00:37:54.409 --> 00:38:05.838
+<v Tutor>So you drain CSF to a pressure around 10 millimetres of mercury, limiting the drainage rate to avoid subdural haemorrhage, and you raise the mean arterial pressure, often to 80 to 90 or higher.
+
+427
+00:38:05.838 --> 00:38:14.140
+<v Tutor>If the legs weaken after the operation, that is an emergency: raise the pressure, open the drain, and correct haemoglobin and oxygenation.
+
+428
+00:38:14.540 --> 00:38:21.031
+<v Tutor>Before Wednesday: today's set includes the 2026 first-sitting question with only an ECG and an eighty-two-year-old.
+
+429
+00:38:21.031 --> 00:38:24.725
+<v Tutor>Write it in ten minutes using the structure from this episode.
+
+430
+00:38:24.725 --> 00:38:27.258
+<v Tutor>Assessment with a reason for every test.
+
+431
+00:38:27.258 --> 00:38:30.425
+<v Tutor>Then the unstable patient, split into fast and slow.
+
+432
+00:38:30.425 --> 00:38:33.169
+<v Tutor>Then the specific treatments for the causes.
+
+433
+00:38:33.169 --> 00:38:39.290
+<v Tutor>And do the daily ECG drill out loud, naming rate, rhythm, axis, intervals and one diagnosis before you look.
+
+434
+00:38:39.290 --> 00:38:40.768
+<v Tutor>That's it for today.
+
+435
+00:38:40.768 --> 00:38:42.140
+<v Tutor>See you next time.

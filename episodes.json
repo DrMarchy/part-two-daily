@@ -1,5 +1,180 @@
 [
  {
+  "date": "2026-11-16",
+  "title": "Primer, week 6: the unstable rhythm, new AF in the ICU, and arrest after cardiac surgery",
+  "description": "Week six primer on cardiac intensive care: a framework for the unstable arrhythmia, new-onset atrial fibrillation under the 2024 ESC AF-CARE guideline, broad complex tachycardia, dynamic LVOT obstruction and the STS approach to arrest after cardiac surgery. Landmark trials are CTSN rate versus rhythm control and CULPRIT-SHOCK, with the 2021.2 atrial fibrillation question as exam practice and a round-up of six syllabus items.",
+  "file": "episodes/2026-11-16.mp3",
+  "bytes": 9289522,
+  "seconds": 2322.1,
+  "vtt": "episodes/2026-11-16.vtt",
+  "page": "episodes/2026-11-16.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 31: Cardiac arrhythmias, pp 1020-1211",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 30: Cardiopulmonary resuscitation (including defibrillation), pp 985-1008",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 33: Acute heart failure and pulmonary hypertension, pp 1258-1310",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 73: Postoperative cardiac intensive care, pp 2840-2863",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 34: Valvular and congenital heart disease and infective endocarditis, pp 1329-1363",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 27: Vasodilators and antihypertensives, pp 820-849",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 35: Acute aortic syndrome, pp 1373-1414",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "2024 ESC Guidelines for the management of atrial fibrillation (Van Gelder et al., Eur Heart J 2024)",
+     "url": "https://doi.org/10.1093/eurheartj/ehae176"
+    },
+    {
+     "group": "Guidelines",
+     "label": "2022 ESC Guidelines for ventricular arrhythmias and the prevention of sudden cardiac death",
+     "url": "https://doi.org/10.1093/eurheartj/ehac262"
+    },
+    {
+     "group": "Guidelines",
+     "label": "STS Expert Consensus for the resuscitation of patients who arrest after cardiac surgery (Dunning et al., Ann Thorac Surg 2017)",
+     "url": "https://doi.org/10.1016/j.athoracsur.2016.10.033"
+    },
+    {
+     "group": "Guidelines",
+     "label": "2023 ESC Guidelines for the management of endocarditis (Delgado et al.)",
+     "url": "https://doi.org/10.1093/eurheartj/ehad193"
+    },
+    {
+     "group": "Guidelines",
+     "label": "2025 ESC Guidelines for the management of myocarditis and pericarditis (Schulz-Menger et al.)",
+     "url": "https://doi.org/10.1093/eurheartj/ehaf192"
+    },
+    {
+     "group": "Guidelines",
+     "label": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension (Humbert et al.)",
+     "url": "https://doi.org/10.1093/eurheartj/ehac237"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "CTSN: Gillinov et al. Rate control versus rhythm control for atrial fibrillation after cardiac surgery. NEJM 2016 (Landmark Studies ch 50)",
+     "url": "https://doi.org/10.1056/NEJMoa1602002"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "CULPRIT-SHOCK: Thiele et al. PCI strategies in patients with acute myocardial infarction and cardiogenic shock. NEJM 2017 (Landmark Studies ch 51)",
+     "url": "https://doi.org/10.1056/NEJMoa1710261"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2020.2 Q17: Fluid resuscitation and assessment of fluid responsiveness (your mark 4.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2020-paper-2-saqs/question-17"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2014.1 Q29: Strategies to prolong the lifespan of the CRRT circuit (your mark 4.5)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2014-paper-1-saqs/question-29"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.2 Q9: Atrial fibrillation",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-2-saqs/question-9"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2026.1 Q1: Name That ECG Abnormality (unstable arrhythmia, 82-year-old)",
+     "url": null
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.2 Q23: ECG interpretation",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-2-saqs/question-231"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2019.1 Q8: Left ventricular outflow tract obstruction",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2019-paper-1-saqs/question-8"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2022.1 Q25: Cardiac arrest following cardiac surgery",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2022-paper-1-saqs/question-25"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.1 Q18: Atrial fibrillation",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-1-saqs/question-18"
+    },
+    {
+     "group": "Further reading",
+     "label": "Treatment strategies for new onset atrial fibrillation in patients treated on an intensive care unit: a systematic scoping review. Critical Care 2021",
+     "url": "https://doi.org/10.1186/s13054-021-03684-5"
+    },
+    {
+     "group": "Further reading",
+     "label": "Unexplained hypotension: the spectrum of dynamic left ventricular outflow tract obstruction in critical care settings. Crit Care Med 2009",
+     "url": "https://doi.org/10.1097/CCM.0b013e3181958710"
+    }
+   ],
+   "takeaways": [
+    "Pulse pressure variation above 12 percent predicts fluid responsiveness only in controlled ventilation, tidal volume 8 mL/kg or more, sinus rhythm and a closed chest; in AF use passive leg raising judged on real-time cardiac output (about 85 percent sensitive, 91 percent specific).",
+    "HIT with thrombosis on CRRT needs all heparin stopped and a systemic non-heparin anticoagulant (argatroban, bivalirudin or danaparoid); regional citrate alone does not treat it.",
+    "Unstable tachyarrhythmia: synchronised DC cardioversion (AF 120-150 J biphasic, flutter/SVT 70-120 J), then amiodarone 300 mg over 10-20 min and 900 mg over 24 h after three failed shocks.",
+    "2024 ESC AF guideline: AF-CARE; CHA2DS2-VA 2 or more means anticoagulate, 1 means consider; cardioversion without 3 weeks of anticoagulation or TOE only if onset is under 24 hours.",
+    "Broad complex tachycardia is VT until proven otherwise; torsades gets magnesium sulphate 2 g IV, high-normal potassium and rate support with isoprenaline or overdrive pacing.",
+    "Dynamic LVOTO: give fluid, a pure vasoconstrictor (phenylephrine or vasopressin) and a beta-blocker, and stop inotropes and vasodilators; the 2019.1 examiners penalised inotropes and vasodilators.",
+    "STS 2017 arrest after cardiac surgery: three stacked shocks before compressions, pacing at maximum output for asystole, resternotomy within 5 minutes, no routine adrenaline.",
+    "CULPRIT-SHOCK: culprit-only PCI reduced 30-day death or RRT, 45.9 versus 55.4 percent (RR 0.83); CTSN: rate and rhythm control after cardiac surgery gave the same hospital stay, 5.1 versus 5.0 days."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 48.04,
+     "title": "Last week"
+    },
+    {
+     "start": 172.58,
+     "title": "This week: cardiac intensive care"
+    },
+    {
+     "start": 1341.1,
+     "title": "Landmark trials"
+    },
+    {
+     "start": 1574.94,
+     "title": "Exam practice"
+    },
+    {
+     "start": 1844.14,
+     "title": "Syllabus round-up"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-14",
   "title": "Spiral review: rhabdomyolysis, the dialysis patient, diabetes insipidus and low output after cardiac surgery",
   "description": "A spiral review that takes four recent topics and makes each one harder: rhabdomyolysis with exertional heat stroke and hyperkalaemia, end-stage kidney disease with septic shock, diabetes insipidus on CRRT, and low output after valve surgery with right ventricular failure. Then a round-up of Impella and LVADs, interstitial nephritis and glomerular disease, renal transplantation, renal imaging, the obstetric patient, and antimicrobial dosing.",
