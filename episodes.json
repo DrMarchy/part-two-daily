@@ -1,5 +1,127 @@
 [
  {
+  "date": "2026-11-18",
+  "title": "Deep dive: will he wake up? Neuroprognostication after cardiac arrest",
+  "description": "A consultant-level deep dive on post cardiac arrest care and neuroprognostication: the post cardiac arrest syndrome, the 2025 ERC-ESICM guideline, every prognostic test and its limitation, and how fever prevention replaced hypothermia. Trials: HACA, PARAMEDIC2 and BOX, then exam practice on the 2024.1 Question 28.",
+  "file": "episodes/2026-11-18.mp3",
+  "bytes": 9020054,
+  "seconds": 2254.8,
+  "vtt": "episodes/2026-11-18.vtt",
+  "page": "episodes/2026-11-18.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition, chapter 30: Cardiopulmonary resuscitation (including defibrillation), pp. 985 to 1008; post-resuscitation care from p. 1002",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's Intensive Care Manual, 9th edition, chapter 59: Disorders of consciousness, pp. 2382 to 2412",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2025: Post-Resuscitation Care. Nolan JP et al. Resuscitation 2025",
+     "url": "https://doi.org/10.1016/j.resuscitation.2025.110809"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Guidelines for Neuroprognostication in Comatose Adult Survivors of Cardiac Arrest (Neurocritical Care Society). Rajajee V et al. Neurocrit Care 2023",
+     "url": "https://doi.org/10.1007/s12028-023-01688-3"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "HACA: Hypothermia after Cardiac Arrest Study Group. Mild therapeutic hypothermia to improve the neurologic outcome after cardiac arrest. N Engl J Med 2002",
+     "url": "https://doi.org/10.1056/NEJMoa012689"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Bernard 2002: Bernard SA et al. Treatment of comatose survivors of out-of-hospital cardiac arrest with induced hypothermia. N Engl J Med 2002",
+     "url": "https://doi.org/10.1056/NEJMoa003289"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "PARAMEDIC2: Perkins GD et al. A randomized trial of epinephrine in out-of-hospital cardiac arrest. N Engl J Med 2018",
+     "url": "https://doi.org/10.1056/NEJMoa1806842"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "BOX: Kjaergaard J et al. Blood-pressure targets in comatose survivors of cardiac arrest. N Engl J Med 2022",
+     "url": "https://doi.org/10.1056/NEJMoa2208687"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Landmark Studies in Critical Care, chapter 58: Therapeutic Hypothermia After Out-of-Hospital Cardiac Arrest: The HACA Trial, pp. 494 to 501",
+     "url": null
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Controversies in Critical Care, chapter 23: Epinephrine and Outcomes Following Cardiac Arrest, pp. 209 to 215",
+     "url": null
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.1 Q28: Prognostication after cardiac arrest (today's exam practice)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-1-saqs/question-28"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2023.2 Q2: Prognostication after cardiac arrest",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2023-paper-2-saqs/question-2"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.2 Q23: CT in prognostication after cardiac arrest",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-2-saqs/question-23"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q16: Prognostication after cardiac arrest",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-16"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.2 Q21: Therapeutic hypothermia for survivors of cardiac arrest",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-2-saqs/question-21"
+    },
+    {
+     "group": "Further reading",
+     "label": "European Resuscitation Council and European Society of Intensive Care Medicine guidelines 2021: post-resuscitation care. Intensive Care Med 2021",
+     "url": "https://doi.org/10.1007/s00134-021-06368-4"
+    }
+   ],
+   "takeaways": [
+    "Prognosticate at 72 hours or later after ROSC, in patients not obeying commands (GCS motor below 6), once sedation, hypothermia, hypotension and metabolic confounders are excluded.",
+    "ERC-ESICM 2025: poor outcome is likely with two or more of six predictors: absent pupillary and corneal reflexes at 72 h or later, bilaterally absent N20 at 24 h or later, highly malignant EEG after 24 h, NSE above 60 micrograms per litre at 48 or 72 h, status myoclonus within 72 h, and diffuse anoxic injury on CT or MRI.",
+    "Every test needs finding, timing and limitation: NSE is falsely raised by haemolysis and neuroendocrine tumours, early CT under 24 h is often normal, and a motor score of 3 or less has a high false-positive rate on its own.",
+    "Post-resuscitation targets (ERC-ESICM 2025): SpO2 94 to 98 percent, PaCO2 35 to 45 mmHg, MAP above 60 to 65 mmHg, and fever prevention at 37.5 degrees or below for 36 to 72 hours.",
+    "HACA 2002: 32 to 34 degrees for 24 h after witnessed VF arrest improved 6-month favourable neurological outcome from 39 to 55 percent (NNT 6), but controls were not fever-controlled; TTM2 later found no benefit of 33 degrees over fever prevention.",
+    "PARAMEDIC2 2018: adrenaline improved 30-day survival, 3.2 versus 2.4 percent, without a significant gain in favourable neurological survival (2.2 versus 1.9 percent).",
+    "BOX 2022: MAP 77 versus 63 mmHg made no difference to death or severe disability at 90 days (34 versus 32 percent).",
+    "Exam fix: fill all three columns (finding, timing, limitation) for every test, and name the guideline with its year in the first line."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 51.24,
+     "title": "Tutorial: neuroprognostication and post-resuscitation care"
+    },
+    {
+     "start": 1204.76,
+     "title": "Landmark trials"
+    },
+    {
+     "start": 1602.18,
+     "title": "Exam practice: 2024.1 Question 28"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-16",
   "title": "Primer, week 6: the unstable rhythm, new AF in the ICU, and arrest after cardiac surgery",
   "description": "Week six primer on cardiac intensive care: a framework for the unstable arrhythmia, new-onset atrial fibrillation under the 2024 ESC AF-CARE guideline, broad complex tachycardia, dynamic LVOT obstruction and the STS approach to arrest after cardiac surgery. Landmark trials are CTSN rate versus rhythm control and CULPRIT-SHOCK, with the 2021.2 atrial fibrillation question as exam practice and a round-up of six syllabus items.",

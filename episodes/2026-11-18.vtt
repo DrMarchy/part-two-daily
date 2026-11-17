@@ -1,0 +1,1961 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.818
+<v Tutor>Welcome to Part Two Daily.
+
+2
+00:00:01.818 --> 00:00:08.556
+<v Tutor>It's Wednesday the eighteenth of November, one hundred and twelve days to the written exam, and this is the deep dive.
+
+3
+00:00:08.556 --> 00:00:15.829
+<v Tutor>Cardiac week continues, and today we go deep on one of the College's favourite questions: what happens after the heart restarts.
+
+4
+00:00:15.829 --> 00:00:26.364
+<v Tutor>Specifically, how you predict neurological outcome in the patient who is still comatose after an out-of-hospital cardiac arrest, and how you look after the brain while you wait to find out.
+
+5
+00:00:26.364 --> 00:00:28.182
+<v Tutor>Here is the running order.
+
+6
+00:00:28.182 --> 00:00:38.877
+<v Tutor>First, a tutorial: the post cardiac arrest syndrome, the 2025 European Resuscitation Council and European Society of Intensive Care Medicine guideline, and every prognostic test with its trap.
+
+7
+00:00:38.877 --> 00:00:42.567
+<v Tutor>Along the way, the strange career of therapeutic hypothermia.
+
+8
+00:00:42.567 --> 00:00:44.599
+<v Tutor>Second, three landmark trials.
+
+9
+00:00:44.599 --> 00:00:49.840
+<v Tutor>Third, exam practice on the 2024 first sitting question, with an examiner and a candidate.
+
+10
+00:00:51.240 --> 00:00:52.268
+<v Tutor>Picture it.
+
+11
+00:00:52.268 --> 00:00:53.513
+<v Tutor>It's day three.
+
+12
+00:00:53.513 --> 00:01:02.116
+<v Tutor>A fifty-eight year old man, out-of-hospital ventricular fibrillation arrest, bystander CPR, return of spontaneous circulation after twenty-two minutes.
+
+13
+00:01:02.116 --> 00:01:04.713
+<v Tutor>He's been off sedation for twenty hours.
+
+14
+00:01:04.713 --> 00:01:06.066
+<v Tutor>His pupils react.
+
+15
+00:01:06.066 --> 00:01:07.527
+<v Tutor>He extends to pain.
+
+16
+00:01:07.527 --> 00:01:12.289
+<v Tutor>His wife asks you the only question that matters to her: is he going to wake up?
+
+17
+00:01:12.289 --> 00:01:16.671
+<v Tutor>Everything in today's tutorial is about answering that question honestly.
+
+18
+00:01:16.671 --> 00:01:21.920
+<v Tutor>Not too early, not on one test, and not in a way that becomes a self-fulfilling prophecy.
+
+19
+00:01:22.320 --> 00:01:29.672
+<v Tutor>Let's start with how the College asks it, because this is one of the most reliably examined themes in the cardiac block.
+
+20
+00:01:29.672 --> 00:01:37.484
+<v Tutor>Prognostication after cardiac arrest has appeared as a question seven times since 2011, and four of those were from 2021 onward.
+
+21
+00:01:37.484 --> 00:01:42.998
+<v Tutor>Hypothermia after cardiac arrest has been asked twice more on its own, in 2015 and 2021.
+
+22
+00:01:42.998 --> 00:01:45.928
+<v Tutor>So, nine questions on one family of themes.
+
+23
+00:01:45.928 --> 00:01:47.995
+<v Tutor>The forms are worth knowing.
+
+24
+00:01:47.995 --> 00:01:58.392
+<v Tutor>In the 2021 first sitting, question sixteen read simply: List the clinical signs and tests used for neuro-prognostication after cardiac arrest and discuss their limitations.
+
+25
+00:01:58.392 --> 00:01:59.655
+<v Tutor>Note the verb.
+
+26
+00:01:59.655 --> 00:02:02.930
+<v Tutor>That question wanted limitations, not advantages.
+
+27
+00:02:02.930 --> 00:02:12.464
+<v Tutor>In the 2023 second sitting, question two read: Outline the approach to neurological prognostication of a patient post out-of-hospital cardiac arrest, O H C A.
+
+28
+00:02:12.464 --> 00:02:17.577
+<v Tutor>Your answer should include the following headings: General principles, two marks.
+
+29
+00:02:17.577 --> 00:02:20.276
+<v Tutor>Clinical factors, two and a half marks.
+
+30
+00:02:20.276 --> 00:02:22.459
+<v Tutor>Imaging, two and a half marks.
+
+31
+00:02:22.459 --> 00:02:25.101
+<v Tutor>Neurophysiological studies, two marks.
+
+32
+00:02:25.101 --> 00:02:26.767
+<v Tutor>Biomarkers, one mark.
+
+33
+00:02:26.767 --> 00:02:33.200
+<v Tutor>The 2024 first sitting asked it again with a guidelines heading, and we'll do that one in exam practice.
+
+34
+00:02:33.380 --> 00:02:43.200
+<v Tutor>And the 2024 second sitting asked a narrower version: the role of early, under twenty-four hours, versus late, over forty-eight hours, CT brain in the same patient group.
+
+35
+00:02:43.200 --> 00:02:47.669
+<v Tutor>The commentary on the 2023 question noted two ways candidates lost marks.
+
+36
+00:02:47.669 --> 00:02:51.862
+<v Tutor>Some misunderstood the question and wrote about brain death testing.
+
+37
+00:02:51.862 --> 00:02:53.848
+<v Tutor>Others gave generic answers.
+
+38
+00:02:53.848 --> 00:02:58.372
+<v Tutor>Neurophysiology and biomarkers were generally explored only superficially.
+
+39
+00:02:58.372 --> 00:03:00.855
+<v Tutor>Hold on to those three failure modes.
+
+40
+00:03:00.855 --> 00:03:02.620
+<v Tutor>They are the whole game.
+
+41
+00:03:03.020 --> 00:03:05.546
+<v Tutor>Now the framework the examiners reward.
+
+42
+00:03:05.546 --> 00:03:08.610
+<v Tutor>If you get a headed question, use their headings.
+
+43
+00:03:08.610 --> 00:03:16.942
+<v Tutor>If you don't, use five of your own: principles, timing and confounders, clinical examination, investigations, and then synthesis and communication.
+
+44
+00:03:16.942 --> 00:03:23.930
+<v Tutor>Under each investigation, the examiners want three things: what the finding is, when to do it, and what the limitation is.
+
+45
+00:03:23.930 --> 00:03:26.080
+<v Tutor>That makes this a natural table.
+
+46
+00:03:26.080 --> 00:03:30.272
+<v Tutor>Three columns: test, poor-outcome finding with timing, and limitation.
+
+47
+00:03:30.272 --> 00:03:37.260
+<v Tutor>If you write it as a table, you'll find it very hard to forget the limitation column, and that's where half the marks sit.
+
+48
+00:03:37.660 --> 00:03:39.611
+<v Tutor>Before the tests, the disease.
+
+49
+00:03:39.611 --> 00:03:50.190
+<v Tutor>Oh's Intensive Care Manual covers this in chapter thirty, Cardiopulmonary resuscitation, in the post-resuscitation care section, with the coma side in chapter fifty-nine, Disorders of consciousness.
+
+50
+00:03:50.190 --> 00:03:53.066
+<v Tutor>The post cardiac arrest syndrome has four parts.
+
+51
+00:03:53.066 --> 00:03:56.301
+<v Tutor>Here's your first chance to retrieve before I tell you.
+
+52
+00:03:56.301 --> 00:03:59.845
+<v Tutor>Name the four components of the post cardiac arrest syndrome.
+
+53
+00:03:59.845 --> 00:04:01.180
+<v Tutor>Pause, and answer.
+
+54
+00:04:06.580 --> 00:04:09.211
+<v Tutor>First, post cardiac arrest brain injury.
+
+55
+00:04:09.211 --> 00:04:12.444
+<v Tutor>Second, post cardiac arrest myocardial dysfunction.
+
+56
+00:04:12.444 --> 00:04:22.310
+<v Tutor>Third, the systemic ischaemia-reperfusion response, which looks and behaves a lot like sepsis: vasoplegia, capillary leak, raised lactate, and a temperature that drifts up.
+
+57
+00:04:22.310 --> 00:04:30.805
+<v Tutor>And fourth, the persistent precipitating pathology, whether that's an occluded coronary artery, a pulmonary embolus, or a subarachnoid haemorrhage.
+
+58
+00:04:30.805 --> 00:04:35.683
+<v Tutor>That fourth one is easy to forget and it's the one that changes management today.
+
+59
+00:04:35.683 --> 00:04:39.300
+<v Tutor>So it belongs in any answer about the post-arrest patient.
+
+60
+00:04:39.700 --> 00:04:44.387
+<v Tutor>The brain injury is what kills most of these patients after they reach ICU.
+
+61
+00:04:44.387 --> 00:04:46.815
+<v Tutor>The mechanism that matters is this.
+
+62
+00:04:46.815 --> 00:04:55.454
+<v Tutor>The brain has almost no oxygen reserve, so within seconds of circulatory arrest consciousness is lost, and within a few minutes ATP is exhausted.
+
+63
+00:04:55.454 --> 00:05:01.496
+<v Tutor>The ion pumps fail, neurons depolarise, glutamate floods the synapse, and calcium pours into cells.
+
+64
+00:05:01.496 --> 00:05:07.256
+<v Tutor>Then reperfusion adds a second hit: free radicals, mitochondrial injury, and patchy no-reflow.
+
+65
+00:05:07.256 --> 00:05:09.119
+<v Tutor>The injury isn't uniform.
+
+66
+00:05:09.119 --> 00:05:11.829
+<v Tutor>Some neurons are selectively vulnerable.
+
+67
+00:05:11.829 --> 00:05:19.226
+<v Tutor>The CA1 region of the hippocampus, the Purkinje cells of the cerebellum, the middle cortical layers, and the basal ganglia.
+
+68
+00:05:19.226 --> 00:05:28.148
+<v Tutor>That's why a late MRI shows restricted diffusion in cortex and deep grey matter, and why survivors with moderate injury so often have memory problems.
+
+69
+00:05:28.148 --> 00:05:31.536
+<v Tutor>And importantly, the injury keeps evolving for days.
+
+70
+00:05:31.536 --> 00:05:35.771
+<v Tutor>Cell death after reperfusion is not finished at the moment of ROSC.
+
+71
+00:05:35.771 --> 00:05:42.660
+<v Tutor>That's the biological reason we wait before prognosticating, and the reason fever in the first few days does harm.
+
+72
+00:05:43.060 --> 00:05:50.750
+<v Tutor>Which brings me to a story, because the way we manage temperature after cardiac arrest has had one of the strangest careers in intensive care.
+
+73
+00:05:50.750 --> 00:05:59.464
+<v Tutor>In the late nineteen fifties, surgeons were already cooling patients for cardiac surgery, and a few small case series tried cooling patients after cardiac arrest.
+
+74
+00:05:59.464 --> 00:06:08.999
+<v Tutor>Peter Safar, the Austrian-born anaesthetist in the United States who also championed mouth-to-mouth ventilation and the modern ICU, was a strong advocate in the nineteen sixties.
+
+75
+00:06:08.999 --> 00:06:14.484
+<v Tutor>But deep cooling was hard to deliver and hard to manage, and the idea faded for about thirty years.
+
+76
+00:06:14.484 --> 00:06:16.740
+<v Tutor>It came back through the laboratory.
+
+77
+00:06:16.740 --> 00:06:26.839
+<v Tutor>In the late nineteen eighties and nineteen nineties, Safar's group and others showed in dogs that mild hypothermia, only a few degrees, improved neurological outcome after prolonged arrest.
+
+78
+00:06:26.839 --> 00:06:28.377
+<v Tutor>Mild was the key word.
+
+79
+00:06:28.377 --> 00:06:32.119
+<v Tutor>You could get the benefit without the worst of the complications.
+
+80
+00:06:32.119 --> 00:06:36.938
+<v Tutor>Then in February 2002, the New England Journal published two trials in the same issue.
+
+81
+00:06:36.938 --> 00:06:45.140
+<v Tutor>One was from Melbourne, led by Stephen Bernard: seventy-seven patients, allocated by odd and even days, cooled to thirty-three degrees for twelve hours.
+
+82
+00:06:45.320 --> 00:06:50.639
+<v Tutor>Good outcome, meaning discharge home or to rehabilitation, was 49 versus 26 percent.
+
+83
+00:06:50.639 --> 00:06:55.148
+<v Tutor>The other was the European HACA trial, which we'll take apart shortly.
+
+84
+00:06:55.148 --> 00:06:59.715
+<v Tutor>Within a year, therapeutic hypothermia was in international guidelines.
+
+85
+00:06:59.715 --> 00:07:03.241
+<v Tutor>An Australian trial had helped change world practice.
+
+86
+00:07:03.241 --> 00:07:04.976
+<v Tutor>Then the story turned.
+
+87
+00:07:04.976 --> 00:07:10.468
+<v Tutor>In 2013, the TTM trial found no difference between thirty-three and thirty-six degrees.
+
+88
+00:07:10.468 --> 00:07:19.602
+<v Tutor>In 2021, TTM2, with about nineteen hundred patients, found no difference between thirty-three degrees and normothermia with active treatment of fever.
+
+89
+00:07:19.602 --> 00:07:22.666
+<v Tutor>Six-month mortality was 50 versus 48 percent.
+
+90
+00:07:22.666 --> 00:07:24.747
+<v Tutor>So what was the real lesson?
+
+91
+00:07:24.747 --> 00:07:27.060
+<v Tutor>Look at the 2002 control groups.
+
+92
+00:07:27.060 --> 00:07:31.569
+<v Tutor>Their temperature wasn't actively controlled, and many became febrile.
+
+93
+00:07:31.569 --> 00:07:38.795
+<v Tutor>The likeliest reading of the whole story is that the benefit came mostly from preventing fever, not from cold itself.
+
+94
+00:07:38.795 --> 00:07:45.501
+<v Tutor>That's exactly why the 2025 guideline talks about temperature control and fever prevention, not hypothermia.
+
+95
+00:07:45.501 --> 00:07:55.040
+<v Tutor>And it's a sentence worth putting in an answer: the early benefit was probably fever avoidance, because the controls in 2002 were not temperature controlled.
+
+96
+00:07:55.440 --> 00:07:57.499
+<v Tutor>So, the governing guideline.
+
+97
+00:07:57.499 --> 00:08:09.679
+<v Tutor>Today's is the European Resuscitation Council and European Society of Intensive Care Medicine Guidelines 2025: Post-Resuscitation Care, first author Jerry Nolan, published in Resuscitation in October 2025.
+
+98
+00:08:09.679 --> 00:08:22.946
+<v Tutor>Australian practice through the Australian and New Zealand Committee on Resuscitation follows the same international evidence review, but for the exam, naming the 2025 European guideline with its year is the cleanest choice.
+
+99
+00:08:22.946 --> 00:08:30.438
+<v Tutor>For prognostication specifically, you can also name the Neurocritical Care Society guideline of 2023, first author Rajajee.
+
+100
+00:08:30.438 --> 00:08:33.583
+<v Tutor>Here are the key recommendations, with numbers.
+
+101
+00:08:33.583 --> 00:08:34.441
+<v Tutor>Oxygen.
+
+102
+00:08:34.441 --> 00:08:41.818
+<v Tutor>Titrate to an oxygen saturation of 94 to 98 percent, or a partial pressure of oxygen of 75 to 100 millimetres of mercury.
+
+103
+00:08:41.818 --> 00:08:45.134
+<v Tutor>Avoid hypoxaemia below 60, and avoid hyperoxaemia.
+
+104
+00:08:45.134 --> 00:08:46.450
+<v Tutor>Carbon dioxide.
+
+105
+00:08:46.450 --> 00:08:49.480
+<v Tutor>Normocapnia, 35 to 45 millimetres of mercury.
+
+106
+00:08:49.480 --> 00:08:56.171
+<v Tutor>Watch it closely if the patient is cooled, because hypocapnia creeps in and causes cerebral vasoconstriction.
+
+107
+00:08:56.171 --> 00:08:57.486
+<v Tutor>Blood pressure.
+
+108
+00:08:57.486 --> 00:09:02.976
+<v Tutor>A mean arterial pressure above 60 to 65, or a systolic above 100 millimetres of mercury.
+
+109
+00:09:02.976 --> 00:09:04.120
+<v Tutor>Temperature.
+
+110
+00:09:04.300 --> 00:09:11.299
+<v Tutor>Prevent fever, defined as a temperature above 37.5 degrees, for 36 to 72 hours in patients who remain comatose.
+
+111
+00:09:11.299 --> 00:09:17.298
+<v Tutor>Don't actively rewarm a comatose patient who is mildly hypothermic, between 32 and 36 degrees.
+
+112
+00:09:17.298 --> 00:09:22.591
+<v Tutor>If you use a device, use one with feedback from continuous temperature monitoring.
+
+113
+00:09:22.591 --> 00:09:25.356
+<v Tutor>And no routine prehospital cold fluids.
+
+114
+00:09:25.356 --> 00:09:26.708
+<v Tutor>The coronaries.
+
+115
+00:09:26.708 --> 00:09:33.237
+<v Tutor>Immediate coronary angiography for clear ST elevation, or a high suspicion of acute coronary occlusion.
+
+116
+00:09:33.237 --> 00:09:40.059
+<v Tutor>Without ST elevation, delay the catheter laboratory unless the context strongly suggests an occluded vessel.
+
+117
+00:09:40.059 --> 00:09:41.059
+<v Tutor>Seizures.
+
+118
+00:09:41.059 --> 00:09:42.882
+<v Tutor>Diagnose them with EEG.
+
+119
+00:09:42.882 --> 00:09:47.940
+<v Tutor>Treat with levetiracetam or sodium valproate first line, along with sedatives.
+
+120
+00:09:47.940 --> 00:09:50.940
+<v Tutor>Do not give prophylactic antiseizure drugs.
+
+121
+00:09:51.340 --> 00:09:56.739
+<v Tutor>Now the prognostication algorithm itself, which is the core of most of these questions.
+
+122
+00:09:56.739 --> 00:09:57.989
+<v Tutor>Who enters it?
+
+123
+00:09:57.989 --> 00:10:08.843
+<v Tutor>In the 2025 guideline, a patient who is not awake and obeying commands, meaning a Glasgow Coma Scale motor score below six, at 72 hours or later after ROSC, with confounders excluded.
+
+124
+00:10:08.843 --> 00:10:10.207
+<v Tutor>Note the change.
+
+125
+00:10:10.207 --> 00:10:13.673
+<v Tutor>The 2021 version used a motor score of three or less.
+
+126
+00:10:13.673 --> 00:10:16.515
+<v Tutor>Either way, the timing anchor is 72 hours.
+
+127
+00:10:16.515 --> 00:10:20.947
+<v Tutor>Poor outcome is likely when two or more of six predictors are present.
+
+128
+00:10:20.947 --> 00:10:23.334
+<v Tutor>Here's the second retrieval point.
+
+129
+00:10:23.334 --> 00:10:25.834
+<v Tutor>Before I list them, try it yourself.
+
+130
+00:10:25.834 --> 00:10:31.062
+<v Tutor>Name the six predictors of poor neurological outcome in the 2025 European algorithm.
+
+131
+00:10:31.062 --> 00:10:32.540
+<v Tutor>Pause, and answer.
+
+132
+00:10:37.940 --> 00:10:38.668
+<v Tutor>One.
+
+133
+00:10:38.668 --> 00:10:42.790
+<v Tutor>Absent pupillary and corneal reflexes, at 72 hours or later.
+
+134
+00:10:42.790 --> 00:10:43.518
+<v Tutor>Two.
+
+135
+00:10:43.518 --> 00:10:49.216
+<v Tutor>Bilaterally absent N20 waves on somatosensory evoked potentials, at 24 hours or later.
+
+136
+00:10:49.216 --> 00:10:50.065
+<v Tutor>Three.
+
+137
+00:10:50.065 --> 00:10:52.915
+<v Tutor>A highly malignant EEG, after 24 hours.
+
+138
+00:10:52.915 --> 00:10:59.826
+<v Tutor>Highly malignant means a suppressed background, with or without periodic discharges, or burst suppression.
+
+139
+00:10:59.826 --> 00:11:00.614
+<v Tutor>Four.
+
+140
+00:11:00.614 --> 00:11:06.252
+<v Tutor>Neuron-specific enolase above 60 micrograms per litre at 48 hours, 72 hours, or both.
+
+141
+00:11:06.252 --> 00:11:07.041
+<v Tutor>Five.
+
+142
+00:11:07.041 --> 00:11:09.526
+<v Tutor>Status myoclonus within 72 hours.
+
+143
+00:11:09.526 --> 00:11:10.254
+<v Tutor>Six.
+
+144
+00:11:10.254 --> 00:11:13.710
+<v Tutor>Diffuse and extensive anoxic injury on CT or MRI.
+
+145
+00:11:13.710 --> 00:11:16.377
+<v Tutor>And if the picture is indeterminate?
+
+146
+00:11:16.377 --> 00:11:18.317
+<v Tutor>Then you keep observing.
+
+147
+00:11:18.317 --> 00:11:29.048
+<v Tutor>The Neurocritical Care Society guideline explicitly supports an extended period of observation for awakening when prognosis is uncertain, if that fits the goals of care.
+
+148
+00:11:29.048 --> 00:11:36.020
+<v Tutor>Some of these patients wake up late, particularly older patients and those who had a lot of sedative drugs.
+
+149
+00:11:36.420 --> 00:11:42.203
+<v Tutor>Now let's go test by test, with the limitation for each, because that's where the marks are.
+
+150
+00:11:42.203 --> 00:11:44.227
+<v Tutor>Clinical examination first.
+
+151
+00:11:44.227 --> 00:11:48.160
+<v Tutor>The pupillary light reflex is the most robust clinical sign.
+
+152
+00:11:48.160 --> 00:11:54.232
+<v Tutor>Use automated pupillometry if you have it, because it's quantitative and less observer-dependent.
+
+153
+00:11:54.232 --> 00:11:59.437
+<v Tutor>Bilaterally absent pupillary reflexes at 72 hours carry a low false-positive rate.
+
+154
+00:11:59.437 --> 00:12:04.410
+<v Tutor>The corneal reflex is more vulnerable to sedatives and neuromuscular blockade.
+
+155
+00:12:04.410 --> 00:12:06.665
+<v Tutor>The motor response is the trap.
+
+156
+00:12:06.665 --> 00:12:12.911
+<v Tutor>A motor score of three or less, extension or no response, has a high false-positive rate on its own.
+
+157
+00:12:12.911 --> 00:12:16.381
+<v Tutor>That's why it's an entry criterion, not a predictor.
+
+158
+00:12:16.381 --> 00:12:20.776
+<v Tutor>Use it to decide who needs further testing, never to decide outcome.
+
+159
+00:12:20.776 --> 00:12:22.453
+<v Tutor>Myoclonus needs care.
+
+160
+00:12:22.453 --> 00:12:35.985
+<v Tutor>Status myoclonus, meaning continuous, generalised myoclonus persisting for thirty minutes or more within the first 72 hours, is a poor sign, especially when the EEG shows a suppressed or burst-suppression background behind it.
+
+161
+00:12:35.985 --> 00:12:44.429
+<v Tutor>But don't confuse it with Lance-Adams syndrome, a chronic action myoclonus that appears as the patient wakes up, with preserved cognition.
+
+162
+00:12:44.429 --> 00:12:49.460
+<v Tutor>So the rule is: record an EEG during the myoclonus, and look at the background.
+
+163
+00:12:49.860 --> 00:12:52.029
+<v Tutor>Somatosensory evoked potentials.
+
+164
+00:12:52.029 --> 00:12:56.746
+<v Tutor>You stimulate the median nerve at the wrist and record over the sensory cortex.
+
+165
+00:12:56.746 --> 00:12:59.240
+<v Tutor>The N20 wave is the cortical response.
+
+166
+00:12:59.240 --> 00:13:08.350
+<v Tutor>If it's absent on both sides, at 24 hours or later, the false-positive rate for poor outcome is very low, and it's relatively resistant to sedation and cooling.
+
+167
+00:13:08.350 --> 00:13:11.224
+<v Tutor>That makes it the most specific test we have.
+
+168
+00:13:11.224 --> 00:13:12.525
+<v Tutor>The limitations.
+
+169
+00:13:12.525 --> 00:13:16.104
+<v Tutor>Its sensitivity is low, so a present N20 tells you little.
+
+170
+00:13:16.104 --> 00:13:23.478
+<v Tutor>It's vulnerable to muscle artefact and electrical noise in the ICU, so you may need neuromuscular blockade to get a clean trace.
+
+171
+00:13:23.478 --> 00:13:28.900
+<v Tutor>It needs expertise to interpret, and it isn't available everywhere, especially out of hours.
+
+172
+00:13:29.300 --> 00:13:29.941
+<v Tutor>EEG.
+
+173
+00:13:29.941 --> 00:13:34.747
+<v Tutor>The highly malignant patterns are the suppressed background and burst suppression.
+
+174
+00:13:34.747 --> 00:13:41.637
+<v Tutor>A continuous, reactive background early on points the other way, towards good recovery, and that's a useful thing to say.
+
+175
+00:13:41.637 --> 00:13:46.978
+<v Tutor>Limitations: sedatives cause suppression, so you must read it in the context of drug levels.
+
+176
+00:13:46.978 --> 00:13:49.862
+<v Tutor>Definitions of reactivity aren't standardised.
+
+177
+00:13:49.862 --> 00:13:52.532
+<v Tutor>And interpretation varies between readers.
+
+178
+00:13:52.532 --> 00:13:55.095
+<v Tutor>Remember also the role beyond prognosis.
+
+179
+00:13:55.095 --> 00:13:58.460
+<v Tutor>EEG finds non-convulsive seizures, which are treatable.
+
+180
+00:13:58.860 --> 00:14:00.012
+<v Tutor>Biomarkers.
+
+181
+00:14:00.012 --> 00:14:03.952
+<v Tutor>Neuron-specific enolase is released from damaged neurons.
+
+182
+00:14:03.952 --> 00:14:12.074
+<v Tutor>Above 60 micrograms per litre at 48 or 72 hours predicts poor outcome, and a rising level between 24 and 72 hours adds weight.
+
+183
+00:14:12.074 --> 00:14:17.832
+<v Tutor>Older thresholds in your reading may differ, and there's no universally agreed cut-off.
+
+184
+00:14:17.832 --> 00:14:19.650
+<v Tutor>Third retrieval point.
+
+185
+00:14:19.650 --> 00:14:25.894
+<v Tutor>Neuron-specific enolase can be falsely high for reasons that have nothing to do with the brain.
+
+186
+00:14:25.894 --> 00:14:26.924
+<v Tutor>Give two.
+
+187
+00:14:26.924 --> 00:14:28.500
+<v Tutor>Pause, and answer.
+
+188
+00:14:33.900 --> 00:14:35.443
+<v Tutor>First, haemolysis.
+
+189
+00:14:35.443 --> 00:14:41.498
+<v Tutor>Red cells contain enolase, so a haemolysed sample, or haemolysis from ECMO, falsely raises it.
+
+190
+00:14:41.498 --> 00:14:45.594
+<v Tutor>Many labs report a haemolysis index, and you should check it.
+
+191
+00:14:45.594 --> 00:14:50.580
+<v Tutor>Second, neuroendocrine tumours and small cell lung cancer, which secrete it.
+
+192
+00:14:50.580 --> 00:14:59.365
+<v Tutor>So the limitation sentence is: it's a continuous variable without a universal threshold, and it's confounded by haemolysis and some tumours.
+
+193
+00:14:59.365 --> 00:15:07.260
+<v Tutor>S100B and neurofilament light chain are promising, but they're not in routine clinical use, so mention them only as emerging.
+
+194
+00:15:07.660 --> 00:15:08.514
+<v Tutor>Imaging.
+
+195
+00:15:08.514 --> 00:15:14.757
+<v Tutor>On CT, look for loss of grey-white matter differentiation and diffuse cerebral oedema with sulcal effacement.
+
+196
+00:15:14.757 --> 00:15:20.201
+<v Tutor>The grey-to-white matter density ratio can quantify this, but thresholds vary between centres.
+
+197
+00:15:20.201 --> 00:15:24.576
+<v Tutor>The best timing is after 24 to 48 hours, because early CT is often normal.
+
+198
+00:15:24.576 --> 00:15:27.832
+<v Tutor>And a normal early CT doesn't exclude a poor outcome.
+
+199
+00:15:27.832 --> 00:15:33.115
+<v Tutor>That's precisely what the 2024 second sitting question on early versus late CT was probing.
+
+200
+00:15:33.115 --> 00:15:37.384
+<v Tutor>An early CT is about finding the cause, like a subarachnoid haemorrhage.
+
+201
+00:15:37.384 --> 00:15:39.305
+<v Tutor>A late CT is about severity.
+
+202
+00:15:39.305 --> 00:15:40.906
+<v Tutor>MRI is more sensitive.
+
+203
+00:15:40.906 --> 00:15:46.776
+<v Tutor>Diffuse restricted diffusion in the cortex and deep grey matter, best seen between days two and seven.
+
+204
+00:15:46.776 --> 00:15:53.660
+<v Tutor>The limitations: transporting an unstable ventilated patient, variable quantitative thresholds, and limited availability.
+
+205
+00:15:54.060 --> 00:15:56.563
+<v Tutor>Here's a quick test on the imaging logic.
+
+206
+00:15:56.563 --> 00:15:58.810
+<v Tutor>A patient is twelve hours post ROSC.
+
+207
+00:15:58.810 --> 00:16:01.006
+<v Tutor>The CT brain is reported as normal.
+
+208
+00:16:01.006 --> 00:16:03.918
+<v Tutor>The registrar tells the family that's reassuring.
+
+209
+00:16:03.918 --> 00:16:06.012
+<v Tutor>What's wrong with that statement?
+
+210
+00:16:06.012 --> 00:16:07.340
+<v Tutor>Pause, and answer.
+
+211
+00:16:12.740 --> 00:16:21.640
+<v Tutor>Grey-white differentiation is often preserved in the first day, even in patients with devastating hypoxic injury, because the cytotoxic oedema hasn't declared itself yet.
+
+212
+00:16:21.640 --> 00:16:24.890
+<v Tutor>So an early normal CT has poor negative predictive value.
+
+213
+00:16:24.890 --> 00:16:26.640
+<v Tutor>It rules out a haemorrhage.
+
+214
+00:16:26.640 --> 00:16:29.090
+<v Tutor>It doesn't rule out hypoxic brain injury.
+
+215
+00:16:29.090 --> 00:16:35.540
+<v Tutor>The right message to the family is that the scan has excluded a bleed, and that it's too early to judge the brain injury.
+
+216
+00:16:35.940 --> 00:16:45.935
+<v Tutor>While we wait for 72 hours, the rest of the organ support matters, because the other three parts of the syndrome can kill the patient before the brain declares itself.
+
+217
+00:16:45.935 --> 00:16:46.963
+<v Tutor>The heart.
+
+218
+00:16:46.963 --> 00:16:52.217
+<v Tutor>Myocardial stunning after arrest is common and usually improves over 48 to 72 hours.
+
+219
+00:16:52.217 --> 00:16:53.702
+<v Tutor>Get an early echo.
+
+220
+00:16:53.702 --> 00:17:01.526
+<v Tutor>Look for a regional wall motion abnormality, right ventricular dilatation suggesting pulmonary embolism, and tamponade after CPR.
+
+221
+00:17:01.526 --> 00:17:08.151
+<v Tutor>If the patient is in cardiogenic shock, use fluids, then noradrenaline, then an inotrope such as dobutamine.
+
+222
+00:17:08.151 --> 00:17:11.749
+<v Tutor>Mechanical support is for selected patients after that.
+
+223
+00:17:11.749 --> 00:17:12.891
+<v Tutor>Ventilation.
+
+224
+00:17:12.891 --> 00:17:18.431
+<v Tutor>Lung-protective volumes, around 6 to 8 millilitres per kilogram of predicted body weight.
+
+225
+00:17:18.431 --> 00:17:23.571
+<v Tutor>Remember that aspiration pneumonia is common after arrest, so send cultures early.
+
+226
+00:17:23.571 --> 00:17:24.485
+<v Tutor>Glucose.
+
+227
+00:17:24.485 --> 00:17:27.398
+<v Tutor>Avoid both hypoglycaemia and tight control.
+
+228
+00:17:27.398 --> 00:17:32.423
+<v Tutor>A target of roughly 7.8 to 10 millimoles per litre is a sensible range to quote.
+
+229
+00:17:32.423 --> 00:17:33.394
+<v Tutor>Sedation.
+
+230
+00:17:33.394 --> 00:17:38.363
+<v Tutor>Use short-acting agents, because you'll need to clear them for prognostication.
+
+231
+00:17:38.363 --> 00:17:43.617
+<v Tutor>And treat shivering, which raises metabolic rate and fights your temperature device.
+
+232
+00:17:43.617 --> 00:17:49.100
+<v Tutor>And one distinction that cost candidates marks in 2023: this is not brain death testing.
+
+233
+00:17:49.280 --> 00:17:54.691
+<v Tutor>Brain death needs established preconditions, an observation period and absent brainstem function.
+
+234
+00:17:54.691 --> 00:18:00.462
+<v Tutor>Neuroprognostication is a probabilistic judgement in a patient who usually still has brainstem reflexes.
+
+235
+00:18:00.462 --> 00:18:06.440
+<v Tutor>If brainstem reflexes are lost and the patient progresses to brain death, that's a separate, formal process.
+
+236
+00:18:06.840 --> 00:18:12.246
+<v Tutor>Now confounders, because the examiners specifically want them under general principles.
+
+237
+00:18:12.246 --> 00:18:17.196
+<v Tutor>Sedatives and opioids, especially accumulated propofol, midazolam and fentanyl.
+
+238
+00:18:17.196 --> 00:18:24.081
+<v Tutor>Their clearance is slowed by hypothermia, and by renal and liver dysfunction, so wait longer after stopping them.
+
+239
+00:18:24.081 --> 00:18:27.666
+<v Tutor>Use short-acting agents from the start for that reason.
+
+240
+00:18:27.666 --> 00:18:29.430
+<v Tutor>Neuromuscular blockade.
+
+241
+00:18:29.430 --> 00:18:31.934
+<v Tutor>Check train-of-four before the exam.
+
+242
+00:18:31.934 --> 00:18:34.438
+<v Tutor>Hypothermia itself, and hypotension.
+
+243
+00:18:34.438 --> 00:18:40.412
+<v Tutor>Metabolic causes: hypoglycaemia, hyponatraemia, uraemia, hepatic encephalopathy, and hypercapnia.
+
+244
+00:18:40.412 --> 00:18:44.111
+<v Tutor>And non-convulsive seizures, or a new intracranial event.
+
+245
+00:18:44.111 --> 00:18:48.720
+<v Tutor>If any of these are present, the clock doesn't start until they're fixed.
+
+246
+00:18:49.120 --> 00:18:51.456
+<v Tutor>Finally, synthesis and communication.
+
+247
+00:18:51.456 --> 00:19:00.798
+<v Tutor>Most deaths in patients admitted comatose after out-of-hospital cardiac arrest follow withdrawal of life-sustaining therapy, based on a predicted poor neurological outcome.
+
+248
+00:19:00.798 --> 00:19:03.497
+<v Tutor>That's the self-fulfilling prophecy problem.
+
+249
+00:19:03.497 --> 00:19:07.026
+<v Tutor>Withdraw too early, and you'll never see the late awakeners.
+
+250
+00:19:07.026 --> 00:19:10.607
+<v Tutor>Your data then confirm that patients like this don't wake up.
+
+251
+00:19:10.607 --> 00:19:19.794
+<v Tutor>So the consultant answer says: prognosticate using at least two concordant predictors, at the right time, without confounders, by a senior clinician, documented clearly.
+
+252
+00:19:19.794 --> 00:19:23.842
+<v Tutor>Have early and honest conversations with the family about uncertainty.
+
+253
+00:19:23.842 --> 00:19:30.174
+<v Tutor>Consider organ donation pathways where appropriate, and refer to the donation service according to local practice.
+
+254
+00:19:30.174 --> 00:19:37.440
+<v Tutor>And plan follow-up for survivors, because cognitive and psychological problems after cardiac arrest are common and under-recognised.
+
+255
+00:19:37.840 --> 00:19:40.624
+<v Tutor>Here are your three numbers to remember.
+
+256
+00:19:40.624 --> 00:19:46.888
+<v Tutor>Seventy-two hours: the earliest point for the prognostication algorithm, after confounders are gone.
+
+257
+00:19:46.888 --> 00:19:53.558
+<v Tutor>Sixty micrograms per litre: the neuron-specific enolase threshold at 48 or 72 hours, in the 2025 guideline.
+
+258
+00:19:53.558 --> 00:19:59.068
+<v Tutor>Thirty-seven point five degrees: the fever threshold to stay below, for 36 to 72 hours.
+
+259
+00:19:59.068 --> 00:20:00.286
+<v Tutor>And one rule.
+
+260
+00:20:00.286 --> 00:20:03.360
+<v Tutor>Two or more concordant predictors, never one.
+
+261
+00:20:04.760 --> 00:20:06.281
+<v Tutor>Now three trials.
+
+262
+00:20:06.281 --> 00:20:15.344
+<v Tutor>Each one answers a question an examiner could put to you: does cooling help, does adrenaline help, and how high should the blood pressure be.
+
+263
+00:20:15.344 --> 00:20:22.644
+<v Tutor>We'll start with HACA, the Hypothermia after Cardiac Arrest trial, published in the New England Journal in 2002.
+
+264
+00:20:22.644 --> 00:20:26.902
+<v Tutor>It's chapter fifty-eight of Landmark Studies in Critical Care.
+
+265
+00:20:26.902 --> 00:20:38.581
+<v Tutor>The population was tightly selected: adults aged 18 to 75, comatose after a witnessed out-of-hospital arrest with ventricular fibrillation, and return of circulation within 60 minutes.
+
+266
+00:20:38.581 --> 00:20:43.569
+<v Tutor>It was done in nine centres in five European countries, with 275 patients.
+
+267
+00:20:43.569 --> 00:20:54.518
+<v Tutor>The intervention was cooling to 32 to 34 degrees bladder temperature for 24 hours, mainly with an external forced-air device, then passive rewarming over about eight hours.
+
+268
+00:20:54.518 --> 00:21:00.176
+<v Tutor>The comparator was standard care with normothermia, which wasn't actively controlled.
+
+269
+00:21:00.176 --> 00:21:09.482
+<v Tutor>The primary outcome, a favourable neurological outcome at six months, meaning Cerebral Performance Category one or two, was 55 versus 39 percent.
+
+270
+00:21:09.482 --> 00:21:11.125
+<v Tutor>Relative risk 1.40.
+
+271
+00:21:11.125 --> 00:21:13.315
+<v Tutor>Number needed to treat, six.
+
+272
+00:21:13.315 --> 00:21:16.539
+<v Tutor>Six-month mortality was 41 versus 55 percent.
+
+273
+00:21:16.539 --> 00:21:21.040
+<v Tutor>On harm, complications were similar overall, 73 versus 70 percent.
+
+274
+00:21:21.220 --> 00:21:25.593
+<v Tutor>Pneumonia, sepsis and bleeding were numerically higher with cooling.
+
+275
+00:21:25.593 --> 00:21:27.205
+<v Tutor>The main criticisms.
+
+276
+00:21:27.205 --> 00:21:33.649
+<v Tutor>It stopped early because enrolment was slow and funding ran out, which tends to exaggerate effect sizes.
+
+277
+00:21:33.649 --> 00:21:38.886
+<v Tutor>It was open label for the treating team, though the outcome assessors were blinded.
+
+278
+00:21:38.886 --> 00:21:42.972
+<v Tutor>Cooling was slow, with a median of eight hours to reach target.
+
+279
+00:21:42.972 --> 00:21:48.381
+<v Tutor>And, most importantly, the control arm wasn't protocolised, so fever wasn't prevented.
+
+280
+00:21:48.381 --> 00:21:55.401
+<v Tutor>What it changed: with Bernard's trial in the same issue, it put therapeutic hypothermia into guidelines worldwide.
+
+281
+00:21:55.401 --> 00:21:57.933
+<v Tutor>Here's how to quote it in an answer.
+
+282
+00:21:57.933 --> 00:22:13.700
+<v Tutor>HACA in 2002 showed improved neurological outcome with 32 to 34 degrees for 24 hours after witnessed VF arrest, number needed to treat six, but its uncontrolled-fever control arm means the benefit is now attributed largely to fever avoidance, as TTM and TTM2 showed.
+
+283
+00:22:14.100 --> 00:22:18.597
+<v Tutor>Second, PARAMEDIC2, Perkins and colleagues, New England Journal, 2018.
+
+284
+00:22:18.597 --> 00:22:26.495
+<v Tutor>This is the trial behind chapter twenty-three of Controversies in Critical Care, on adrenaline and outcomes after cardiac arrest.
+
+285
+00:22:26.495 --> 00:22:29.723
+<v Tutor>Before I give you the result, try to predict it.
+
+286
+00:22:29.723 --> 00:22:32.663
+<v Tutor>Did adrenaline improve survival at 30 days?
+
+287
+00:22:32.663 --> 00:22:36.641
+<v Tutor>And did it improve survival with a good neurological outcome?
+
+288
+00:22:36.641 --> 00:22:38.140
+<v Tutor>Pause, and answer.
+
+289
+00:22:43.540 --> 00:22:45.242
+<v Tutor>Here's what happened.
+
+290
+00:22:45.242 --> 00:22:57.511
+<v Tutor>This was a blinded, placebo-controlled trial in UK ambulance services: 8,014 adults with out-of-hospital cardiac arrest, randomised to 1 milligram of adrenaline every 3 to 5 minutes, or saline placebo.
+
+291
+00:22:57.511 --> 00:23:01.796
+<v Tutor>The primary outcome, 30-day survival, was 3.2 versus 2.4 percent.
+
+292
+00:23:01.796 --> 00:23:03.733
+<v Tutor>Adjusted odds ratio 1.47.
+
+293
+00:23:03.733 --> 00:23:07.549
+<v Tutor>That's about eight extra survivors per thousand patients.
+
+294
+00:23:07.549 --> 00:23:17.528
+<v Tutor>But survival with a favourable neurological outcome, a modified Rankin score of three or less, at discharge, was 2.2 versus 1.9 percent, which wasn't significant.
+
+295
+00:23:17.528 --> 00:23:23.633
+<v Tutor>And there was a signal that more of the adrenaline survivors had severe neurological impairment.
+
+296
+00:23:23.633 --> 00:23:24.983
+<v Tutor>The criticisms.
+
+297
+00:23:24.983 --> 00:23:27.977
+<v Tutor>It wasn't powered for neurological outcome.
+
+298
+00:23:27.977 --> 00:23:32.966
+<v Tutor>Survival was lower than expected, so the power calculation had to be revised.
+
+299
+00:23:32.966 --> 00:23:37.956
+<v Tutor>About one in five patients in each arm was lost to follow-up at three months.
+
+300
+00:23:37.956 --> 00:23:43.709
+<v Tutor>It doesn't apply to in-hospital arrest, and post-arrest hospital care wasn't standardised.
+
+301
+00:23:43.709 --> 00:23:45.763
+<v Tutor>And the result was fragile.
+
+302
+00:23:45.763 --> 00:23:51.340
+<v Tutor>A handful of events in the other direction would have removed statistical significance.
+
+303
+00:23:51.520 --> 00:24:00.461
+<v Tutor>A Bayesian reanalysis gave only about a 37 percent probability that adrenaline improves survival by at least one percentage point in absolute terms.
+
+304
+00:24:00.461 --> 00:24:02.581
+<v Tutor>Why might adrenaline do this?
+
+305
+00:24:02.581 --> 00:24:06.994
+<v Tutor>It raises coronary perfusion pressure, which helps the heart restart.
+
+306
+00:24:06.994 --> 00:24:16.451
+<v Tutor>But its alpha-agonist effect constricts the cerebral microcirculation, and its beta effects raise myocardial oxygen demand and promote arrhythmia after ROSC.
+
+307
+00:24:16.451 --> 00:24:20.406
+<v Tutor>So you can restart more hearts while protecting fewer brains.
+
+308
+00:24:20.406 --> 00:24:23.271
+<v Tutor>That's the mechanism behind the trade-off.
+
+309
+00:24:23.271 --> 00:24:36.568
+<v Tutor>What it changed: adrenaline stayed in guidelines because it increases survival, but the debate is now about timing and dose, and the uncomfortable trade-off between more survivors and more survivors with severe brain injury.
+
+310
+00:24:36.568 --> 00:24:47.400
+<v Tutor>How to quote it: PARAMEDIC2 showed adrenaline improved 30-day survival, 3.2 versus 2.4 percent, without a significant improvement in survival with a favourable neurological outcome.
+
+311
+00:24:47.800 --> 00:24:52.097
+<v Tutor>Third, BOX, Kjaergaard and colleagues, New England Journal, 2022.
+
+312
+00:24:52.097 --> 00:24:56.629
+<v Tutor>It's the trial behind the blood pressure number in today's guideline.
+
+313
+00:24:56.629 --> 00:25:05.223
+<v Tutor>BOX was a double-blind, two-by-two factorial trial in Denmark: 789 comatose adults after out-of-hospital arrest of presumed cardiac cause.
+
+314
+00:25:05.223 --> 00:25:13.522
+<v Tutor>They were randomised to a mean arterial pressure target of 77 versus 63 millimetres of mercury, and separately to two oxygen targets.
+
+315
+00:25:13.522 --> 00:25:23.587
+<v Tutor>The blinding was clever: the arterial pressure monitors were modified to display a value offset by ten percent, so clinicians couldn't tell which arm they were in.
+
+316
+00:25:23.587 --> 00:25:30.650
+<v Tutor>The primary outcome, death or discharge with severe disability or coma within 90 days, was 34 versus 32 percent.
+
+317
+00:25:30.650 --> 00:25:33.181
+<v Tutor>Hazard ratio 1.08, not significant.
+
+318
+00:25:33.181 --> 00:25:36.360
+<v Tutor>Ninety-day mortality was 31 versus 29 percent.
+
+319
+00:25:36.360 --> 00:25:42.835
+<v Tutor>Median neuron-specific enolase at 48 hours was similar, and there was no difference in adverse events.
+
+320
+00:25:42.835 --> 00:25:46.660
+<v Tutor>The oxygen comparison in the same trial was also neutral.
+
+321
+00:25:46.660 --> 00:25:49.662
+<v Tutor>Why was a higher pressure expected to help?
+
+322
+00:25:49.662 --> 00:25:59.080
+<v Tutor>After arrest, cerebral autoregulation is often impaired, and the lower limit can be shifted upwards, particularly in patients with chronic hypertension.
+
+323
+00:25:59.260 --> 00:26:05.565
+<v Tutor>So the theory was that a higher pressure would push more blood through a brain that can't defend its own flow.
+
+324
+00:26:05.565 --> 00:26:08.558
+<v Tutor>BOX tested that, and on average, it didn't help.
+
+325
+00:26:08.558 --> 00:26:09.787
+<v Tutor>The criticisms.
+
+326
+00:26:09.787 --> 00:26:15.932
+<v Tutor>The population was mostly shockable rhythms in a high-performing system, with a high rate of bystander CPR.
+
+327
+00:26:15.932 --> 00:26:18.230
+<v Tutor>The pressure separation was modest.
+
+328
+00:26:18.230 --> 00:26:22.505
+<v Tutor>And it can't tell you about patients in cardiogenic shock who need more.
+
+329
+00:26:22.505 --> 00:26:29.986
+<v Tutor>What it changed: it supports the 2025 target of a mean arterial pressure above 60 to 65, with no proven benefit from pushing higher.
+
+330
+00:26:29.986 --> 00:26:40.780
+<v Tutor>How to quote it: BOX found no difference in death or severe disability between mean arterial pressure targets of 77 and 63 millimetres of mercury after cardiac arrest, supporting a target of 65.
+
+331
+00:26:42.180 --> 00:26:45.828
+<v Examiner>This is from the 2024 first sitting, question twenty-eight.
+
+332
+00:26:45.828 --> 00:26:46.808
+<v Examiner>Ten marks.
+
+333
+00:26:46.808 --> 00:26:48.387
+<v Examiner>I'll read it exactly.
+
+334
+00:26:48.387 --> 00:26:58.298
+<v Examiner>Discuss your approach to prognostication of neurological outcome in adult ICU patients after successful cardiovascular resuscitation following out of hospital cardiac arrest.
+
+335
+00:26:58.298 --> 00:27:01.619
+<v Examiner>Your answer should include the following headings: a.
+
+336
+00:27:01.619 --> 00:27:02.654
+<v Examiner>Guidelines.
+
+337
+00:27:02.654 --> 00:27:03.634
+<v Examiner>Two marks.
+
+338
+00:27:03.634 --> 00:27:04.178
+<v Examiner>b.
+
+339
+00:27:04.178 --> 00:27:06.683
+<v Examiner>General approach and clinical factors.
+
+340
+00:27:06.683 --> 00:27:07.772
+<v Examiner>Three marks.
+
+341
+00:27:07.772 --> 00:27:08.317
+<v Examiner>c.
+
+342
+00:27:08.317 --> 00:27:11.475
+<v Examiner>Investigations, and their role in prognostication.
+
+343
+00:27:11.475 --> 00:27:12.510
+<v Examiner>Five marks.
+
+344
+00:27:12.510 --> 00:27:14.089
+<v Examiner>You have ten minutes.
+
+345
+00:27:14.089 --> 00:27:15.940
+<v Examiner>Start with the guidelines.
+
+346
+00:27:16.440 --> 00:27:23.379
+<v Candidate>For guidelines, I'd use the European Resuscitation Council and ESICM post-resuscitation care guideline.
+
+347
+00:27:23.379 --> 00:27:27.630
+<v Candidate>They recommend a multimodal approach at 72 hours after ROSC.
+
+348
+00:27:27.630 --> 00:27:41.634
+<v Candidate>Poor outcome is likely if two or more predictors are present, such as absent pupillary and corneal reflexes, absent N20s, a malignant EEG, high neuron-specific enolase, status myoclonus, or diffuse injury on imaging.
+
+349
+00:27:41.634 --> 00:27:45.760
+<v Candidate>I'd also mention the Neurocritical Care Society guideline.
+
+350
+00:27:46.260 --> 00:27:49.540
+<v Examiner>Which edition, and what's the entry criterion?
+
+351
+00:27:50.040 --> 00:27:53.986
+<v Candidate>The 2025 edition, published last year in Resuscitation.
+
+352
+00:27:53.986 --> 00:28:02.127
+<v Candidate>Entry is a patient who isn't obeying commands, a motor score below six, at 72 hours or later, after excluding confounders.
+
+353
+00:28:02.127 --> 00:28:05.948
+<v Candidate>The 2021 version used a motor score of three or less.
+
+354
+00:28:05.948 --> 00:28:10.081
+<v Candidate>And the Neurocritical Care Society guideline is from 2023.
+
+355
+00:28:10.081 --> 00:28:16.720
+<v Candidate>It grades the pupillary reflex at 72 hours and bilaterally absent N20s as the reliable predictors.
+
+356
+00:28:17.220 --> 00:28:17.765
+<v Examiner>Good.
+
+357
+00:28:17.765 --> 00:28:19.567
+<v Examiner>That's where the second mark lives.
+
+358
+00:28:19.567 --> 00:28:22.332
+<v Examiner>Candidates who just say there are guidelines don't get it.
+
+359
+00:28:22.332 --> 00:28:23.380
+<v Examiner>General approach.
+
+360
+00:28:23.880 --> 00:28:27.502
+<v Candidate>The principles are: multimodal, never a single test.
+
+361
+00:28:27.502 --> 00:28:29.676
+<v Candidate>Timing at 72 hours or later.
+
+362
+00:28:29.676 --> 00:28:31.366
+<v Candidate>Exclude confounders.
+
+363
+00:28:31.366 --> 00:28:33.238
+<v Candidate>Repeat the examination.
+
+364
+00:28:33.238 --> 00:28:36.800
+<v Candidate>And assess with senior and multidisciplinary input.
+
+365
+00:28:36.800 --> 00:28:41.690
+<v Candidate>For clinical factors, I'd split them into arrest factors and examination.
+
+366
+00:28:41.690 --> 00:28:53.945
+<v Candidate>Arrest factors associated with a poor outcome are a non-shockable initial rhythm, an unwitnessed arrest, no bystander CPR, a long time to ROSC, say over twenty minutes, older age and comorbidity.
+
+367
+00:28:53.945 --> 00:28:57.447
+<v Candidate>But they shouldn't be used alone to prognosticate.
+
+368
+00:28:57.447 --> 00:29:02.941
+<v Candidate>On examination: the pupillary light reflex, ideally with quantitative pupillometry.
+
+369
+00:29:02.941 --> 00:29:04.571
+<v Candidate>The corneal reflex.
+
+370
+00:29:04.571 --> 00:29:11.151
+<v Candidate>The motor response, which has a high false-positive rate, so it's only a trigger for further testing.
+
+371
+00:29:11.151 --> 00:29:15.800
+<v Candidate>And myoclonus, where status myoclonus within 72 hours is a poor sign.
+
+372
+00:29:16.300 --> 00:29:17.834
+<v Examiner>You said exclude confounders.
+
+373
+00:29:17.834 --> 00:29:18.580
+<v Examiner>Name them.
+
+374
+00:29:19.080 --> 00:29:21.913
+<v Candidate>Sedation and neuromuscular blockade.
+
+375
+00:29:21.913 --> 00:29:23.201
+<v Candidate>Hypothermia.
+
+376
+00:29:23.201 --> 00:29:24.489
+<v Candidate>Hypotension.
+
+377
+00:29:24.489 --> 00:29:29.448
+<v Candidate>Metabolic derangements like hypoglycaemia, hyponatraemia and uraemia.
+
+378
+00:29:29.448 --> 00:29:30.800
+<v Candidate>And seizures.
+
+379
+00:29:31.300 --> 00:29:35.820
+<v Examiner>Why might sedation still be a confounder two days after you've stopped the propofol and fentanyl?
+
+380
+00:29:36.320 --> 00:29:45.232
+<v Candidate>Because hypothermia slows drug metabolism, and these patients often have shock liver and acute kidney injury, so the drugs and their metabolites accumulate.
+
+381
+00:29:45.232 --> 00:29:50.720
+<v Candidate>So I'd wait longer after stopping them, and check drug levels or train-of-four if I'm unsure.
+
+382
+00:29:51.220 --> 00:29:51.705
+<v Examiner>Good.
+
+383
+00:29:51.705 --> 00:29:53.382
+<v Examiner>You'd also lost a point on myoclonus.
+
+384
+00:29:53.382 --> 00:29:54.500
+<v Examiner>What's the trap there?
+
+385
+00:29:55.000 --> 00:29:55.800
+<v Candidate>Right.
+
+386
+00:29:55.800 --> 00:29:57.456
+<v Candidate>Lance-Adams syndrome.
+
+387
+00:29:57.456 --> 00:30:01.968
+<v Candidate>That's action myoclonus as the patient wakes, with preserved cognition.
+
+388
+00:30:01.968 --> 00:30:08.480
+<v Candidate>So I'd record an EEG during the myoclonus and look at the background, rather than assume it's a poor sign.
+
+389
+00:30:08.980 --> 00:30:10.296
+<v Examiner>Investigations.
+
+390
+00:30:10.296 --> 00:30:11.384
+<v Examiner>Five marks.
+
+391
+00:30:11.384 --> 00:30:16.020
+<v Examiner>For each, the examiners want the finding, the timing, and the limitation.
+
+392
+00:30:16.520 --> 00:30:22.540
+<v Candidate>I'd lay this out as a table: test, poor-outcome finding and timing, and limitation.
+
+393
+00:30:22.540 --> 00:30:23.467
+<v Candidate>SSEPs.
+
+394
+00:30:23.467 --> 00:30:26.973
+<v Candidate>Bilaterally absent N20s at 24 hours or later.
+
+395
+00:30:26.973 --> 00:30:32.795
+<v Candidate>Very low false-positive rate, and relatively unaffected by sedation and cooling.
+
+396
+00:30:32.795 --> 00:30:39.741
+<v Candidate>Limitations: low sensitivity, muscle artefact, and it needs expertise and isn't always available.
+
+397
+00:30:39.741 --> 00:30:40.535
+<v Candidate>EEG.
+
+398
+00:30:40.535 --> 00:30:49.400
+<v Candidate>A highly malignant pattern after 24 hours: a suppressed background, with or without periodic discharges, or burst suppression.
+
+399
+00:30:49.400 --> 00:30:53.701
+<v Candidate>A continuous reactive background suggests a good outcome.
+
+400
+00:30:53.701 --> 00:30:59.787
+<v Candidate>Limitations: sedatives suppress it, reactivity isn't standardised, and readers vary.
+
+401
+00:30:59.787 --> 00:31:02.963
+<v Candidate>It also detects non-convulsive seizures.
+
+402
+00:31:02.963 --> 00:31:05.080
+<v Candidate>Neuron-specific enolase.
+
+403
+00:31:05.080 --> 00:31:10.108
+<v Candidate>Above 60 micrograms per litre at 48 or 72 hours, and a rising trend.
+
+404
+00:31:10.108 --> 00:31:12.952
+<v Candidate>Limitation: no universal threshold.
+
+405
+00:31:12.952 --> 00:31:14.077
+<v Candidate>CT brain.
+
+406
+00:31:14.077 --> 00:31:19.965
+<v Candidate>Loss of grey-white differentiation and diffuse oedema, best after 24 to 48 hours.
+
+407
+00:31:19.965 --> 00:31:27.838
+<v Candidate>Early CT is often normal and doesn't exclude a poor outcome, but it finds causes like subarachnoid haemorrhage.
+
+408
+00:31:27.838 --> 00:31:28.632
+<v Candidate>MRI.
+
+409
+00:31:28.632 --> 00:31:34.454
+<v Candidate>Diffuse restricted diffusion, cortex and deep grey matter, at two to seven days.
+
+410
+00:31:34.454 --> 00:31:37.960
+<v Candidate>Limitations: transport risk and availability.
+
+411
+00:31:38.460 --> 00:31:39.779
+<v Examiner>Neuron-specific enolase.
+
+412
+00:31:39.779 --> 00:31:41.262
+<v Examiner>You've given one limitation.
+
+413
+00:31:41.262 --> 00:31:42.540
+<v Examiner>What else confounds it?
+
+414
+00:31:43.040 --> 00:31:44.154
+<v Candidate>Haemolysis.
+
+415
+00:31:44.154 --> 00:31:48.611
+<v Candidate>Red cells contain enolase, so a haemolysed sample or ECMO raises it.
+
+416
+00:31:48.611 --> 00:31:52.657
+<v Candidate>And neuroendocrine tumours, including small cell lung cancer.
+
+417
+00:31:52.657 --> 00:31:55.120
+<v Candidate>So I'd check the haemolysis index.
+
+418
+00:31:55.620 --> 00:32:00.900
+<v Examiner>And how do you put this together for the family on day three, if one test is poor and the rest are indeterminate?
+
+419
+00:32:01.400 --> 00:32:03.820
+<v Candidate>Then I wouldn't call it a poor prognosis.
+
+420
+00:32:03.820 --> 00:32:05.549
+<v Candidate>One predictor isn't enough.
+
+421
+00:32:05.549 --> 00:32:10.883
+<v Candidate>I'd continue support, repeat the assessment, and allow a longer period of observation for awakening.
+
+422
+00:32:10.883 --> 00:32:13.846
+<v Candidate>I'd be honest with the family about the uncertainty.
+
+423
+00:32:13.846 --> 00:32:18.637
+<v Candidate>If two or more concordant predictors develop, the consultant would discuss goals of care.
+
+424
+00:32:18.637 --> 00:32:22.440
+<v Candidate>That includes considering organ donation according to local practice.
+
+425
+00:32:22.940 --> 00:32:24.541
+<v Examiner>Let's apply it.
+
+426
+00:32:24.541 --> 00:32:27.186
+<v Examiner>Day four, 80 hours after ROSC.
+
+427
+00:32:27.186 --> 00:32:33.242
+<v Examiner>Sedation stopped 48 hours ago, temperature 37.2, sodium 139, creatinine normal.
+
+428
+00:32:33.242 --> 00:32:35.748
+<v Examiner>Motor response is extension.
+
+429
+00:32:35.748 --> 00:32:37.210
+<v Examiner>Pupils react.
+
+430
+00:32:37.210 --> 00:32:39.229
+<v Examiner>Corneals are present.
+
+431
+00:32:39.229 --> 00:32:42.152
+<v Examiner>SSEPs: N20s present on both sides.
+
+432
+00:32:42.152 --> 00:32:49.183
+<v Examiner>Neuron-specific enolase 38 micrograms per litre at 72 hours, with a mildly haemolysed sample.
+
+433
+00:32:49.183 --> 00:32:53.081
+<v Examiner>EEG: continuous background with some reactivity.
+
+434
+00:32:53.081 --> 00:32:55.100
+<v Examiner>What do you conclude?
+
+435
+00:32:55.600 --> 00:32:59.807
+<v Candidate>This patient doesn't meet the criteria for a likely poor outcome.
+
+436
+00:32:59.807 --> 00:33:07.012
+<v Candidate>He enters the algorithm because he isn't obeying commands at more than 72 hours with confounders reasonably excluded.
+
+437
+00:33:07.012 --> 00:33:09.951
+<v Candidate>But none of the six predictors are present.
+
+438
+00:33:09.951 --> 00:33:17.617
+<v Candidate>Brainstem reflexes are intact, N20s are present, the enolase is below 60, and the haemolysis would only push it up, not down.
+
+439
+00:33:17.617 --> 00:33:23.150
+<v Candidate>The EEG isn't malignant, and a continuous reactive background actually favours recovery.
+
+440
+00:33:23.150 --> 00:33:26.492
+<v Candidate>The extensor posture on its own isn't a predictor.
+
+441
+00:33:26.492 --> 00:33:30.930
+<v Candidate>So the prognosis is indeterminate, leaning towards possible recovery.
+
+442
+00:33:30.930 --> 00:33:40.440
+<v Candidate>I'd continue full support, consider an MRI between days two and seven, repeat the examination daily, and tell the family it's too early to conclude anything.
+
+443
+00:33:40.940 --> 00:33:41.687
+<v Examiner>Correct.
+
+444
+00:33:41.687 --> 00:33:47.660
+<v Examiner>The most dangerous answer here is to read extension at day four as a bad sign and start a conversation about withdrawal.
+
+445
+00:33:47.660 --> 00:33:50.180
+<v Examiner>That's the self-fulfilling prophecy in action.
+
+446
+00:33:50.580 --> 00:33:51.433
+<v Examiner>One more.
+
+447
+00:33:51.433 --> 00:33:57.909
+<v Examiner>The registrar asks whether to send the patient for a CT brain on the way back from the catheter laboratory, at six hours.
+
+448
+00:33:57.909 --> 00:34:00.620
+<v Examiner>What's the rationale, and what's the downside?
+
+449
+00:34:01.120 --> 00:34:14.239
+<v Candidate>The rationale for early CT is to find a cause or a complication: subarachnoid haemorrhage, an intracranial bleed after anticoagulation for the coronary procedure, or traumatic injury from a fall at the time of the arrest.
+
+450
+00:34:14.239 --> 00:34:19.395
+<v Candidate>Finding a subarachnoid haemorrhage changes management and prognosis straight away.
+
+451
+00:34:19.395 --> 00:34:27.015
+<v Candidate>A late CT, at 48 hours or more, is for the severity of hypoxic injury: loss of grey-white differentiation and diffuse oedema.
+
+452
+00:34:27.015 --> 00:34:34.004
+<v Candidate>The downside of an early CT is that it's often normal even with severe hypoxic injury, so it can falsely reassure.
+
+453
+00:34:34.004 --> 00:34:39.332
+<v Candidate>There's also transport risk in an unstable patient, and it can delay other treatment.
+
+454
+00:34:39.332 --> 00:34:52.680
+<v Candidate>So I'd do it early if there's a clinical reason to suspect an intracranial cause, like no clear cardiac cause or a headache before collapse, and route it on the way back from the catheter laboratory to save a second transfer.
+
+455
+00:34:53.180 --> 00:34:57.326
+<v Examiner>That's a reasonable answer to the 2024 second sitting question as well.
+
+456
+00:34:57.326 --> 00:35:06.509
+<v Examiner>Its examiner comments rewarded candidates who stayed in the clinical context of out-of-hospital arrest and talked about the implications of early versus late scanning.
+
+457
+00:35:06.509 --> 00:35:10.183
+<v Examiner>They didn't reward generic advantages and disadvantages of CT.
+
+458
+00:35:10.183 --> 00:35:11.180
+<v Examiner>Last probe.
+
+459
+00:35:11.180 --> 00:35:14.486
+<v Examiner>The family ask what the chances are if he does wake up.
+
+460
+00:35:14.486 --> 00:35:16.060
+<v Examiner>What do you tell them?
+
+461
+00:35:16.560 --> 00:35:22.235
+<v Candidate>That it depends a lot on the severity of the brain injury, which we'll know more about after 72 hours.
+
+462
+00:35:22.235 --> 00:35:29.046
+<v Candidate>Many survivors who wake up have a good functional outcome, but problems with memory, attention, fatigue and mood are common.
+
+463
+00:35:29.046 --> 00:35:31.626
+<v Candidate>So we'd plan follow-up and rehabilitation.
+
+464
+00:35:31.626 --> 00:35:34.360
+<v Candidate>I'd avoid giving a precise number on day one.
+
+465
+00:35:34.860 --> 00:35:37.663
+<v Examiner>Let me tell you where the marks came from.
+
+466
+00:35:37.663 --> 00:35:42.877
+<v Examiner>Guidelines: you named both, with years, the entry criterion and the two-or-more rule.
+
+467
+00:35:42.877 --> 00:35:47.193
+<v Examiner>Full marks once prompted, but you didn't give the year until I asked.
+
+468
+00:35:47.193 --> 00:35:53.304
+<v Examiner>The rubric rewards citing guidelines with specifics, so state the edition and year in the first line.
+
+469
+00:35:53.304 --> 00:35:56.275
+<v Examiner>General approach and clinical factors: solid.
+
+470
+00:35:56.275 --> 00:36:01.769
+<v Examiner>Multimodal, timing, confounders, and the motor score as a trigger rather than a predictor.
+
+471
+00:36:01.769 --> 00:36:09.337
+<v Examiner>You lost a little because the confounders came only when I asked, and the reason sedation lingers came only on a second prompt.
+
+472
+00:36:09.337 --> 00:36:12.196
+<v Examiner>On paper there's no examiner to prompt you.
+
+473
+00:36:12.196 --> 00:36:15.784
+<v Examiner>Write the confounders and why they persist, in one line.
+
+474
+00:36:15.784 --> 00:36:20.941
+<v Examiner>Investigations: the table structure was right, and you were strong on SSEPs and EEG.
+
+475
+00:36:20.941 --> 00:36:27.051
+<v Examiner>But you left the limitation off neuron-specific enolase and off the motor examination until prompted.
+
+476
+00:36:27.051 --> 00:36:31.088
+<v Examiner>That's the commonest way candidates lose marks on this question.
+
+477
+00:36:31.088 --> 00:36:37.366
+<v Examiner>The commentary on the 2023 version said neurophysiology and biomarkers were explored only superficially.
+
+478
+00:36:37.366 --> 00:36:42.580
+<v Examiner>On paper, as you first answered it, I'd put this at around six and a half out of ten.
+
+479
+00:36:42.760 --> 00:36:48.573
+<v Examiner>With the year, the confounders and the enolase limitations written down unprompted, it's an eight.
+
+480
+00:36:48.573 --> 00:36:54.497
+<v Examiner>The one fix: every test needs three things in the table, the finding, the timing and the limitation.
+
+481
+00:36:54.497 --> 00:36:56.800
+<v Examiner>Fill all three columns, every row.
+
+482
+00:36:57.700 --> 00:36:59.609
+<v Tutor>One last thing on this question.
+
+483
+00:36:59.609 --> 00:37:05.290
+<v Tutor>The 2023 version had a separate one-mark heading for biomarkers, and a two-and-a-half mark heading for imaging.
+
+484
+00:37:05.290 --> 00:37:09.395
+<v Tutor>When the College gives you headings with marks, spend your time in proportion.
+
+485
+00:37:09.395 --> 00:37:14.980
+<v Tutor>Two and a half marks is roughly two and a half minutes of writing, not a paragraph about brain death testing.
+
+486
+00:37:15.380 --> 00:37:17.866
+<v Tutor>Before the next episode, do one thing.
+
+487
+00:37:17.866 --> 00:37:24.080
+<v Tutor>From memory, write the neuroprognostication table: six rows, three columns, finding, timing and limitation.
+
+488
+00:37:24.080 --> 00:37:31.646
+<v Tutor>Then check it against chapter thirty of Oh's, the post-resuscitation care section, and make Fresh cards for any cell you left empty.
+
+489
+00:37:31.646 --> 00:37:33.213
+<v Tutor>That's the deep dive.
+
+490
+00:37:33.213 --> 00:37:34.780
+<v Tutor>Thanks for listening.
