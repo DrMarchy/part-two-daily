@@ -1,5 +1,248 @@
 [
  {
+  "date": "2026-11-21",
+  "title": "Spiral review: the leg raise and the right ventricle, the SMR, pyroglutamate, and myxoedema on amiodarone",
+  "description": "A spiral review that makes four recent topics harder: the CVP waveform and passive leg raise in right ventricular failure after cardiac surgery, the standardised mortality ratio in a cardiac surgical unit, pyroglutamic acidosis with a hidden euglycaemic ketoacidosis, and myxoedema coma on amiodarone with bradycardia and an effusion. Then a journal watch on intermittent versus continuous dialysis and MERCURI-2, and a round-up of renal malignancy, respiratory monitoring, major trauma, meningitis, intubation and chronic liver failure.",
+  "file": "episodes/2026-11-21.mp3",
+  "bytes": 11578317,
+  "seconds": 2894.2,
+  "vtt": "episodes/2026-11-21.vtt",
+  "page": "episodes/2026-11-21.html",
+  "notes": {
+   "resources": [
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 24: Haemodynamic monitoring, pp 697 to 745",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 10: Severity scoring and outcome prediction, pp 310 to 346",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 1: Design and organisation of intensive care units, pp 103 to 118 (quality and audit)",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 57: Acid-base disorders and hyperlactataemia, pp 2288 to 2319",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 70: Thyroid emergencies, pp 2773 to 2794",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 86: Implications of solid tumours for intensive care, pp 3208 to 3221",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 38: Respiratory monitoring, pp 1498 to 1551",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 77: Severe and multiple injuries, pp 2939 to 2959",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 63: Meningitis and encephalomyelitis, pp 2508 to 2537",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 44: Airway management and acute airway obstruction, pp 1802 to 1837",
+     "url": null
+    },
+    {
+     "group": "Oh's Intensive Care Manual",
+     "label": "Oh's 9e, ch 54: Hepatic failure, pp 2170 to 2223",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "American Thyroid Association: Guidelines for the treatment of hypothyroidism (Jonklaas et al. Thyroid 2014)",
+     "url": "https://doi.org/10.1089/thy.2014.0028"
+    },
+    {
+     "group": "Guidelines",
+     "label": "KDIGO Clinical Practice Guideline for Acute Kidney Injury 2012 (modality: CRRT suggested for haemodynamically unstable patients)",
+     "url": null
+    },
+    {
+     "group": "Guidelines",
+     "label": "European guideline on management of major bleeding and coagulopathy following trauma, 6th edition (Rossaint et al. Crit Care 2023)",
+     "url": "https://doi.org/10.1186/s13054-023-04327-7"
+    },
+    {
+     "group": "Guidelines",
+     "label": "ESCMID guideline: diagnosis and treatment of acute bacterial meningitis (van de Beek et al. Clin Microbiol Infect 2016)",
+     "url": "https://doi.org/10.1016/j.cmi.2016.01.007"
+    },
+    {
+     "group": "Guidelines",
+     "label": "Difficult Airway Society: Guidelines for the management of tracheal intubation in critically ill adults (Higgs et al. Br J Anaesth 2018)",
+     "url": "https://doi.org/10.1016/j.bja.2017.10.021"
+    },
+    {
+     "group": "Guidelines",
+     "label": "EASL Clinical Practice Guidelines on acute-on-chronic liver failure (Moreau et al. J Hepatol 2023)",
+     "url": "https://doi.org/10.1016/j.jhep.2023.04.021"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "DEVICE: Prekker et al. Video versus direct laryngoscopy for tracheal intubation of critically ill adults. NEJM 2023",
+     "url": "https://doi.org/10.1056/NEJMoa2301601"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "de Gans and van de Beek. Dexamethasone in adults with bacterial meningitis. NEJM 2002",
+     "url": "https://doi.org/10.1056/NEJMoa021334"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "Sort et al. Intravenous albumin in cirrhosis with spontaneous bacterial peritonitis. NEJM 1999",
+     "url": "https://doi.org/10.1056/NEJM199908053410603"
+    },
+    {
+     "group": "Landmark trials",
+     "label": "CONFIRM: Wong et al. Terlipressin plus albumin for type 1 hepatorenal syndrome. NEJM 2021",
+     "url": "https://doi.org/10.1056/NEJMoa2008290"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2014.2 Q23: Pyroglutamic acidosis (your marks 4.5 and 2)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2014-paper-2-saqs/question-23"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2014.1 Q30: Myxoedema coma due to amiodarone (your mark 6)",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2014-paper-1-saqs/question-301"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.1 Q21: CVP waveforms and the passive leg raise",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-1-saqs/question-21"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2026.1 Q3: The Standardised Mortality Ratio (SMR)",
+     "url": "https://cicm.org.au/common/Uploaded%20files/Assets/Training%20and%20Education/General%20and%20Paediatric%20Intensive%20Care/Assessments%20and%20Examination/Second%20Part%20Examination/2026/Morning%20Paper%20-%202026.1%20Second%20Part%20Written%20Examination.pdf"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2015.2 Q24: The Standardised Mortality Ratio (SMR) with a funnel plot",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2015-paper-2-saqs/question-24"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2021.2 Q11: Euglycaemic ketoacidosis and pyroglutamic acidosis",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2021-paper-2-saqs/question-111"
+    },
+    {
+     "group": "Past College questions",
+     "label": "2024.1 Q16: Myxoedema coma",
+     "url": "https://derangedphysiology.com/main/cicm-fellowship-exam/past-papers/2024-paper-1-saqs/question-16"
+    },
+    {
+     "group": "Journal watch",
+     "label": "The Bottom Line: Intermittent or continuous renal-replacement therapy in acute kidney injury",
+     "url": "https://www.thebottomline.org.uk/summaries/icm/intermittent-or-continuous-renal-replacement-therapy-in-acute-kidney-injury/"
+    },
+    {
+     "group": "Journal watch",
+     "label": "Gaudry et al. Intermittent or continuous renal-replacement therapy in acute kidney injury. NEJM 2026",
+     "url": "https://doi.org/10.1056/NEJMoa2608397"
+    },
+    {
+     "group": "Journal watch",
+     "label": "The Bottom Line: MERCURI-2, dapagliflozin and AKI post cardiac surgery",
+     "url": "https://www.thebottomline.org.uk/summaries/icm/mercuri-2-dapagliflozin-and-aki-post-cardiac-surgery/"
+    },
+    {
+     "group": "Journal watch",
+     "label": "MERCURI-2: Oosterom-Eijmael et al. Dapagliflozin and acute kidney injury following cardiac surgery. JAMA 2026",
+     "url": "https://doi.org/10.1001/jama.2026.9268"
+    },
+    {
+     "group": "Further reading",
+     "label": "Monnet et al. Passive leg raising for predicting fluid responsiveness: a systematic review and meta-analysis. Intensive Care Med 2016",
+     "url": "https://doi.org/10.1007/s00134-015-4134-1"
+    },
+    {
+     "group": "Further reading",
+     "label": "Desai et al. Scoring systems in the critically ill: uses, cautions, and future directions. BJA Education 2019",
+     "url": "https://doi.org/10.1016/j.bjae.2019.03.002"
+    },
+    {
+     "group": "Further reading",
+     "label": "Stewart et al. Pyroglutamate acidosis 2023: a review of 100 cases. Clinical Medicine 2024",
+     "url": "https://doi.org/10.1016/j.clinme.2024.100030"
+    },
+    {
+     "group": "Further reading",
+     "label": "Taylor et al. Joint consensus statement for management of myxoedema coma. European Thyroid Journal 2026",
+     "url": "https://doi.org/10.1530/ETJ-26-0044"
+    },
+    {
+     "group": "Further reading",
+     "label": "James Lind Library: Murray GR (1891), treatment of myxoedema by injections of sheep thyroid extract",
+     "url": "https://www.jameslindlibrary.org/murray-gr-1891/"
+    }
+   ],
+   "takeaways": [
+    "Pyroglutamic acidosis: anion gap 22 and delta ratio about 0.5 in 2014.2 Q23; it comes from glutathione depletion (sepsis, malnutrition, paracetamol) plus flucloxacillin blocking 5-oxoprolinase, so stop both drugs, give N-acetylcysteine and feed.",
+    "When ketones are present, subtract the measured anions from the rise in the gap: about 5 mmol/L left over means a second acid, and a urine dipstick misses beta-hydroxybutyrate.",
+    "Myxoedema coma: hydrocortisone 100 mg then 50 mg 6-hourly before thyroid hormone; IV levothyroxine 200 to 400 micrograms load (lower end if elderly or coronary disease); raise sodium no more than 8 to 10 mmol/L in 24 h.",
+    "Passive leg raise: a rise of 10% or more in stroke volume or cardiac output measured in real time; pooled sensitivity about 85% and specificity about 91% (Monnet 2016); pulse pressure alone is unreliable.",
+    "High SMR: observed over expected hospital deaths; investigate in four steps: is the signal real, is the data right, is it case mix or the model, is it care; then close the audit cycle.",
+    "Gaudry NEJM 2026: in ventilated or vasopressor-dependent AKI, MAKE90 78.1% with intermittent dialysis vs 71.6% with CRRT; non-inferiority not shown, mortality HR 1.30.",
+    "MERCURI-2: dapagliflozin cut KDIGO AKI after cardiac surgery from 52% to 28%, but only by urine output; creatinine-defined AKI 14% vs 15%.",
+    "Bacterial meningitis: dexamethasone 10 mg 6-hourly for 4 days with the first antibiotic; DEVICE: first-pass success 85.1% with video vs 70.8% with direct laryngoscopy."
+   ],
+   "chapters": [
+    {
+     "start": 0.0,
+     "title": "Introduction"
+    },
+    {
+     "start": 60.2,
+     "title": "Spiral review 1: the CVP waveform and the passive leg raise, with a failing right ventricle"
+    },
+    {
+     "start": 551.44,
+     "title": "Spiral review 2: the standardised mortality ratio, in a cardiac surgical unit"
+    },
+    {
+     "start": 960.02,
+     "title": "Spiral review 3: pyroglutamic acidosis, and the second acid in the same gas"
+    },
+    {
+     "start": 1405.6,
+     "title": "Spiral review 4: myxoedema coma on amiodarone, and the sheep that started endocrinology"
+    },
+    {
+     "start": 1854.2,
+     "title": "Journal watch: intermittent versus continuous dialysis, and MERCURI-2"
+    },
+    {
+     "start": 2145.2,
+     "title": "Syllabus round-up"
+    },
+    {
+     "start": 2867.14,
+     "title": "Close"
+    }
+   ]
+  }
+ },
+ {
   "date": "2026-11-18",
   "title": "Deep dive: will he wake up? Neuroprognostication after cardiac arrest",
   "description": "A consultant-level deep dive on post cardiac arrest care and neuroprognostication: the post cardiac arrest syndrome, the 2025 ERC-ESICM guideline, every prognostic test and its limitation, and how fever prevention replaced hypothermia. Trials: HACA, PARAMEDIC2 and BOX, then exam practice on the 2024.1 Question 28.",
